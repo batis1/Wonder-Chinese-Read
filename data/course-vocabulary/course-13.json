@@ -1,0 +1,344 @@
+{
+  "id": "course-13",
+  "sourcePages": [
+    117,
+    118,
+    119
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "锯",
+      "display": "锯（子）",
+      "page": 117,
+      "starred": true,
+      "pinyin": "jù",
+      "meaning": "a saw (CL:把[ba3]); to saw",
+      "level": null
+    },
+    {
+      "number": 2,
+      "text": "筐",
+      "page": 117,
+      "starred": true,
+      "pinyin": "kuāng",
+      "meaning": "basket",
+      "level": 7
+    },
+    {
+      "number": 3,
+      "text": "训练",
+      "page": 117,
+      "starred": false,
+      "pinyin": "xùn liàn",
+      "meaning": "to train; to drill; training",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "缺乏",
+      "page": 117,
+      "starred": false,
+      "pinyin": "quē fá",
+      "meaning": "to lack; to be short of",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "项目",
+      "page": 117,
+      "starred": false,
+      "pinyin": "xiàng mù",
+      "meaning": "item; project; (sports) event",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "桃",
+      "page": 117,
+      "starred": false,
+      "pinyin": "táo",
+      "meaning": "peach",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "装",
+      "page": 117,
+      "starred": false,
+      "pinyin": "zhuāng",
+      "meaning": "adornment; to adorn; dress",
+      "level": 4
+    },
+    {
+      "number": 8,
+      "text": "启发",
+      "page": 117,
+      "starred": false,
+      "pinyin": "qǐ fā",
+      "meaning": "to enlighten; to explain (a text etc); to stimulate (a mental attitude)",
+      "level": 6
+    },
+    {
+      "number": 9,
+      "text": "安装",
+      "page": 117,
+      "starred": false,
+      "pinyin": "ān zhuāng",
+      "meaning": "to install; to erect; to fix",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "栏杆",
+      "page": 118,
+      "starred": false,
+      "pinyin": "lán gān",
+      "meaning": "railing; banister",
+      "level": 7
+    },
+    {
+      "number": 11,
+      "text": "甲",
+      "page": 118,
+      "starred": false,
+      "pinyin": "jiǎ",
+      "meaning": "first of the ten Heavenly Stems 十天干[shi2 tian1 gan1]; (used for an unspecified person or thing); first (in a list, as a party to a contract etc)",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "乙",
+      "page": 118,
+      "starred": false,
+      "pinyin": "yǐ",
+      "meaning": "second of the ten Heavenly Stems 十天干[shi2 tian1 gan1]; second in order; letter \"B\" or Roman \"II\" in list \"A, B, C\", or \"I, II, III\" etc",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "工具",
+      "page": 118,
+      "starred": false,
+      "pinyin": "gōng jù",
+      "meaning": "tool; instrument; utensil",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "投篮",
+      "page": 118,
+      "starred": false,
+      "pinyin": "tóu lán",
+      "meaning": "(basketball) to shoot for the basket",
+      "level": null
+    },
+    {
+      "number": 15,
+      "text": "踩",
+      "page": 118,
+      "starred": false,
+      "pinyin": "cǎi",
+      "meaning": "to step on; to tread; to stamp",
+      "level": 6
+    },
+    {
+      "number": 16,
+      "text": "一再",
+      "page": 118,
+      "starred": false,
+      "pinyin": "yī zài",
+      "meaning": "repeatedly",
+      "level": 6
+    },
+    {
+      "number": 17,
+      "text": "重复",
+      "page": 118,
+      "starred": false,
+      "pinyin": "chóng fù",
+      "meaning": "to repeat; to duplicate",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "断断续续",
+      "page": 118,
+      "starred": false,
+      "pinyin": "duàn duàn xù xù",
+      "meaning": "intermittent; off and on; discontinuous",
+      "level": 7
+    },
+    {
+      "number": 19,
+      "text": "激烈",
+      "page": 118,
+      "starred": false,
+      "pinyin": "jī liè",
+      "meaning": "(of competition or fighting) intense; fierce; (of pain) acute",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "气氛",
+      "page": 118,
+      "starred": false,
+      "pinyin": "qì fēn",
+      "meaning": "atmosphere; mood",
+      "level": 6
+    },
+    {
+      "number": 21,
+      "text": "何况",
+      "page": 118,
+      "starred": false,
+      "pinyin": "hé kuàng",
+      "meaning": "let alone; to say nothing of; besides",
+      "level": 7
+    },
+    {
+      "number": 22,
+      "text": "球迷",
+      "page": 118,
+      "starred": false,
+      "pinyin": "qiú mí",
+      "meaning": "fan (ball sports)",
+      "level": 4
+    },
+    {
+      "number": 23,
+      "text": "工程师",
+      "page": 118,
+      "starred": false,
+      "pinyin": "gōng chéng shī",
+      "meaning": "engineer",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "机器",
+      "page": 118,
+      "starred": false,
+      "pinyin": "jī qì",
+      "meaning": "machine",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "顺畅",
+      "page": 118,
+      "starred": false,
+      "pinyin": "shùn chàng",
+      "meaning": "smooth and unhindered; fluent",
+      "level": 7
+    },
+    {
+      "number": 26,
+      "text": "幼儿园",
+      "page": 118,
+      "starred": false,
+      "pinyin": "yòu ér yuán",
+      "meaning": "kindergarten; nursery school",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "好奇",
+      "page": 118,
+      "starred": false,
+      "pinyin": "hào qí",
+      "meaning": "inquisitive; curious; inquisitiveness",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "何必",
+      "page": 118,
+      "starred": false,
+      "pinyin": "hé bì",
+      "meaning": "there is no need; why should",
+      "level": 7
+    },
+    {
+      "number": 29,
+      "text": "多亏",
+      "page": 118,
+      "starred": false,
+      "pinyin": "duō kuī",
+      "meaning": "thanks to; luckily",
+      "level": 6
+    },
+    {
+      "number": 30,
+      "text": "连忙",
+      "page": 118,
+      "starred": false,
+      "pinyin": "lián máng",
+      "meaning": "promptly; at once",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "瞧",
+      "page": 118,
+      "starred": false,
+      "pinyin": "qiáo",
+      "meaning": "to look at; to see; to see (a doctor)",
+      "level": 6
+    },
+    {
+      "number": 32,
+      "text": "困扰",
+      "page": 118,
+      "starred": false,
+      "pinyin": "kùn rǎo",
+      "meaning": "to perplex; to disturb; to cause complications",
+      "level": 6
+    },
+    {
+      "number": 33,
+      "text": "思维",
+      "page": 119,
+      "starred": true,
+      "pinyin": "sī wéi",
+      "meaning": "(line of) thought; thinking",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "呆",
+      "page": 119,
+      "starred": false,
+      "pinyin": "dāi",
+      "meaning": "foolish; stupid; expressionless; blank; foolish; stupid (variant of 呆[dai1])",
+      "level": 6
+    },
+    {
+      "number": 35,
+      "text": "造成",
+      "page": 119,
+      "starred": false,
+      "pinyin": "zào chéng",
+      "meaning": "to bring about; to create; to cause",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "仿佛",
+      "page": 119,
+      "starred": false,
+      "pinyin": "fǎng fú",
+      "meaning": "to seem; as if; seemingly; alike; similar",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "阻碍",
+      "page": 119,
+      "starred": true,
+      "pinyin": "zǔ ài",
+      "meaning": "to obstruct; to hinder; to block",
+      "level": 6
+    }
+  ]
+}

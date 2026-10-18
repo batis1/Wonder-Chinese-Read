@@ -1,0 +1,296 @@
+{
+  "id": "course-07",
+  "sourcePages": [
+    68,
+    69,
+    70,
+    71,
+    72
+  ],
+  "points": [
+    {
+      "point": "瞎",
+      "kind": "usage",
+      "pages": [
+        68,
+        69
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“瞎”，动词，意思是“眼睛看不见”。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "聪明人用双手挡住了马的双眼，对那个人说：“要是这马真是你的，你一定知道马的哪只眼睛是瞎的。”"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "一天，他让士兵们去找一头大象和一些出生时眼睛就瞎了的人回来。"
+        },
+        {
+          "type": "explanation",
+          "text": "“瞎”，也可以做副词，表示没有理由、没有根据或没有效果地做某事。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "别听他瞎说，不用害怕。我们不会这么倒霉的。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "他自己的问题，他会想办法的，你就别替他瞎担心了。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "_____ '但她的脸上总是有美丽的微笑。 (瞎)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: 刚才的考试你考得怎么样?我有好几个题不会做。\nB: _____ (瞎)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "你少跟他打交道, _____ (瞎)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "分别",
+      "kind": "usage",
+      "pages": [
+        69
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“分别”，动词，意思是“离别”。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "分别是暂时的，我们以后一定会再见。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "从毕业到现在，我们已经分别20年了，一直都没有联系。"
+        },
+        {
+          "type": "explanation",
+          "text": "“分别”，也可以做副词，表示分头、各自。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "我分别找两个人打听了这件事，他们的说法都是一样的。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "士兵们分别去不同地方寻找，把找到的大象和盲人带到他面前。"
+        },
+        {
+          "type": "explanation",
+          "text": "“分别”做副词时也表示细数每一个。例如："
+        },
+        {
+          "type": "example",
+          "number": 5,
+          "text": "一张桌子上放着三瓶饮料，分别是茶、可乐和咖啡。"
+        },
+        {
+          "type": "example",
+          "number": 6,
+          "text": "谈到对目前工作最不满意的地方，39.1% 的被调查者认为休息时间太少，发展慢、工资太低分别占20.3%和20%。"
+        },
+        {
+          "type": "explanation",
+          "text": "“分别”还可以做名词，意思是“区别” “不同的地方”。例如："
+        },
+        {
+          "type": "example",
+          "number": 7,
+          "text": "我不知道这两种做法有什么分别。"
+        },
+        {
+          "type": "example",
+          "number": 8,
+          "text": "这两张照片的分别是一眼就看得出来的。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "时间过得真快, _____ (分别—动词)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: 快放寒假了,你们假期有什么打算?\nB: _____ (分别-副词)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 我们有三年没见面了吧?\nB: _____ (分别-名词)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "根",
+      "kind": "usage",
+      "pages": [
+        70
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“根”，名词，意思是“植物在土里向下生长的部分”。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "这棵树的根又粗又长。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "这种植物的根下雨时会大量吸水，从而满足自身的需要。"
+        },
+        {
+          "type": "explanation",
+          "text": "“根”做名词时也表示事物的基础。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "你这颗牙连牙根都坏了，平时难道不疼吗？"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "这件事还是得从根上解决，只解决表面问题是不行的。"
+        },
+        {
+          "type": "explanation",
+          "text": "“根”，也可以做量词，常用于细长的东西。例如："
+        },
+        {
+          "type": "example",
+          "number": 5,
+          "text": "摸到尾巴的盲人说大象像一根绳子。"
+        },
+        {
+          "type": "example",
+          "number": 6,
+          "text": "可是，这次他连续换了几根箭，都没能再射进去，"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "植物靠 _____ (根-名词)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "第一次用筷子的时候, _____ (根-量词)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 你今天去超市主要想买什么?\nB: _____ (根—量词)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "便",
+      "kind": "usage",
+      "pages": [
+        70
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“便”，副词，意思是 “就”，常用于书面语。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "楼上新买了一架钢琴，我们家便多了一些不安静。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "很多时候，仅仅是换一种心情，换一个角度，便可以从困境中走出来。"
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "“精诚所至，金石为开”这一成语也便由此流传下来。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "他刚出门,发现没带钥匙,就转身回去拿。他刚出门,发现没带钥匙, _____ (便)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "朋友不停地给她介绍男朋友,但是每次不是她不喜欢别人,就是别人不喜欢她。朋友不停地给她介绍男朋友,但是每次(便)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "如果我们坚持原来的想法,这个工作是不可能完成的。如果我们坚持原未的想法, _____ (便)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "忽然 / 突然",
+      "kind": "comparison",
+      "pages": [
+        71,
+        72
+      ],
+      "common": [
+        "都可用在动词前，表示很快发生、没想到的意思。",
+        "如：我们正在上课，他忽然/突然站了起来。"
+      ],
+      "terms": [
+        {
+          "word": "忽然",
+          "paragraphs": [
+            "是副词，只能用在动词或小句前，可以替换成“突然”。",
+            "如：一天傍晚，他正带着士兵们在山中打猎，忽然发现远处的草丛中蹲着一只大老虎。"
+          ]
+        },
+        {
+          "word": "突然",
+          "paragraphs": [
+            "既是副词，也是形容词，可做谓语、补语、定语。",
+            "如：这件事太突然了！（谓语）",
+            "如：这件事发生得太突然了！（补语）",
+            "如：这突然的一声喊叫吓了我一跳。（定语）"
+          ]
+        }
+      ]
+    }
+  ]
+}

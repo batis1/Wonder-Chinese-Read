@@ -1,0 +1,352 @@
+{
+  "id": "course-01",
+  "sourcePages": [
+    15,
+    16,
+    17
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "细节",
+      "page": 15,
+      "starred": false,
+      "pinyin": "xì jié",
+      "meaning": "details; particulars",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "电台",
+      "page": 15,
+      "starred": false,
+      "pinyin": "diàn tái",
+      "meaning": "transmitter-receiver; broadcasting station; radio station",
+      "level": 7
+    },
+    {
+      "number": 3,
+      "text": "恩爱",
+      "page": 15,
+      "starred": false,
+      "pinyin": "ēn ài",
+      "meaning": "loving affection (in a couple); conjugal love",
+      "level": 7
+    },
+    {
+      "number": 4,
+      "text": "对比",
+      "page": 15,
+      "starred": false,
+      "pinyin": "duì bǐ",
+      "meaning": "to contrast; contrast; ratio",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "入围",
+      "page": 15,
+      "starred": true,
+      "pinyin": "rù wéi",
+      "meaning": "to get past the qualifying round; to make it to the finals",
+      "level": null
+    },
+    {
+      "number": 6,
+      "text": "评委",
+      "page": 15,
+      "starred": true,
+      "pinyin": "píng wěi",
+      "meaning": "evaluation committee; judging panel; judging panel member; adjudicator (abbr. for 評選委員會委員|评选委员会委员[ping2 xuan3 wei3 yuan2 hui4 wei3 yuan2])",
+      "level": 7
+    },
+    {
+      "number": 7,
+      "text": "如何",
+      "page": 15,
+      "starred": false,
+      "pinyin": "rú hé",
+      "meaning": "how; what way; what",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "瘫痪",
+      "page": 15,
+      "starred": true,
+      "pinyin": "tān huàn",
+      "meaning": "(medicine) to suffer paralysis; (fig.) to be paralyzed; to break down; to come to a standstill",
+      "level": 7
+    },
+    {
+      "number": 9,
+      "text": "离婚",
+      "page": 15,
+      "starred": false,
+      "pinyin": "lí hūn",
+      "meaning": "to divorce",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "自杀",
+      "page": 15,
+      "starred": false,
+      "pinyin": "zì shā",
+      "meaning": "to kill oneself; to commit suicide; to attempt suicide",
+      "level": 6
+    },
+    {
+      "number": 11,
+      "text": "抱怨",
+      "page": 16,
+      "starred": false,
+      "pinyin": "bào yuàn",
+      "meaning": "to complain; to grumble; to harbor a complaint",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "爱护",
+      "page": 16,
+      "starred": false,
+      "pinyin": "ài hù",
+      "meaning": "to cherish; to treasure; to take care of",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "婚姻",
+      "page": 16,
+      "starred": false,
+      "pinyin": "hūn yīn",
+      "meaning": "marriage; matrimony",
+      "level": 6
+    },
+    {
+      "number": 14,
+      "text": "吵架",
+      "page": 16,
+      "starred": false,
+      "pinyin": "chǎo jià",
+      "meaning": "to quarrel; to have a row; quarrel",
+      "level": 6
+    },
+    {
+      "number": 15,
+      "text": "相敬如宾",
+      "page": 16,
+      "starred": false,
+      "pinyin": "xiāng jìng rú bīn",
+      "meaning": "to treat each other as an honored guest (idiom); mutual respect between husband and wife",
+      "level": null
+    },
+    {
+      "number": 16,
+      "text": "暗暗",
+      "page": 16,
+      "starred": false,
+      "pinyin": "àn àn",
+      "meaning": "secretly; inwardly",
+      "level": null
+    },
+    {
+      "number": 17,
+      "text": "轮",
+      "page": 16,
+      "starred": false,
+      "meaning": "to take turns",
+      "pinyin": "lún",
+      "level": 6
+    },
+    {
+      "number": 18,
+      "text": "不耐烦",
+      "page": 16,
+      "starred": false,
+      "pinyin": "bù nài fán",
+      "meaning": "impatient; to lose patience",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "靠",
+      "page": 16,
+      "starred": false,
+      "pinyin": "kào",
+      "meaning": "to lean against or on; to stand by the side of; to come near to",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "肩膀",
+      "page": 16,
+      "starred": false,
+      "pinyin": "jiān bǎng",
+      "meaning": "shoulder",
+      "level": 6
+    },
+    {
+      "number": 21,
+      "text": "喊",
+      "page": 16,
+      "starred": false,
+      "pinyin": "hǎn",
+      "meaning": "to yell; to shout; to call out for (a person)",
+      "level": 4
+    },
+    {
+      "number": 22,
+      "text": "伸",
+      "page": 16,
+      "starred": false,
+      "pinyin": "shēn",
+      "meaning": "to stretch; to extend",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "手指",
+      "page": 16,
+      "starred": false,
+      "pinyin": "shǒu zhǐ",
+      "meaning": "finger",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "歪歪扭扭",
+      "page": 16,
+      "starred": false,
+      "pinyin": "wāi wāi niǔ niǔ",
+      "meaning": "crooked; askew",
+      "level": null
+    },
+    {
+      "number": 25,
+      "text": "递",
+      "page": 16,
+      "starred": false,
+      "pinyin": "dì",
+      "meaning": "to hand over; to pass on; to deliver; (bound form) progressively; in the proper order",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "脑袋",
+      "page": 16,
+      "starred": false,
+      "pinyin": "nǎo dài",
+      "meaning": "head; skull; brains",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "女士",
+      "page": 16,
+      "starred": false,
+      "pinyin": "nǚ shì",
+      "meaning": "lady; madam; Miss",
+      "level": 1
+    },
+    {
+      "number": 28,
+      "text": "叙述",
+      "page": 16,
+      "starred": false,
+      "pinyin": "xù shù",
+      "meaning": "to relate (a story or information); to tell or talk about; to recount",
+      "level": 6
+    },
+    {
+      "number": 29,
+      "text": "居然",
+      "page": 16,
+      "starred": false,
+      "pinyin": "jū rán",
+      "meaning": "unexpectedly; to one's surprise; go so far as to",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "催",
+      "page": 16,
+      "starred": false,
+      "pinyin": "cuī",
+      "meaning": "to urge; to press; to prompt",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "等待",
+      "page": 16,
+      "starred": false,
+      "pinyin": "děng dài",
+      "meaning": "to wait; to wait for",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "蚊子",
+      "page": 16,
+      "starred": true,
+      "pinyin": "wén zi",
+      "meaning": "mosquito",
+      "level": 7
+    },
+    {
+      "number": 33,
+      "text": "半夜",
+      "page": 16,
+      "starred": false,
+      "pinyin": "bàn yè",
+      "meaning": "midnight; in the middle of the night",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "叮",
+      "page": 16,
+      "starred": true,
+      "pinyin": "dīng",
+      "meaning": "to sting or bite (of mosquito, bee etc); to say repeatedly; to urge insistently",
+      "level": null
+    },
+    {
+      "number": 35,
+      "text": "老婆",
+      "page": 16,
+      "starred": false,
+      "pinyin": "lǎo pó",
+      "meaning": "(coll.) wife",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "吵",
+      "page": 16,
+      "starred": false,
+      "meaning": "to make a noise; noisy",
+      "pinyin": "chǎo",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "项",
+      "page": 17,
+      "starred": false,
+      "meaning": "a measure word for itemized things",
+      "pinyin": "xiàng",
+      "level": 4
+    },
+    {
+      "number": 38,
+      "text": "患难与共",
+      "page": 17,
+      "starred": false,
+      "meaning": "to share weal and woe; to stand together through hardship",
+      "pinyin": "huàn nàn yǔ gòng",
+      "level": null
+    }
+  ]
+}

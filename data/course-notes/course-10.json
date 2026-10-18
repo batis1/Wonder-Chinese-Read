@@ -1,0 +1,191 @@
+{
+  "id": "course-10",
+  "sourcePages": [
+    94,
+    95,
+    96,
+    97
+  ],
+  "points": [
+    {
+      "point": "毕竟",
+      "kind": "usage",
+      "pages": [
+        94,
+        95
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“毕竟”，副词，意思是“到底，终于”。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "虽然我们遇到了很多困难，但毕竟完成了任务。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "不过摄影师毕竟是摄影师，主意还是有的。"
+        },
+        {
+          "type": "explanation",
+          "text": "“毕竟”也用于指出最重要或正确的部分，常与表示“(不管怎样)结论就是这样”的句子一起使用。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "生活中总有无法解决的问题，毕竟不是所有的对错都能讲清楚，甚至可能根本就没有真正的对与错。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "他不高兴是正常的，毕竟没有人能在摔得头破血流的时候，还高兴得起来。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "你们毕竟是好朋友,"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: 这孩子真是太淘气了!我快被他烦死了!\nB: _____ (毕竟)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 他最近脾气真是太差了,一点儿小事就发火!\nB: _____ (毕竟)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "逐渐",
+      "kind": "usage",
+      "pages": [
+        95
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“逐渐”，副词，表示程度或数量一点点增加或减少。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "食物越来越少，老人不得不逐渐限制猴子的食量。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "这项运动首先在亚太地区流行，并逐渐受到世界各地人们的欢迎。"
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "经过艰苦的试验，电影拍摄技术逐渐改进、成熟。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "A: 刚来北京的时候,你习惯吗?\nB: _____ (逐渐)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "茶首先在中国出现, _____ (逐渐)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: _____ (逐渐)\nB: 我觉得你说得对,就这么办吧。"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "或许",
+      "kind": "usage",
+      "pages": [
+        95,
+        96
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“或许”，副词，意思是“也许，有可能”。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "虽然以前她不支持你，但或许这次会有变化。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "或许正是因为这一点一滴的努力，你就会走在别人的前面。"
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "留心生活的每一瞬间，并为之争论，适时请求帮助、认真研究，或许重大发现就在你的眼前。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "他的妻子前几年瘫痪了, _____ (或许)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: 你猜这场比赛的结果会怎么样?\nB: _____ (或许)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: _____ (或许)\nB: 希望是这样,那我们再等五分钟。"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "显示 / 显得",
+      "kind": "comparison",
+      "pages": [
+        96,
+        97
+      ],
+      "common": [
+        "都是动词，都有表现出、让人看出的意思，但一般不能换用。"
+      ],
+      "terms": [
+        {
+          "word": "显示",
+          "paragraphs": [
+            "1. 表现某种态度、能力或情况。",
+            "如：相片显示：马奔跑时始终有一蹄着地。",
+            "2. 后面可接名词或小句。",
+            "如：这次活动的组织显示出了他的才能。"
+          ]
+        },
+        {
+          "word": "显得",
+          "paragraphs": [
+            "1. 表现出某种特性。",
+            "如：几年不见，他显得成熟多了。",
+            "2. 后面常接形容词。",
+            "如：中秋节那天，月亮显得格外明亮。"
+          ]
+        }
+      ]
+    }
+  ]
+}

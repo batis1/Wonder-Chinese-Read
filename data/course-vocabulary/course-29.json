@@ -1,0 +1,334 @@
+{
+  "id": "course-29",
+  "sourcePages": [
+    97,
+    98,
+    99
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "培养",
+      "page": 97,
+      "starred": false,
+      "pinyin": "péi yǎng",
+      "meaning": "to cultivate; to breed; to foster",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "对手",
+      "page": 97,
+      "starred": false,
+      "pinyin": "duì shǒu",
+      "meaning": "opponent; rival; competitor",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "公寓",
+      "page": 97,
+      "starred": false,
+      "pinyin": "gōng yù",
+      "meaning": "apartment building; block of flats (may be a public housing block or a condominium etc) (CL:套[tao4])",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "文具",
+      "page": 97,
+      "starred": false,
+      "pinyin": "wén jù",
+      "meaning": "stationery; item of stationery (pen, pencil, eraser, pencil sharpener etc)",
+      "level": 6
+    },
+    {
+      "number": 5,
+      "text": "电池",
+      "page": 97,
+      "starred": false,
+      "pinyin": "diàn chí",
+      "meaning": "battery; electric cell",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "日用品",
+      "page": 97,
+      "starred": false,
+      "pinyin": "rì yòng pǐn",
+      "meaning": "articles for daily use",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "利润",
+      "page": 97,
+      "starred": false,
+      "pinyin": "lì rùn",
+      "meaning": "profits",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "诚信",
+      "page": 97,
+      "starred": false,
+      "pinyin": "chéng xìn",
+      "meaning": "honesty; trustworthiness; good faith",
+      "level": 6
+    },
+    {
+      "number": 9,
+      "text": "媒体",
+      "page": 97,
+      "starred": false,
+      "pinyin": "méi tǐ",
+      "meaning": "media, esp. news media",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "对象",
+      "page": 97,
+      "starred": false,
+      "pinyin": "duì xiàng",
+      "meaning": "target; object; partner; boyfriend; girlfriend",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "营业",
+      "page": 98,
+      "starred": false,
+      "pinyin": "yíng yè",
+      "meaning": "to do business; to trade",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "额",
+      "page": 98,
+      "starred": false,
+      "pinyin": "é",
+      "meaning": "forehead; horizontal tablet or inscribed board; specified number or amount",
+      "level": null
+    },
+    {
+      "number": 13,
+      "text": "不如",
+      "page": 98,
+      "starred": false,
+      "pinyin": "bù rú",
+      "meaning": "not equal to; not as good as; inferior to; it would be better to",
+      "level": 4
+    },
+    {
+      "number": 14,
+      "text": "干脆",
+      "page": 98,
+      "starred": false,
+      "pinyin": "gān cuì",
+      "meaning": "candid; direct and to the point; simply",
+      "level": 6
+    },
+    {
+      "number": 15,
+      "text": "挤",
+      "page": 98,
+      "starred": false,
+      "pinyin": "jǐ",
+      "meaning": "to crowd in; to cram in; to force others aside",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "垮",
+      "page": 98,
+      "starred": true,
+      "pinyin": "kuǎ",
+      "meaning": "to collapse (lit. or fig.)",
+      "level": 7
+    },
+    {
+      "number": 17,
+      "text": "垄断",
+      "page": 98,
+      "starred": false,
+      "pinyin": "lǒng duàn",
+      "meaning": "to monopolize",
+      "level": 7
+    },
+    {
+      "number": 18,
+      "text": "倒闭",
+      "page": 98,
+      "starred": false,
+      "pinyin": "dǎo bì",
+      "meaning": "to go bankrupt; to close down",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "热心",
+      "page": 98,
+      "starred": false,
+      "pinyin": "rè xīn",
+      "meaning": "enthusiastic; ardent; zealous",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "资金",
+      "page": 98,
+      "starred": false,
+      "pinyin": "zī jīn",
+      "meaning": "funds; capital",
+      "level": 5
+    },
+    {
+      "number": 21,
+      "text": "傻",
+      "page": 98,
+      "starred": false,
+      "pinyin": "shǎ",
+      "meaning": "foolish",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "倒霉",
+      "page": 98,
+      "starred": false,
+      "pinyin": "dǎo méi",
+      "meaning": "to have bad luck; to be out of luck",
+      "level": 7
+    },
+    {
+      "number": 23,
+      "text": "生态",
+      "page": 98,
+      "starred": false,
+      "pinyin": "shēng tài",
+      "meaning": "ecology (the study of interactions between organisms and their environment); ecological state (the condition or health of a natural environment); (fig.) ecosystem (a complex network, e.g. in tech, business or media, as in 數字生態|数字生态[shu4 zi4 sheng1 tai4] \"digital ecosystem\")",
+      "level": 6
+    },
+    {
+      "number": 24,
+      "text": "商业",
+      "page": 98,
+      "starred": false,
+      "pinyin": "shāng yè",
+      "meaning": "business; trade; commerce",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "领域",
+      "page": 98,
+      "starred": false,
+      "pinyin": "lǐng yù",
+      "meaning": "domain; sphere; field; territory; area",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "适当",
+      "page": 98,
+      "starred": false,
+      "pinyin": "shì dàng",
+      "meaning": "suitable; appropriate",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "促使",
+      "page": 98,
+      "starred": false,
+      "pinyin": "cù shǐ",
+      "meaning": "to prompt; to induce; to spur",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "生长",
+      "page": 98,
+      "starred": false,
+      "pinyin": "shēng zhǎng",
+      "meaning": "to grow; to grow up; to be brought up",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "妨碍",
+      "page": 98,
+      "starred": false,
+      "pinyin": "fáng ài",
+      "meaning": "to hinder; to obstruct",
+      "level": 6
+    },
+    {
+      "number": 30,
+      "text": "促进",
+      "page": 98,
+      "starred": false,
+      "pinyin": "cù jìn",
+      "meaning": "to promote (an idea or cause); to advance; boost",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "利益",
+      "page": 98,
+      "starred": false,
+      "pinyin": "lì yì",
+      "meaning": "benefit; (in sb's) interest",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "合理",
+      "page": 99,
+      "starred": false,
+      "pinyin": "hé lǐ",
+      "meaning": "rational; reasonable; sensible; fair",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "万一",
+      "page": 99,
+      "starred": false,
+      "pinyin": "wàn yī",
+      "meaning": "just in case; if by any chance; contingency",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "维持",
+      "page": 99,
+      "starred": true,
+      "pinyin": "wéi chí",
+      "meaning": "to keep; to maintain; to preserve",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "饱和",
+      "page": 99,
+      "starred": false,
+      "pinyin": "bǎo hé",
+      "meaning": "saturated; filled to capacity",
+      "level": 7
+    },
+    {
+      "number": 36,
+      "text": "不见得",
+      "page": 99,
+      "starred": false,
+      "pinyin": "bú jiàn de",
+      "meaning": "not necessarily; not likely",
+      "level": 7
+    }
+  ]
+}

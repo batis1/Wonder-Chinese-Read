@@ -1,0 +1,397 @@
+{
+  "id": "course-12",
+  "sourcePages": [
+    109,
+    110,
+    111
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "用户",
+      "page": 109,
+      "starred": true,
+      "pinyin": "yòng hù",
+      "meaning": "user; consumer; subscriber",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "颠球",
+      "page": 109,
+      "starred": true,
+      "pinyin": "diān qiú",
+      "meaning": "to juggle a soccer ball (i.e. keep it in the air using feet, thighs, head etc); (table tennis, badminton etc) to keep the ball in the air by bouncing it repeatedly on one's paddle or racquet",
+      "level": null
+    },
+    {
+      "number": 3,
+      "text": "明星",
+      "page": 109,
+      "starred": false,
+      "pinyin": "míng xīng",
+      "meaning": "star; celebrity",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "直播",
+      "page": 109,
+      "starred": true,
+      "pinyin": "zhí bō",
+      "meaning": "(TV, radio) to broadcast live; live broadcast; (Internet) to livestream",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "宝贝",
+      "page": 109,
+      "starred": false,
+      "pinyin": "bǎo bèi",
+      "meaning": "treasured object; treasure; darling",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "逗",
+      "page": 109,
+      "starred": false,
+      "pinyin": "dòu",
+      "meaning": "to tease (playfully); to entice; (coll.) to joke; (coll.) funny; amusing",
+      "level": 6
+    },
+    {
+      "number": 7,
+      "text": "宣传",
+      "page": 109,
+      "starred": false,
+      "pinyin": "xuān chuán",
+      "meaning": "to disseminate; to give publicity to; propaganda",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "手笔",
+      "page": 109,
+      "starred": true,
+      "pinyin": "shǒu bǐ",
+      "meaning": "sth written or painted in one's own hand; (of a writer, calligrapher or painter) skill; style",
+      "level": null
+    },
+    {
+      "number": 9,
+      "text": "推广",
+      "page": 109,
+      "starred": false,
+      "pinyin": "tuī guǎng",
+      "meaning": "to extend; to spread; to popularize",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "注册",
+      "page": 109,
+      "starred": false,
+      "pinyin": "zhù cè",
+      "meaning": "to register; to enroll",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "召开",
+      "page": 110,
+      "starred": false,
+      "pinyin": "zhào kāi",
+      "meaning": "to convene (a conference or meeting); to convoke; to call together",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "合作",
+      "page": 110,
+      "starred": false,
+      "pinyin": "hé zuò",
+      "meaning": "to cooperate; to collaborate; to work together",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "伙伴",
+      "page": 110,
+      "starred": false,
+      "pinyin": "huǒ bàn",
+      "meaning": "companion; pal; partner; business associate",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "总裁",
+      "page": 110,
+      "starred": false,
+      "pinyin": "zǒng cái",
+      "meaning": "chairman; director-general (of a company etc)",
+      "level": 6
+    },
+    {
+      "number": 15,
+      "text": "实现",
+      "page": 110,
+      "starred": false,
+      "pinyin": "shí xiàn",
+      "meaning": "to achieve; to implement; to realize; to bring about",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "覆盖",
+      "page": 110,
+      "starred": true,
+      "pinyin": "fù gài",
+      "meaning": "to cover",
+      "level": 6
+    },
+    {
+      "number": 17,
+      "text": "移动",
+      "page": 110,
+      "starred": false,
+      "pinyin": "yí dòng",
+      "meaning": "to move; movement; migration",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "通信",
+      "page": 110,
+      "starred": false,
+      "pinyin": "tōng xìn",
+      "meaning": "to correspond (by letter, email etc); to send or receive messages through telecommunications",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "应用",
+      "page": 110,
+      "starred": false,
+      "pinyin": "yìng yòng",
+      "meaning": "to put to use; to apply; practical; applied (science, linguistics etc); application; practical use",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "企业",
+      "page": 110,
+      "starred": false,
+      "pinyin": "qǐ yè",
+      "meaning": "company; firm; enterprise; corporation",
+      "level": 5
+    },
+    {
+      "number": 21,
+      "text": "称霸",
+      "page": 110,
+      "starred": true,
+      "pinyin": "chēng bà",
+      "meaning": "lit. to proclaim oneself hegemon; to take a leading role; to build a personal fiefdom",
+      "level": null
+    },
+    {
+      "number": 22,
+      "text": "背景",
+      "page": 110,
+      "starred": false,
+      "pinyin": "bèi jǐng",
+      "meaning": "background; backdrop; context; (fig.) powerful backer",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "高级",
+      "page": 110,
+      "starred": false,
+      "pinyin": "gāo jí",
+      "meaning": "high level; high grade; advanced",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "副",
+      "page": 110,
+      "starred": true,
+      "pinyin": "fù",
+      "meaning": "secondary; auxiliary; deputy",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "开发",
+      "page": 110,
+      "starred": false,
+      "pinyin": "kāi fā",
+      "meaning": "to exploit (a resource); to open up (for development); to develop",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "中心",
+      "page": 110,
+      "starred": false,
+      "pinyin": "zhōng xīn",
+      "meaning": "center; heart; core",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "相关",
+      "page": 110,
+      "starred": false,
+      "pinyin": "xiāng guān",
+      "meaning": "related; relevant; pertinent",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "业务",
+      "page": 110,
+      "starred": false,
+      "pinyin": "yè wù",
+      "meaning": "business; professional work; service",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "现实",
+      "page": 110,
+      "starred": false,
+      "pinyin": "xiàn shí",
+      "meaning": "reality; actuality; real; actual; realistic; pragmatic; materialistic; self-interested",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "个人",
+      "page": 110,
+      "starred": false,
+      "pinyin": "gè rén",
+      "meaning": "an individual; oneself; (attributive) personal; one's own",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "以及",
+      "page": 110,
+      "starred": false,
+      "pinyin": "yǐ jí",
+      "meaning": "and; as well as",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "程度",
+      "page": 110,
+      "starred": false,
+      "pinyin": "chéng dù",
+      "meaning": "degree; level; extent",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "发达",
+      "page": 111,
+      "starred": false,
+      "pinyin": "fā dá",
+      "meaning": "well-developed; flourishing; to develop; to promote; to expand; (literary) to achieve fame and fortune; to prosper",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "创新",
+      "page": 111,
+      "starred": false,
+      "pinyin": "chuàng xīn",
+      "meaning": "to bring forth new ideas; to blaze new trails; innovation",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "领导",
+      "page": 111,
+      "starred": false,
+      "pinyin": "lǐng dǎo",
+      "meaning": "lead; leading; to lead",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "地位",
+      "page": 111,
+      "starred": false,
+      "pinyin": "dì wèi",
+      "meaning": "position; status; place",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "经营",
+      "page": 111,
+      "starred": false,
+      "pinyin": "jīng yíng",
+      "meaning": "to engage in (business etc); to run; to operate",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "销售",
+      "page": 111,
+      "starred": false,
+      "pinyin": "xiāo shòu",
+      "meaning": "to sell; to market; sales (representative, agreement etc)",
+      "level": 5
+    },
+    {
+      "number": 39,
+      "text": "针对",
+      "page": 111,
+      "starred": false,
+      "pinyin": "zhēn duì",
+      "meaning": "to target; to focus on; to be aimed at or against; in response to",
+      "level": 5
+    },
+    {
+      "number": 40,
+      "text": "当地",
+      "page": 111,
+      "starred": false,
+      "pinyin": "dāng dì",
+      "meaning": "local",
+      "level": 5
+    },
+    {
+      "number": 41,
+      "text": "代言",
+      "page": 111,
+      "starred": false,
+      "pinyin": "dài yán",
+      "meaning": "to be a spokesperson; to be an ambassador (for a brand); to endorse",
+      "level": 7
+    },
+    {
+      "number": 42,
+      "text": "华裔",
+      "page": 111,
+      "starred": false,
+      "pinyin": "huá yì",
+      "meaning": "ethnic Chinese; non-Chinese citizen of Chinese ancestry",
+      "level": 7
+    },
+    {
+      "number": 43,
+      "text": "移民",
+      "page": 111,
+      "starred": false,
+      "pinyin": "yí mín",
+      "meaning": "to immigrate; to migrate; emigrant",
+      "level": 6
+    }
+  ]
+}

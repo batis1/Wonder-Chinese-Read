@@ -1,0 +1,371 @@
+{
+  "id": "course-25",
+  "sourcePages": [
+    65,
+    66,
+    67
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "返航",
+      "page": 65,
+      "starred": true,
+      "pinyin": "fǎn háng",
+      "meaning": "to return to the point of departure",
+      "level": null
+    },
+    {
+      "number": 2,
+      "text": "恶劣",
+      "page": 65,
+      "starred": false,
+      "pinyin": "è liè",
+      "meaning": "vile; nasty; of very poor quality",
+      "level": 6
+    },
+    {
+      "number": 3,
+      "text": "可怕",
+      "page": 65,
+      "starred": false,
+      "pinyin": "kě pà",
+      "meaning": "awful; dreadful; fearful",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "风浪",
+      "page": 65,
+      "starred": false,
+      "pinyin": "fēng làng",
+      "meaning": "wind and waves; rough waters; (fig.) hardship",
+      "level": 7
+    },
+    {
+      "number": 5,
+      "text": "慌张",
+      "page": 65,
+      "starred": false,
+      "pinyin": "huāng zhāng",
+      "meaning": "flustered; agitated",
+      "level": 7
+    },
+    {
+      "number": 6,
+      "text": "舱",
+      "page": 65,
+      "starred": true,
+      "pinyin": "cāng",
+      "meaning": "cabin; the hold of a ship or airplane",
+      "level": 7
+    },
+    {
+      "number": 7,
+      "text": "使劲",
+      "display": "使劲（儿）",
+      "page": 65,
+      "starred": false,
+      "pinyin": "shǐ jìn",
+      "meaning": "to exert all one's strength",
+      "level": 6
+    },
+    {
+      "number": 8,
+      "text": "朝",
+      "page": 65,
+      "starred": false,
+      "meaning": "towards",
+      "pinyin": "cháo",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "简直",
+      "page": 66,
+      "starred": false,
+      "pinyin": "jiǎn zhí",
+      "meaning": "simply; really",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "沉",
+      "page": 66,
+      "starred": false,
+      "pinyin": "chén",
+      "meaning": "to submerge; to immerse; to sink",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "严肃",
+      "page": 66,
+      "starred": false,
+      "pinyin": "yán sù",
+      "meaning": "(of an atmosphere etc) solemn; grave; serious; (of a manner etc) earnest; severe; exacting; to strictly enforce",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "猛烈",
+      "page": 66,
+      "starred": true,
+      "pinyin": "měng liè",
+      "meaning": "fierce; violent; vigorous; intense",
+      "level": 7
+    },
+    {
+      "number": 13,
+      "text": "狂",
+      "page": 66,
+      "starred": false,
+      "pinyin": "kuáng",
+      "meaning": "mad; wild; violent",
+      "level": 7
+    },
+    {
+      "number": 14,
+      "text": "威胁",
+      "page": 66,
+      "starred": false,
+      "pinyin": "wēi xié",
+      "meaning": "to threaten; to menace",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "平衡",
+      "page": 66,
+      "starred": false,
+      "pinyin": "píng héng",
+      "meaning": "balance; equilibrium",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "吨",
+      "page": 66,
+      "starred": false,
+      "pinyin": "dūn",
+      "meaning": "ton (loanword); Taiwan pr. [dun4]",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "钢铁",
+      "page": 66,
+      "starred": false,
+      "pinyin": "gāng tiě",
+      "meaning": "steel",
+      "level": 7
+    },
+    {
+      "number": 18,
+      "text": "根基",
+      "page": 66,
+      "starred": true,
+      "pinyin": "gēn jī",
+      "meaning": "foundation",
+      "level": 7
+    },
+    {
+      "number": 19,
+      "text": "重量",
+      "page": 66,
+      "starred": false,
+      "pinyin": "zhòng liàng",
+      "meaning": "weight",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "相似",
+      "page": 66,
+      "starred": false,
+      "pinyin": "xiāng sì",
+      "meaning": "similar; alike",
+      "level": 5
+    },
+    {
+      "number": 21,
+      "text": "风景",
+      "page": 66,
+      "starred": false,
+      "pinyin": "fēng jǐng",
+      "meaning": "scenery; landscape",
+      "level": 4
+    },
+    {
+      "number": 22,
+      "text": "窄",
+      "page": 66,
+      "starred": false,
+      "pinyin": "zhǎi",
+      "meaning": "narrow; narrow-minded; badly off",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "万丈",
+      "page": 66,
+      "starred": true,
+      "pinyin": "wàn zhàng",
+      "meaning": "lit. ten thousand fathoms; fig. extremely high or deep; lofty",
+      "level": null
+    },
+    {
+      "number": 24,
+      "text": "深渊",
+      "page": 66,
+      "starred": true,
+      "pinyin": "shēn yuān",
+      "meaning": "abyss",
+      "level": null
+    },
+    {
+      "number": 25,
+      "text": "游览",
+      "page": 66,
+      "starred": false,
+      "pinyin": "yóu lǎn",
+      "meaning": "to go sightseeing; to tour; to visit",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "发抖",
+      "page": 66,
+      "starred": false,
+      "pinyin": "fā dǒu",
+      "meaning": "to tremble; to shake; to shiver",
+      "level": 7
+    },
+    {
+      "number": 27,
+      "text": "负重",
+      "page": 66,
+      "starred": true,
+      "pinyin": "fù zhòng",
+      "meaning": "(lit. and fig.) to carry a heavy load; to carry a heavy burden",
+      "level": 7
+    },
+    {
+      "number": 28,
+      "text": "摔倒",
+      "page": 66,
+      "starred": false,
+      "pinyin": "shuāi dǎo",
+      "meaning": "to fall down; to slip and fall; to throw sb to the ground",
+      "level": null
+    },
+    {
+      "number": 29,
+      "text": "妇女",
+      "page": 66,
+      "starred": false,
+      "pinyin": "fù nǚ",
+      "meaning": "woman",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "起",
+      "page": 66,
+      "starred": false,
+      "meaning": "a measure word for cases or incidents",
+      "pinyin": "qǐ",
+      "level": 3
+    },
+    {
+      "number": 31,
+      "text": "丝毫",
+      "page": 66,
+      "starred": false,
+      "pinyin": "sī háo",
+      "meaning": "the slightest amount or degree; a bit",
+      "level": 7
+    },
+    {
+      "number": 32,
+      "text": "滚",
+      "page": 66,
+      "starred": false,
+      "pinyin": "gǔn",
+      "meaning": "to boil; to roll; to take a hike",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "风险",
+      "page": 66,
+      "starred": false,
+      "pinyin": "fēng xiǎn",
+      "meaning": "risk; hazard",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "谨慎",
+      "page": 66,
+      "starred": false,
+      "pinyin": "jǐn shèn",
+      "meaning": "cautious; prudent",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "效应",
+      "page": 66,
+      "starred": false,
+      "pinyin": "xiào yìng",
+      "meaning": "effect (scientific phenomenon)",
+      "level": 6
+    },
+    {
+      "number": 36,
+      "text": "胸",
+      "page": 66,
+      "starred": false,
+      "pinyin": "xiōng",
+      "meaning": "chest; bosom; heart",
+      "level": 6
+    },
+    {
+      "number": 37,
+      "text": "承受",
+      "page": 67,
+      "starred": false,
+      "pinyin": "chéng shòu",
+      "meaning": "to bear; to support; to inherit",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "和尚",
+      "page": 67,
+      "starred": true,
+      "pinyin": "hé shàng",
+      "meaning": "Buddhist monk",
+      "level": 7
+    },
+    {
+      "number": 39,
+      "text": "钟",
+      "page": 67,
+      "starred": false,
+      "meaning": "bell",
+      "pinyin": "zhōng",
+      "level": 7
+    },
+    {
+      "number": 40,
+      "text": "彻底",
+      "page": 67,
+      "starred": false,
+      "pinyin": "chè dǐ",
+      "meaning": "thorough; thoroughly; complete",
+      "level": 5
+    }
+  ]
+}

@@ -1,0 +1,334 @@
+{
+  "id": "course-30",
+  "sourcePages": [
+    105,
+    106,
+    107
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "沙丁鱼",
+      "page": 105,
+      "starred": true,
+      "pinyin": "shā dīng yú",
+      "meaning": "sardine (loanword)",
+      "level": null
+    },
+    {
+      "number": 2,
+      "text": "运输",
+      "page": 105,
+      "starred": false,
+      "pinyin": "yùn shū",
+      "meaning": "to transport; to carry; transportation",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "岸",
+      "page": 105,
+      "starred": false,
+      "pinyin": "àn",
+      "meaning": "bank; shore; beach; coast",
+      "level": 6
+    },
+    {
+      "number": 4,
+      "text": "商品",
+      "page": 105,
+      "starred": false,
+      "pinyin": "shāng pǐn",
+      "meaning": "commodity; goods; merchandise",
+      "level": 4
+    },
+    {
+      "number": 5,
+      "text": "延长",
+      "page": 105,
+      "starred": false,
+      "pinyin": "yán cháng",
+      "meaning": "to prolong; to extend; to delay",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "存活",
+      "page": 105,
+      "starred": true,
+      "pinyin": "cún huó",
+      "meaning": "to survive (a serious accident); survival",
+      "level": 7
+    },
+    {
+      "number": 7,
+      "text": "改善",
+      "page": 105,
+      "starred": false,
+      "pinyin": "gǎi shàn",
+      "meaning": "to make better; to improve",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "无意",
+      "page": 106,
+      "starred": true,
+      "pinyin": "wú yì",
+      "meaning": "inadvertent; accidental; to have no intention of (doing sth)",
+      "level": 7
+    },
+    {
+      "number": 9,
+      "text": "巧妙",
+      "page": 106,
+      "starred": false,
+      "pinyin": "qiǎo miào",
+      "meaning": "ingenious; clever; ingenuity; artifice",
+      "level": 6
+    },
+    {
+      "number": 10,
+      "text": "实用",
+      "page": 106,
+      "starred": false,
+      "pinyin": "shí yòng",
+      "meaning": "to apply in practice; practical; functional; pragmatic; applied (science)",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "天敌",
+      "page": 106,
+      "starred": true,
+      "pinyin": "tiān dí",
+      "meaning": "predator; natural enemy",
+      "level": 7
+    },
+    {
+      "number": 12,
+      "text": "鲇鱼",
+      "page": 106,
+      "starred": false,
+      "pinyin": "nián yú",
+      "meaning": "catfish",
+      "level": null
+    },
+    {
+      "number": 13,
+      "text": "设备",
+      "page": 106,
+      "starred": false,
+      "pinyin": "shè bèi",
+      "meaning": "equipment; facilities; installations",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "和平",
+      "page": 106,
+      "starred": false,
+      "pinyin": "hé píng",
+      "meaning": "peace; peaceful",
+      "level": 6
+    },
+    {
+      "number": 15,
+      "text": "构成",
+      "page": 106,
+      "starred": false,
+      "pinyin": "gòu chéng",
+      "meaning": "to constitute; to form; to compose",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "逃避",
+      "page": 106,
+      "starred": false,
+      "pinyin": "táo bì",
+      "meaning": "to escape; to evade; to avoid",
+      "level": 7
+    },
+    {
+      "number": 17,
+      "text": "不断",
+      "page": 106,
+      "starred": false,
+      "pinyin": "bù duàn",
+      "meaning": "unceasing; uninterrupted; continuous",
+      "level": 4
+    },
+    {
+      "number": 18,
+      "text": "旺盛",
+      "page": 106,
+      "starred": false,
+      "pinyin": "wàng shèng",
+      "meaning": "vigorous; exuberant",
+      "level": 7
+    },
+    {
+      "number": 19,
+      "text": "比例",
+      "page": 106,
+      "starred": false,
+      "pinyin": "bǐ lì",
+      "meaning": "proportion; scale",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "感想",
+      "page": 106,
+      "starred": false,
+      "pinyin": "gǎn xiǎng",
+      "meaning": "impressions; reflections; thoughts",
+      "level": 6
+    },
+    {
+      "number": 21,
+      "text": "体会",
+      "page": 106,
+      "starred": false,
+      "pinyin": "tǐ huì",
+      "meaning": "to know from experience; to learn through experience; to realize",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "概念",
+      "page": 106,
+      "starred": false,
+      "pinyin": "gài niàn",
+      "meaning": "concept; idea",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "核心",
+      "page": 106,
+      "starred": false,
+      "pinyin": "hé xīn",
+      "meaning": "core; nucleus",
+      "level": 6
+    },
+    {
+      "number": 24,
+      "text": "刺激",
+      "page": 106,
+      "starred": false,
+      "pinyin": "cì jī",
+      "meaning": "to provoke; to irritate; to upset; to stimulate; to excite; irritant",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "活力",
+      "page": 106,
+      "starred": false,
+      "pinyin": "huó lì",
+      "meaning": "energy; vitality; vigor",
+      "level": 6
+    },
+    {
+      "number": 26,
+      "text": "落后",
+      "page": 106,
+      "starred": false,
+      "pinyin": "luò hòu",
+      "meaning": "to fall behind; to lag (in technology etc); backward",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "本质",
+      "page": 106,
+      "starred": false,
+      "pinyin": "běn zhì",
+      "meaning": "essence; nature; innate character",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "员工",
+      "page": 106,
+      "starred": false,
+      "pinyin": "yuán gōng",
+      "meaning": "staff; personnel; employee",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "危机",
+      "page": 106,
+      "starred": false,
+      "pinyin": "wēi jī",
+      "meaning": "crisis",
+      "level": 6
+    },
+    {
+      "number": 30,
+      "text": "有利",
+      "page": 106,
+      "starred": false,
+      "pinyin": "yǒu lì",
+      "meaning": "advantageous; favorable",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "挖掘",
+      "page": 106,
+      "starred": true,
+      "pinyin": "wā jué",
+      "meaning": "to excavate; (lit and fig.) to unearth; to dig into",
+      "level": 7
+    },
+    {
+      "number": 32,
+      "text": "潜力",
+      "page": 106,
+      "starred": true,
+      "pinyin": "qián lì",
+      "meaning": "potential; latent capacity",
+      "level": 6
+    },
+    {
+      "number": 33,
+      "text": "决赛",
+      "page": 107,
+      "starred": false,
+      "pinyin": "jué sài",
+      "meaning": "finals (of a competition)",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "接近",
+      "page": 107,
+      "starred": false,
+      "pinyin": "jiē jìn",
+      "meaning": "to approach; to get close to",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "佳",
+      "page": 107,
+      "starred": false,
+      "pinyin": "jiā",
+      "meaning": "beautiful; fine; good",
+      "level": null
+    },
+    {
+      "number": 36,
+      "text": "的确",
+      "page": 107,
+      "starred": false,
+      "pinyin": "dí què",
+      "meaning": "really; indeed",
+      "level": 5
+    }
+  ]
+}

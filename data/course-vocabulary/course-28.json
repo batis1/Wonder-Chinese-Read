@@ -1,0 +1,371 @@
+{
+  "id": "course-28",
+  "sourcePages": [
+    89,
+    90,
+    91
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "届",
+      "page": 89,
+      "starred": false,
+      "pinyin": "jiè",
+      "meaning": "to arrive at (place or time); period; to become due",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "本科",
+      "page": 89,
+      "starred": false,
+      "pinyin": "běn kē",
+      "meaning": "undergraduate course; undergraduate (attributive)",
+      "level": 4
+    },
+    {
+      "number": 3,
+      "text": "面对",
+      "page": 89,
+      "starred": false,
+      "pinyin": "miàn duì",
+      "meaning": "to face; to confront",
+      "level": 4
+    },
+    {
+      "number": 4,
+      "text": "乐观",
+      "page": 89,
+      "starred": false,
+      "pinyin": "lè guān",
+      "meaning": "optimistic; hopeful",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "就业",
+      "page": 89,
+      "starred": false,
+      "pinyin": "jiù yè",
+      "meaning": "to get a job; employment",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "实话",
+      "page": 89,
+      "starred": false,
+      "pinyin": "shí huà",
+      "meaning": "truth",
+      "level": 6
+    },
+    {
+      "number": 7,
+      "text": "优势",
+      "page": 89,
+      "starred": false,
+      "pinyin": "yōu shì",
+      "meaning": "superiority; dominance; advantage",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "简历",
+      "page": 90,
+      "starred": false,
+      "pinyin": "jiǎn lì",
+      "meaning": "curriculum vitae (CV); résumé; biographical notes",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "现场",
+      "page": 90,
+      "starred": true,
+      "pinyin": "xiàn chǎng",
+      "meaning": "the scene (of a crime, accident etc); (on) the spot; (at) the site",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "职位",
+      "page": 90,
+      "starred": false,
+      "pinyin": "zhí wèi",
+      "meaning": "position; post; job",
+      "level": 6
+    },
+    {
+      "number": 11,
+      "text": "体验",
+      "page": 90,
+      "starred": false,
+      "pinyin": "tǐ yàn",
+      "meaning": "to experience for oneself",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "从此",
+      "page": 90,
+      "starred": false,
+      "pinyin": "cóng cǐ",
+      "meaning": "from now on; since then; henceforth",
+      "level": 4
+    },
+    {
+      "number": 13,
+      "text": "范围",
+      "page": 90,
+      "starred": false,
+      "pinyin": "fàn wéi",
+      "meaning": "range; scope; limit",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "初中",
+      "display": "初（级）中（学）",
+      "page": 90,
+      "starred": false,
+      "pinyin": "chū zhōng",
+      "meaning": "junior high school (abbr. for 初級中學|初级中学[chu1 ji2 zhong1 xue2])",
+      "level": 3
+    },
+    {
+      "number": 15,
+      "text": "顾问",
+      "page": 90,
+      "starred": false,
+      "pinyin": "gù wèn",
+      "meaning": "adviser; consultant",
+      "level": 6
+    },
+    {
+      "number": 16,
+      "text": "参考",
+      "page": 90,
+      "starred": false,
+      "pinyin": "cān kǎo",
+      "meaning": "consultation; reference; to consult",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "成长",
+      "page": 90,
+      "starred": false,
+      "pinyin": "chéng zhǎng",
+      "meaning": "to mature; to grow; growth",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "制作",
+      "page": 90,
+      "starred": false,
+      "pinyin": "zhì zuò",
+      "meaning": "to make; to manufacture",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "才艺",
+      "page": 90,
+      "starred": false,
+      "pinyin": "cái yì",
+      "meaning": "talent",
+      "level": null
+    },
+    {
+      "number": 20,
+      "text": "假设",
+      "page": 90,
+      "starred": false,
+      "pinyin": "jiǎ shè",
+      "meaning": "to suppose; to presume; to assume",
+      "level": 6
+    },
+    {
+      "number": 21,
+      "text": "乘",
+      "page": 90,
+      "starred": true,
+      "pinyin": "chéng",
+      "meaning": "to ride; to mount; to make use of",
+      "level": 4
+    },
+    {
+      "number": 22,
+      "text": "反应",
+      "page": 90,
+      "starred": false,
+      "pinyin": "fǎn yìng",
+      "meaning": "to react; to respond; reaction",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "到达",
+      "page": 90,
+      "starred": false,
+      "pinyin": "dào dá",
+      "meaning": "to reach; to arrive",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "老板",
+      "page": 90,
+      "starred": false,
+      "pinyin": "lǎo bǎn",
+      "meaning": "Robam (brand); boss; proprietor",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "陆续",
+      "page": 90,
+      "starred": false,
+      "pinyin": "lù xù",
+      "meaning": "in turn; successively; one after the other",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "提问",
+      "page": 90,
+      "starred": false,
+      "pinyin": "tí wèn",
+      "meaning": "to question; to quiz; to grill",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "堆",
+      "page": 90,
+      "starred": false,
+      "pinyin": "duī",
+      "meaning": "to pile up; to heap up; a mass",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "情侣",
+      "page": 90,
+      "starred": true,
+      "pinyin": "qíng lǚ",
+      "meaning": "sweethearts; lovers",
+      "level": 7
+    },
+    {
+      "number": 29,
+      "text": "制订",
+      "page": 90,
+      "starred": true,
+      "pinyin": "zhì dìng",
+      "meaning": "to work out; to formulate",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "休闲",
+      "page": 90,
+      "starred": false,
+      "pinyin": "xiū xián",
+      "meaning": "leisure; relaxation; not working",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "具体",
+      "page": 90,
+      "starred": false,
+      "pinyin": "jù tǐ",
+      "meaning": "concrete; specific; detailed",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "专注",
+      "page": 90,
+      "starred": false,
+      "pinyin": "zhuān zhù",
+      "meaning": "to focus; to concentrate; to give one's full attention",
+      "level": 6
+    },
+    {
+      "number": 33,
+      "text": "显然",
+      "page": 90,
+      "starred": false,
+      "pinyin": "xiǎn rán",
+      "meaning": "clearly; evidently; obviously",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "成立",
+      "page": 90,
+      "starred": false,
+      "pinyin": "chéng lì",
+      "meaning": "to establish; to set up; to be tenable",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "部门",
+      "page": 90,
+      "starred": false,
+      "pinyin": "bù mén",
+      "meaning": "department; branch; section",
+      "level": 4
+    },
+    {
+      "number": 36,
+      "text": "执着",
+      "page": 91,
+      "starred": false,
+      "pinyin": "zhí zhuó",
+      "meaning": "dedicated; devoted; persistent; to persist in; to cling to; (Buddhism) attachment",
+      "level": 7
+    },
+    {
+      "number": 37,
+      "text": "光明",
+      "page": 91,
+      "starred": false,
+      "pinyin": "guāng míng",
+      "meaning": "light; radiance; (fig.) bright (prospects etc)",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "前途",
+      "page": 91,
+      "starred": false,
+      "pinyin": "qián tú",
+      "meaning": "prospects; future outlook; journey",
+      "level": 5
+    },
+    {
+      "number": 39,
+      "text": "行业",
+      "page": 91,
+      "starred": false,
+      "pinyin": "háng yè",
+      "meaning": "trade; profession; industry; business",
+      "level": 5
+    },
+    {
+      "number": 40,
+      "text": "缺乏",
+      "page": 91,
+      "starred": false,
+      "pinyin": "quē fá",
+      "meaning": "to lack; to be short of",
+      "level": 5
+    }
+  ]
+}

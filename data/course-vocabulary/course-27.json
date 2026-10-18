@@ -1,0 +1,317 @@
+{
+  "id": "course-27",
+  "sourcePages": [
+    80,
+    81,
+    82
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "棋",
+      "display": "（象）棋",
+      "page": 80,
+      "starred": false,
+      "pinyin": "qí",
+      "meaning": "chess; chess-like game; a game of chess",
+      "level": null
+    },
+    {
+      "number": 2,
+      "text": "教练",
+      "page": 80,
+      "starred": false,
+      "pinyin": "jiào liàn",
+      "meaning": "to coach; to train; instructor; sports coach; trainer (CL:位[wei4],名[ming2])",
+      "level": 4
+    },
+    {
+      "number": 3,
+      "text": "答应",
+      "page": 80,
+      "starred": false,
+      "pinyin": "dā yìng",
+      "meaning": "to answer; to respond; to answer positively; to agree; to accept; to promise",
+      "level": 4
+    },
+    {
+      "number": 4,
+      "text": "损失",
+      "page": 81,
+      "starred": false,
+      "pinyin": "sǔn shī",
+      "meaning": "loss; damage; to lose",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "睁",
+      "page": 81,
+      "starred": false,
+      "pinyin": "zhēng",
+      "meaning": "to open (one's eyes)",
+      "level": 6
+    },
+    {
+      "number": 6,
+      "text": "将军",
+      "page": 81,
+      "starred": false,
+      "pinyin": "jiāng jūn",
+      "meaning": "general; high-ranking military officer; to check or checkmate",
+      "level": 6
+    },
+    {
+      "number": 7,
+      "text": "服气",
+      "page": 81,
+      "starred": true,
+      "pinyin": "fú qì",
+      "meaning": "to be convinced; to accept",
+      "level": 7
+    },
+    {
+      "number": 8,
+      "text": "运气",
+      "page": 81,
+      "starred": false,
+      "pinyin": "yùn qì",
+      "meaning": "luck (good or bad)",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "局",
+      "page": 81,
+      "starred": true,
+      "pinyin": "jú",
+      "meaning": "narrow; office; situation",
+      "level": 6
+    },
+    {
+      "number": 10,
+      "text": "发挥",
+      "page": 81,
+      "starred": false,
+      "pinyin": "fā huī",
+      "meaning": "to display; to exhibit; to bring out implicit or innate qualities",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "灰心",
+      "page": 81,
+      "starred": false,
+      "pinyin": "huī xīn",
+      "meaning": "to lose heart; to be discouraged",
+      "level": 6
+    },
+    {
+      "number": 12,
+      "text": "吸取",
+      "page": 81,
+      "starred": false,
+      "pinyin": "xī qǔ",
+      "meaning": "to absorb; to draw (a lesson, insight etc); to assimilate",
+      "level": 6
+    },
+    {
+      "number": 13,
+      "text": "教训",
+      "page": 81,
+      "starred": false,
+      "pinyin": "jiào xùn",
+      "meaning": "to provide guidance; to lecture sb; to upbraid; a talking-to; a bitter lesson",
+      "level": 6
+    },
+    {
+      "number": 14,
+      "text": "未必",
+      "page": 81,
+      "starred": false,
+      "pinyin": "wèi bì",
+      "meaning": "not necessarily; maybe not",
+      "level": 6
+    },
+    {
+      "number": 15,
+      "text": "次要",
+      "page": 81,
+      "starred": false,
+      "pinyin": "cì yào",
+      "meaning": "secondary",
+      "level": 7
+    },
+    {
+      "number": 16,
+      "text": "因素",
+      "page": 81,
+      "starred": false,
+      "pinyin": "yīn sù",
+      "meaning": "element; factor",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "在于",
+      "page": 82,
+      "starred": false,
+      "pinyin": "zài yú",
+      "meaning": "to rest with; to lie in; to be due to (a certain attribute); (of a matter) to be determined by; to be up to (sb)",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "心态",
+      "page": 82,
+      "starred": false,
+      "pinyin": "xīn tài",
+      "meaning": "attitude (of the heart); state of one's psyche; way of thinking",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "珍惜",
+      "page": 82,
+      "starred": false,
+      "pinyin": "zhēn xī",
+      "meaning": "to treasure; to value; to cherish",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "否认",
+      "page": 82,
+      "starred": false,
+      "pinyin": "fǒu rèn",
+      "meaning": "to declare to be untrue; to deny",
+      "level": 5
+    },
+    {
+      "number": 21,
+      "text": "观察",
+      "page": 82,
+      "starred": false,
+      "pinyin": "guān chá",
+      "meaning": "to observe; to watch; to survey",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "失去",
+      "page": 82,
+      "starred": false,
+      "pinyin": "shī qù",
+      "meaning": "to lose",
+      "level": 4
+    },
+    {
+      "number": 23,
+      "text": "期间",
+      "page": 82,
+      "starred": false,
+      "pinyin": "qī jiān",
+      "meaning": "period of time; time; time period",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "把握",
+      "page": 82,
+      "starred": false,
+      "pinyin": "bǎ wò",
+      "meaning": "to grasp (also fig.); to seize; to hold",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "不假思索",
+      "page": 82,
+      "starred": false,
+      "pinyin": "bù jiǎ sī suǒ",
+      "meaning": "(idiom) to act without taking time to think; to react instantly; to fire from the hip",
+      "level": 7
+    },
+    {
+      "number": 26,
+      "text": "犯",
+      "page": 82,
+      "starred": true,
+      "pinyin": "fàn",
+      "meaning": "to violate; to offend; to assault",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "过于",
+      "page": 82,
+      "starred": false,
+      "pinyin": "guò yú",
+      "meaning": "excessively; too",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "原则",
+      "page": 82,
+      "starred": false,
+      "pinyin": "yuán zé",
+      "meaning": "principle; doctrine",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "责备",
+      "page": 82,
+      "starred": false,
+      "pinyin": "zé bèi",
+      "meaning": "to blame; to criticize; condemnation",
+      "level": 7
+    },
+    {
+      "number": 30,
+      "text": "必然",
+      "page": 82,
+      "starred": false,
+      "pinyin": "bì rán",
+      "meaning": "inevitable; certain; necessity",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "事先",
+      "page": 82,
+      "starred": false,
+      "pinyin": "shì xiān",
+      "meaning": "in advance; before the event; beforehand",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "舍不得",
+      "page": 82,
+      "starred": false,
+      "pinyin": "shě bù dé",
+      "meaning": "to hate to do sth; to hate to part with; to begrudge",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "后果",
+      "page": 82,
+      "starred": false,
+      "pinyin": "hòu guǒ",
+      "meaning": "consequences; aftermath",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "屡",
+      "page": 82,
+      "starred": true,
+      "pinyin": "lǚ",
+      "meaning": "time and again; repeatedly; frequently",
+      "level": 7
+    }
+  ]
+}

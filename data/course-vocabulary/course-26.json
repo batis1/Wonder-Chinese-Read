@@ -1,0 +1,325 @@
+{
+  "id": "course-26",
+  "sourcePages": [
+    72,
+    73,
+    74
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "忙碌",
+      "page": 72,
+      "starred": true,
+      "pinyin": "máng lù",
+      "meaning": "busy; bustling",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "被动",
+      "page": 72,
+      "starred": false,
+      "pinyin": "bèi dòng",
+      "meaning": "passive",
+      "level": 6
+    },
+    {
+      "number": 3,
+      "text": "奴隶",
+      "page": 72,
+      "starred": true,
+      "pinyin": "nú lì",
+      "meaning": "slave",
+      "level": 7
+    },
+    {
+      "number": 4,
+      "text": "虚伪",
+      "page": 72,
+      "starred": true,
+      "pinyin": "xū wěi",
+      "meaning": "false; hypocritical; artificial",
+      "level": 7
+    },
+    {
+      "number": 5,
+      "text": "思想",
+      "page": 72,
+      "starred": false,
+      "pinyin": "sī xiǎng",
+      "meaning": "thought; thinking; idea",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "反省",
+      "page": 72,
+      "starred": false,
+      "pinyin": "fǎn xǐng",
+      "meaning": "to reflect upon oneself; to examine one's conscience; to question oneself",
+      "level": 7
+    },
+    {
+      "number": 7,
+      "text": "据说",
+      "page": 73,
+      "starred": false,
+      "pinyin": "jù shuō",
+      "meaning": "it is said that; reportedly",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "个性",
+      "page": 73,
+      "starred": false,
+      "pinyin": "gè xìng",
+      "meaning": "individuality; personality",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "冒险",
+      "page": 73,
+      "starred": false,
+      "pinyin": "mào xiǎn",
+      "meaning": "to take risks; to take chances; foray",
+      "level": 6
+    },
+    {
+      "number": 10,
+      "text": "丛林",
+      "page": 73,
+      "starred": false,
+      "pinyin": "cóng lín",
+      "meaning": "jungle; thicket; forest",
+      "level": 7
+    },
+    {
+      "number": 11,
+      "text": "文明",
+      "page": 73,
+      "starred": false,
+      "pinyin": "wén míng",
+      "meaning": "civilized; civilization; culture",
+      "level": 6
+    },
+    {
+      "number": 12,
+      "text": "纪录",
+      "page": 73,
+      "starred": false,
+      "pinyin": "jì lù",
+      "meaning": "(Note: In mainland China, 纪录 is preferred for the sense \"record (e.g. in sports)\". In Taiwan, 紀錄 is generally preferred for noun senses, while 記錄 is generally preferred for the verb sense.)",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "雇",
+      "page": 73,
+      "starred": true,
+      "pinyin": "gù",
+      "meaning": "to employ; to hire; to rent",
+      "level": 7
+    },
+    {
+      "number": 14,
+      "text": "来",
+      "page": 73,
+      "starred": true,
+      "meaning": "about; approximately (after a number)",
+      "pinyin": "lái",
+      "level": 1
+    },
+    {
+      "number": 15,
+      "text": "批",
+      "page": 73,
+      "starred": false,
+      "meaning": "group; batch",
+      "pinyin": "pī",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "出色",
+      "page": 73,
+      "starred": false,
+      "pinyin": "chū sè",
+      "meaning": "remarkable; outstanding",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "健步如飞",
+      "page": 73,
+      "starred": false,
+      "pinyin": "jiàn bù rú fēi",
+      "meaning": "running as fast as flying",
+      "level": null
+    },
+    {
+      "number": 18,
+      "text": "一连",
+      "page": 73,
+      "starred": true,
+      "pinyin": "yī lián",
+      "meaning": "in a row; in succession; running",
+      "level": 7
+    },
+    {
+      "number": 19,
+      "text": "耽误",
+      "page": 73,
+      "starred": false,
+      "pinyin": "dān wù",
+      "meaning": "to delay; to hold up; to waste time",
+      "level": 6
+    },
+    {
+      "number": 20,
+      "text": "至于",
+      "page": 73,
+      "starred": false,
+      "pinyin": "zhì yú",
+      "meaning": "as for; as to; to go so far as to",
+      "level": 6
+    },
+    {
+      "number": 21,
+      "text": "投资",
+      "page": 73,
+      "starred": false,
+      "pinyin": "tóu zī",
+      "meaning": "investment; to invest",
+      "level": 6
+    },
+    {
+      "number": 22,
+      "text": "人物",
+      "page": 73,
+      "starred": false,
+      "pinyin": "rén wù",
+      "meaning": "person; personage; figure (esp. sb of importance); character (in a play, novel etc); (genre of traditional Chinese painting) figure painting",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "得罪",
+      "page": 73,
+      "starred": true,
+      "pinyin": "dé zuì",
+      "meaning": "to commit an offense; to violate the law; excuse me! (formal)",
+      "level": 7
+    },
+    {
+      "number": 24,
+      "text": "总算",
+      "page": 73,
+      "starred": false,
+      "pinyin": "zǒng suàn",
+      "meaning": "at long last; finally; on the whole",
+      "level": 6
+    },
+    {
+      "number": 25,
+      "text": "搞",
+      "page": 73,
+      "starred": false,
+      "pinyin": "gǎo",
+      "meaning": "to do; to make; to go in for",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "习俗",
+      "page": 73,
+      "starred": true,
+      "pinyin": "xí sú",
+      "meaning": "custom; tradition; local tradition",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "灵魂",
+      "page": 74,
+      "starred": false,
+      "pinyin": "líng hún",
+      "meaning": "soul; spirit",
+      "level": 7
+    },
+    {
+      "number": 28,
+      "text": "疲劳",
+      "page": 74,
+      "starred": false,
+      "pinyin": "pí láo",
+      "meaning": "fatigue; wearily; weariness",
+      "level": 6
+    },
+    {
+      "number": 29,
+      "text": "哲理",
+      "page": 74,
+      "starred": true,
+      "pinyin": "zhé lǐ",
+      "meaning": "philosophic theory; philosophy",
+      "level": 7
+    },
+    {
+      "number": 30,
+      "text": "提倡",
+      "page": 74,
+      "starred": false,
+      "pinyin": "tí chàng",
+      "meaning": "to promote; to advocate",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "步骤",
+      "page": 74,
+      "starred": false,
+      "pinyin": "bù zhòu",
+      "meaning": "procedure; step",
+      "level": 6
+    },
+    {
+      "number": 32,
+      "text": "闭关",
+      "page": 74,
+      "starred": false,
+      "pinyin": "bì guān",
+      "meaning": "to close the passes; to seal off the country; seclusion (monastic practice, e.g. of Chan Buddhists)",
+      "level": null
+    },
+    {
+      "number": 33,
+      "text": "一律",
+      "page": 74,
+      "starred": false,
+      "pinyin": "yī lǜ",
+      "meaning": "same; identical; uniformly; all; without exception",
+      "level": 6
+    },
+    {
+      "number": 34,
+      "text": "寂寞",
+      "page": 74,
+      "starred": false,
+      "pinyin": "jì mò",
+      "meaning": "lonely; lonesome; (of a place) quiet",
+      "level": 6
+    },
+    {
+      "number": 35,
+      "text": "效率",
+      "page": 74,
+      "starred": false,
+      "pinyin": "xiào lǜ",
+      "meaning": "efficiency",
+      "level": 5
+    }
+  ]
+}

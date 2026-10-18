@@ -1,0 +1,185 @@
+{
+  "id": "course-02",
+  "sourcePages": [
+    24,
+    25,
+    26
+  ],
+  "points": [
+    {
+      "point": "以来",
+      "kind": "usage",
+      "pages": [
+        24
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“以来”用在时间名词或短语后，构成“……以来”，表示从过去某时到现在的一段时间。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "改革开放以来，中国发生了巨大的变化。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "因此长年以来，父母很少离开老屋，……"
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "一直以来，“80后”这个词儿都含有年轻的味道。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "到中国以来,"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: 他们夫妻俩的关系怎么样?\nB: _____ (以来)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 最近这几年空气污染比较严重。\nB: _____ (以来)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "临",
+      "kind": "usage",
+      "pages": [
+        24,
+        25
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“临”，动词，表示靠近、对着。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "我想买一套不临街的房子，这样不会太吵。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "临江新修了一条路，晚饭后很多人都去那儿散步。"
+        },
+        {
+          "type": "explanation",
+          "text": "“临”，也可以做介词，“临……(时/前)”表示快到某一行为发生的时间。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "这是我临离开北京的时候买的。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "临走那天，父亲从老家赶来送我们。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "A: 你觉得这套房子怎么样?\nB: _____ (临)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: 你一个人来中国,你的爸爸妈妈放心吗?\nB: _____ 临。 临"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 你卧室里的新被子真漂亮,哪儿买的?"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "立刻",
+      "kind": "usage",
+      "pages": [
+        25
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“立刻”，副词，“立刻+动词”，表示马上，强调一个动作紧接着前一个动作发生。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "上了楼，开门的竟是微笑着的父母，温暖的气息立刻扑面而来…… .."
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "原来父母要我留下串钥匙，只是为了让我们回来时，能立刻感受到家的温暖！"
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "那两只羊一见到青草，就立刻去吃草了，哪还有心思打架呢？"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "一下课, _____ (立刻)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "我快被气死了! _____ (立刻)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 你能帮我通知他这件事吗?\nB: _____ (立刻)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "悄悄 / 偷偷",
+      "kind": "comparison",
+      "pages": [
+        26
+      ],
+      "common": [
+        "都是副词，都有做事不让人发现的意思。",
+        "如：他悄悄/偷偷地走了出去。"
+      ],
+      "terms": [
+        {
+          "word": "悄悄",
+          "paragraphs": [
+            "强调声音很小。",
+            "如：父亲悄悄把我拉到一边说话。"
+          ]
+        },
+        {
+          "word": "偷偷",
+          "paragraphs": [
+            "强调行为不愿被人知道。",
+            "如他谁也没告诉，偷偷去旅行了。"
+          ]
+        }
+      ]
+    }
+  ]
+}

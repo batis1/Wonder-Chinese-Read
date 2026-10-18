@@ -1,0 +1,379 @@
+{
+  "id": "course-03",
+  "sourcePages": [
+    29,
+    30,
+    31
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "人生",
+      "page": 29,
+      "starred": false,
+      "pinyin": "rén shēng",
+      "meaning": "life (one's time on earth)",
+      "level": 4
+    },
+    {
+      "number": 2,
+      "text": "工人",
+      "page": 29,
+      "starred": false,
+      "pinyin": "gōng rén",
+      "meaning": "worker",
+      "level": 4
+    },
+    {
+      "number": 3,
+      "text": "稳定",
+      "page": 29,
+      "starred": false,
+      "pinyin": "wěn dìng",
+      "meaning": "steady; stable; stability",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "待遇",
+      "page": 29,
+      "starred": false,
+      "pinyin": "dài yù",
+      "meaning": "treatment; pay; salary",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "发愁",
+      "page": 29,
+      "starred": false,
+      "pinyin": "fā chóu",
+      "meaning": "to worry; to fret; to be anxious",
+      "level": 6
+    },
+    {
+      "number": 6,
+      "text": "平静",
+      "page": 29,
+      "starred": false,
+      "pinyin": "píng jìng",
+      "meaning": "calm; tranquil; serene",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "帆船",
+      "page": 30,
+      "starred": true,
+      "pinyin": "fān chuán",
+      "meaning": "sailboat",
+      "level": 7
+    },
+    {
+      "number": 8,
+      "text": "撞",
+      "page": 30,
+      "starred": false,
+      "pinyin": "zhuàng",
+      "meaning": "to knock against; to bump into; to run into",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "艘",
+      "page": 30,
+      "starred": true,
+      "pinyin": "sōu",
+      "meaning": "classifier for ships; Taiwan pr. [sao1]",
+      "level": 6
+    },
+    {
+      "number": 10,
+      "text": "航行",
+      "page": 30,
+      "starred": false,
+      "pinyin": "háng xíng",
+      "meaning": "to sail; to fly; to navigate",
+      "level": 7
+    },
+    {
+      "number": 11,
+      "text": "积蓄",
+      "page": 30,
+      "starred": false,
+      "pinyin": "jī xù",
+      "meaning": "to save; to put aside; savings",
+      "level": 7
+    },
+    {
+      "number": 12,
+      "text": "二手",
+      "page": 30,
+      "starred": false,
+      "pinyin": "èr shǒu",
+      "meaning": "indirectly acquired; second-hand (information, equipment etc); assistant",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "彩虹",
+      "page": 30,
+      "starred": false,
+      "pinyin": "cǎi hóng",
+      "meaning": "rainbow",
+      "level": 6
+    },
+    {
+      "number": 14,
+      "text": "包括",
+      "page": 30,
+      "starred": false,
+      "pinyin": "bāo kuò",
+      "meaning": "to comprise; to include; to involve",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "疯",
+      "page": 30,
+      "starred": false,
+      "pinyin": "fēng",
+      "meaning": "insane; mad; wild",
+      "level": 7
+    },
+    {
+      "number": 16,
+      "text": "辞职",
+      "page": 30,
+      "starred": false,
+      "pinyin": "cí zhí",
+      "meaning": "to resign",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "驾驶",
+      "page": 30,
+      "starred": false,
+      "pinyin": "jià shǐ",
+      "meaning": "to drive (vehicle); to pilot (ship, airplane etc); driver; pilot; captain",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "轮流",
+      "page": 30,
+      "starred": false,
+      "pinyin": "lún liú",
+      "meaning": "to alternate; to take turns",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "钓",
+      "page": 30,
+      "starred": false,
+      "pinyin": "diào",
+      "meaning": "to fish with a hook and line; to angle",
+      "level": null
+    },
+    {
+      "number": 20,
+      "text": "顿",
+      "page": 30,
+      "starred": false,
+      "meaning": "a measure word for meals",
+      "pinyin": "dùn",
+      "level": 4
+    },
+    {
+      "number": 21,
+      "text": "海鲜",
+      "page": 30,
+      "starred": false,
+      "pinyin": "hǎi xiān",
+      "meaning": "seafood",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "傍晚",
+      "page": 30,
+      "starred": false,
+      "pinyin": "bàng wǎn",
+      "meaning": "in the evening; when night falls; towards evening",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "舒适",
+      "page": 30,
+      "starred": false,
+      "pinyin": "shū shì",
+      "meaning": "cozy; snug",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "干活儿",
+      "page": 30,
+      "starred": false,
+      "pinyin": "gàn huó ér",
+      "meaning": "erhua variant of 幹活|干活[gan4 huo2]",
+      "level": 4
+    },
+    {
+      "number": 25,
+      "text": "盼望",
+      "page": 30,
+      "starred": false,
+      "pinyin": "pàn wàng",
+      "meaning": "to hope for; to look forward to",
+      "level": 6
+    },
+    {
+      "number": 26,
+      "text": "陆地",
+      "page": 30,
+      "starred": false,
+      "pinyin": "lù dì",
+      "meaning": "dry land (as opposed to the sea)",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "各自",
+      "page": 30,
+      "starred": false,
+      "pinyin": "gè zì",
+      "meaning": "each; respective; apiece",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "勿",
+      "page": 30,
+      "starred": false,
+      "pinyin": "wù",
+      "meaning": "do not",
+      "level": 7
+    },
+    {
+      "number": 29,
+      "text": "时刻",
+      "page": 30,
+      "starred": false,
+      "pinyin": "shí kè",
+      "meaning": "time; juncture; moment",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "着火",
+      "page": 30,
+      "starred": false,
+      "pinyin": "zháo huǒ",
+      "meaning": "to catch fire",
+      "level": 4
+    },
+    {
+      "number": 31,
+      "text": "漏",
+      "page": 30,
+      "starred": false,
+      "pinyin": "lòu",
+      "meaning": "to leak; to divulge; to leave out by mistake",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "雷",
+      "page": 30,
+      "starred": false,
+      "pinyin": "léi",
+      "meaning": "thunder; (bound form) (military) mine, as in 地雷[di4 lei2] land mine; (coll.) to shock; to stun; to astound",
+      "level": 6
+    },
+    {
+      "number": 33,
+      "text": "随时",
+      "page": 31,
+      "starred": false,
+      "pinyin": "suí shí",
+      "meaning": "at any time; at all times; at the right time; whenever necessary",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "闪电",
+      "page": 31,
+      "starred": false,
+      "pinyin": "shǎn diàn",
+      "meaning": "lightning",
+      "level": 6
+    },
+    {
+      "number": 35,
+      "text": "击",
+      "page": 31,
+      "starred": false,
+      "pinyin": "jī",
+      "meaning": "to hit; to strike; to break",
+      "level": null
+    },
+    {
+      "number": 36,
+      "text": "拥抱",
+      "page": 31,
+      "starred": false,
+      "pinyin": "yōng bào",
+      "meaning": "to embrace; to hug",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "海里",
+      "page": 31,
+      "starred": true,
+      "pinyin": "hǎi lǐ",
+      "meaning": "nautical mile",
+      "level": null
+    },
+    {
+      "number": 38,
+      "text": "台阶",
+      "page": 31,
+      "starred": false,
+      "pinyin": "tái jiē",
+      "meaning": "steps; flight of steps; step (over obstacle)",
+      "level": 5
+    },
+    {
+      "number": 39,
+      "text": "未来",
+      "page": 31,
+      "starred": false,
+      "pinyin": "wèi lái",
+      "meaning": "future; tomorrow; approaching",
+      "level": 5
+    },
+    {
+      "number": 40,
+      "text": "太太",
+      "page": 31,
+      "starred": false,
+      "pinyin": "tài tài",
+      "meaning": "married woman; Mrs.; Madam",
+      "level": 5
+    },
+    {
+      "number": 41,
+      "text": "时代",
+      "page": 31,
+      "starred": false,
+      "pinyin": "shí dài",
+      "meaning": "Time, US weekly news magazine; age; era",
+      "level": 5
+    }
+  ]
+}

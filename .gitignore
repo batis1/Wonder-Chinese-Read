@@ -1,0 +1,18 @@
+node_modules/
+dist/
+.cache/
+data/uploads/
+data/jobs/
+*.log
+__pycache__/
+.vercel/
+.env
+.env.*
+!.env.example
+output/
+data/revisions/
+data/translations.json
+data/pages/
+data/sources/
+*.pdf
+Hsk5*textbook audios*/

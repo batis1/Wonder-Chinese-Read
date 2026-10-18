@@ -1,0 +1,352 @@
+{
+  "id": "course-09",
+  "sourcePages": [
+    83,
+    84,
+    85
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "表现",
+      "page": 83,
+      "starred": false,
+      "pinyin": "biǎo xiàn",
+      "meaning": "to show; to show off; to display",
+      "level": 4
+    },
+    {
+      "number": 2,
+      "text": "突出",
+      "page": 83,
+      "starred": false,
+      "pinyin": "tū chū",
+      "meaning": "prominent; outstanding; to give prominence to",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "文学家",
+      "page": 83,
+      "starred": false,
+      "pinyin": "wén xué jiā",
+      "meaning": "writer; man of letters",
+      "level": null
+    },
+    {
+      "number": 4,
+      "text": "算",
+      "page": 83,
+      "starred": false,
+      "pinyin": "suàn",
+      "meaning": "to calculate; to figure out; to include; to count in; to count; to be valid; to carry weight",
+      "level": 4
+    },
+    {
+      "number": 5,
+      "text": "地道",
+      "page": 83,
+      "starred": false,
+      "pinyin": "dì dào",
+      "meaning": "tunnel; causeway; authentic",
+      "level": 6
+    },
+    {
+      "number": 6,
+      "text": "行家",
+      "page": 83,
+      "starred": false,
+      "pinyin": "háng jia",
+      "meaning": "connoisseur; expert; veteran",
+      "level": 7
+    },
+    {
+      "number": 7,
+      "text": "亲自",
+      "page": 83,
+      "starred": false,
+      "pinyin": "qīn zì",
+      "meaning": "personally; in person; oneself",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "见解",
+      "page": 84,
+      "starred": true,
+      "pinyin": "jiàn jiě",
+      "meaning": "opinion; view; understanding",
+      "level": 7
+    },
+    {
+      "number": 9,
+      "text": "近代",
+      "page": 84,
+      "starred": false,
+      "pinyin": "jìn dài",
+      "meaning": "the not-very-distant past; modern times, excluding recent decades; (in the context of Chinese history) the period from the Opium Wars until the May 4th Movement (mid-19th century to 1919)",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "时尚",
+      "page": 84,
+      "starred": false,
+      "pinyin": "shí shàng",
+      "meaning": "fashion; fad; fashionable",
+      "level": 6
+    },
+    {
+      "number": 11,
+      "text": "写作",
+      "page": 84,
+      "starred": false,
+      "pinyin": "xiě zuò",
+      "meaning": "to write; to compose; writing",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "点心",
+      "page": 84,
+      "starred": false,
+      "pinyin": "diǎn xīn",
+      "meaning": "light refreshments; pastry; dim sum (in Cantonese cooking)",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "作为",
+      "page": 84,
+      "starred": false,
+      "pinyin": "zuò wéi",
+      "meaning": "one's conduct; deed; activity",
+      "level": 4
+    },
+    {
+      "number": 14,
+      "text": "学问",
+      "page": 84,
+      "starred": false,
+      "pinyin": "xué wèn",
+      "meaning": "learning; knowledge; scholarship; a body of specialized knowledge (CL:門|门[men2]); (fig.) any activity that demands expertise, skill or experience (e.g. gathering forensic evidence, selecting clothing, managing relationships)",
+      "level": 6
+    },
+    {
+      "number": 15,
+      "text": "讲究",
+      "page": 84,
+      "starred": false,
+      "pinyin": "jiǎng jiū",
+      "meaning": "to pay particular attention to; carefully selected for quality; tastefully chosen",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "平均",
+      "page": 84,
+      "starred": false,
+      "pinyin": "píng jūn",
+      "meaning": "average; on average; evenly; in equal proportions",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "胡同",
+      "page": 84,
+      "starred": false,
+      "pinyin": "hú tòng",
+      "meaning": "lane; alley",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "位于",
+      "page": 84,
+      "starred": false,
+      "pinyin": "wèi yú",
+      "meaning": "to be located at; to be situated at; to lie",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "首",
+      "page": 84,
+      "starred": false,
+      "pinyin": "shǒu",
+      "meaning": "head; chief; first (occasion, thing etc)",
+      "level": 4
+    },
+    {
+      "number": 20,
+      "text": "豪华",
+      "page": 84,
+      "starred": false,
+      "pinyin": "háo huá",
+      "meaning": "luxurious",
+      "level": 7
+    },
+    {
+      "number": 21,
+      "text": "光临",
+      "page": 84,
+      "starred": false,
+      "pinyin": "guāng lín",
+      "meaning": "(formal) to honor with one's presence; to attend",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "交际",
+      "page": 84,
+      "starred": false,
+      "pinyin": "jiāo jì",
+      "meaning": "communication; social intercourse",
+      "level": 6
+    },
+    {
+      "number": 23,
+      "text": "大方",
+      "page": 84,
+      "starred": false,
+      "pinyin": "dà fāng",
+      "meaning": "expert; scholar; mother earth",
+      "level": 6
+    },
+    {
+      "number": 24,
+      "text": "好客",
+      "page": 84,
+      "starred": false,
+      "pinyin": "hào kè",
+      "meaning": "hospitality; to treat guests well; to enjoy having guests",
+      "level": 6
+    },
+    {
+      "number": 25,
+      "text": "呼朋唤友",
+      "page": 84,
+      "starred": false,
+      "meaning": "to call together one's friends; to gather friends",
+      "pinyin": "hū péng huàn yǒu",
+      "level": null
+    },
+    {
+      "number": 26,
+      "text": "招待",
+      "page": 84,
+      "starred": false,
+      "pinyin": "zhāo dài",
+      "meaning": "to hold a reception; to offer hospitality; to entertain (guests); to serve (customers)",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "高档",
+      "page": 85,
+      "starred": false,
+      "pinyin": "gāo dàng",
+      "meaning": "superior quality; high grade; top grade",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "胃口",
+      "page": 85,
+      "starred": false,
+      "pinyin": "wèi kǒu",
+      "meaning": "appetite; liking",
+      "level": 6
+    },
+    {
+      "number": 29,
+      "text": "明明",
+      "page": 85,
+      "starred": false,
+      "pinyin": "míng míng",
+      "meaning": "obviously; plainly; undoubtedly",
+      "level": 6
+    },
+    {
+      "number": 30,
+      "text": "胃",
+      "page": 85,
+      "starred": false,
+      "pinyin": "wèi",
+      "meaning": "stomach",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "戒",
+      "page": 85,
+      "starred": false,
+      "meaning": "to give up; to quit",
+      "pinyin": "jiè",
+      "level": 7
+    },
+    {
+      "number": 32,
+      "text": "保存",
+      "page": 85,
+      "starred": false,
+      "pinyin": "bǎo cún",
+      "meaning": "to conserve; to preserve; to keep; to store; (computing) to save (a file etc)",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "资料",
+      "page": 85,
+      "starred": false,
+      "pinyin": "zī liào",
+      "meaning": "material; resources; data",
+      "level": 4
+    },
+    {
+      "number": 34,
+      "text": "曾经",
+      "page": 85,
+      "starred": false,
+      "pinyin": "céng jīng",
+      "meaning": "once; already; former",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "形容",
+      "page": 85,
+      "starred": false,
+      "pinyin": "xíng róng",
+      "meaning": "to describe; (literary) countenance; appearance",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "朦胧",
+      "page": 85,
+      "starred": true,
+      "meaning": "drowsy; half asleep",
+      "pinyin": "méng lóng",
+      "level": 7
+    },
+    {
+      "number": 37,
+      "text": "悠悠",
+      "page": 85,
+      "starred": true,
+      "meaning": "leisurely; unhurriedly",
+      "pinyin": "yōu yōu",
+      "level": null
+    },
+    {
+      "number": 38,
+      "text": "形象",
+      "page": 85,
+      "starred": false,
+      "meaning": "vivid",
+      "pinyin": "xíng xiàng",
+      "level": 5
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "id": "course-08",
+  "sourcePages": [
+    75,
+    76,
+    77
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "朝三暮四",
+      "page": 75,
+      "starred": true,
+      "pinyin": "zhāo sān mù sì",
+      "meaning": "lit. say three in the morning but four in the evening (idiom); to change sth that is already settled upon; indecisive; to blow hot and cold",
+      "level": 7
+    },
+    {
+      "number": 2,
+      "text": "词汇",
+      "page": 75,
+      "starred": false,
+      "pinyin": "cí huì",
+      "meaning": "vocabulary; list of words (e.g. for language teaching purposes); word",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "固定",
+      "page": 75,
+      "starred": false,
+      "pinyin": "gù dìng",
+      "meaning": "to fix; to fasten; to set rigidly in place",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "结构",
+      "page": 75,
+      "starred": false,
+      "pinyin": "jié gòu",
+      "meaning": "structure; composition; makeup",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "整体",
+      "page": 75,
+      "starred": false,
+      "pinyin": "zhěng tǐ",
+      "meaning": "whole; entirety; overall; whole; general; on the whole; overall",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "综合",
+      "page": 75,
+      "starred": false,
+      "pinyin": "zōng hé",
+      "meaning": "comprehensive; composite; synthesized",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "完整",
+      "page": 75,
+      "starred": false,
+      "pinyin": "wán zhěng",
+      "meaning": "complete; intact",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "哲学家",
+      "page": 75,
+      "starred": true,
+      "pinyin": "zhé xué jiā",
+      "meaning": "philosopher",
+      "level": null
+    },
+    {
+      "number": 9,
+      "text": "寓言",
+      "page": 75,
+      "starred": true,
+      "pinyin": "yù yán",
+      "meaning": "fable; allegory; parable",
+      "level": 7
+    },
+    {
+      "number": 10,
+      "text": "喂养",
+      "page": 76,
+      "starred": true,
+      "pinyin": "wèi yǎng",
+      "meaning": "to feed (a child, domestic animal etc); to keep; to raise (an animal)",
+      "level": 7
+    },
+    {
+      "number": 11,
+      "text": "群",
+      "page": 76,
+      "starred": false,
+      "pinyin": "qún",
+      "meaning": "group; crowd; flock, herd, pack etc",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "猴子",
+      "page": 76,
+      "starred": false,
+      "pinyin": "hóu zi",
+      "meaning": "monkey",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "宠物",
+      "page": 76,
+      "starred": false,
+      "pinyin": "chǒng wù",
+      "meaning": "house pet",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "相处",
+      "page": 76,
+      "starred": false,
+      "pinyin": "xiāng chǔ",
+      "meaning": "to be in contact (with sb); to associate; to interact",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "彼此",
+      "page": 76,
+      "starred": false,
+      "pinyin": "bǐ cǐ",
+      "meaning": "each other; one another",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "表情",
+      "page": 76,
+      "starred": false,
+      "pinyin": "biǎo qíng",
+      "meaning": "(facial) expression; to express one's feelings",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "行为",
+      "page": 76,
+      "starred": false,
+      "pinyin": "xíng wéi",
+      "meaning": "action; conduct; behavior; activity",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "对方",
+      "page": 76,
+      "starred": false,
+      "pinyin": "duì fāng",
+      "meaning": "the other person; the other side; the other party",
+      "level": 4
+    },
+    {
+      "number": 19,
+      "text": "蔬菜",
+      "page": 76,
+      "starred": false,
+      "pinyin": "shū cài",
+      "meaning": "vegetables",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "粮食",
+      "page": 76,
+      "starred": false,
+      "pinyin": "liáng shí",
+      "meaning": "foodstuff; cereals",
+      "level": 5
+    },
+    {
+      "number": 21,
+      "text": "家庭",
+      "page": 76,
+      "starred": false,
+      "pinyin": "jiā tíng",
+      "meaning": "family; household",
+      "level": 4
+    },
+    {
+      "number": 22,
+      "text": "财产",
+      "page": 76,
+      "starred": false,
+      "pinyin": "cái chǎn",
+      "meaning": "property; assets; estate",
+      "level": 6
+    },
+    {
+      "number": 23,
+      "text": "消费",
+      "page": 76,
+      "starred": false,
+      "pinyin": "xiāo fèi",
+      "meaning": "to consume (goods and services, resources etc)",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "节省",
+      "page": 76,
+      "starred": false,
+      "pinyin": "jié shěng",
+      "meaning": "saving; to save; to use sparingly",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "限制",
+      "page": 76,
+      "starred": false,
+      "pinyin": "xiàn zhì",
+      "meaning": "to restrict; to limit; to confine",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "猪",
+      "page": 76,
+      "starred": false,
+      "pinyin": "zhū",
+      "meaning": "hog; pig; swine",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "调皮",
+      "page": 76,
+      "starred": false,
+      "pinyin": "tiáo pí",
+      "meaning": "naughty; mischievous; unruly",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "淘气",
+      "page": 76,
+      "starred": false,
+      "pinyin": "táo qì",
+      "meaning": "naughty; mischievous",
+      "level": 6
+    },
+    {
+      "number": 29,
+      "text": "橡子",
+      "page": 76,
+      "starred": false,
+      "pinyin": "xiàng zi",
+      "meaning": "acorn",
+      "level": null
+    },
+    {
+      "number": 30,
+      "text": "果实",
+      "page": 76,
+      "starred": false,
+      "pinyin": "guǒ shí",
+      "meaning": "fruit (produced by a plant); (fig.) fruits (of success etc); results",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "不足",
+      "page": 76,
+      "starred": false,
+      "pinyin": "bù zú",
+      "meaning": "insufficient; lacking; deficiency",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "倒",
+      "page": 76,
+      "starred": false,
+      "pinyin": "dǎo",
+      "meaning": "to fall; to collapse; to lie horizontally; to fail; to go bankrupt; to overthrow",
+      "level": 4
+    },
+    {
+      "number": 33,
+      "text": "馒头",
+      "page": 77,
+      "starred": false,
+      "pinyin": "mán tou",
+      "meaning": "steamed bun",
+      "level": 4
+    },
+    {
+      "number": 34,
+      "text": "颗",
+      "page": 77,
+      "starred": false,
+      "pinyin": "kē",
+      "meaning": "classifier for small spheres, pearls, corn grains, teeth, hearts, satellites etc",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "似乎",
+      "page": 77,
+      "starred": false,
+      "pinyin": "sì hū",
+      "meaning": "it seems; seemingly; as if",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "吃亏",
+      "page": 77,
+      "starred": false,
+      "pinyin": "chī kuī",
+      "meaning": "to suffer losses; to come to grief; to lose out",
+      "level": 7
+    },
+    {
+      "number": 37,
+      "text": "方式",
+      "page": 77,
+      "starred": false,
+      "pinyin": "fāng shì",
+      "meaning": "way; method; manner; mode; pattern (of behavior etc)",
+      "level": 4
+    },
+    {
+      "number": 38,
+      "text": "安慰",
+      "page": 77,
+      "starred": false,
+      "pinyin": "ān wèi",
+      "meaning": "to comfort; to console",
+      "level": 5
+    },
+    {
+      "number": 39,
+      "text": "要不",
+      "page": 77,
+      "starred": false,
+      "pinyin": "yào bù",
+      "meaning": "otherwise; or else; how about...?",
+      "level": 5
+    },
+    {
+      "number": 40,
+      "text": "显得",
+      "page": 77,
+      "starred": false,
+      "pinyin": "xiǎn de",
+      "meaning": "to seem; to look; to appear",
+      "level": 5
+    },
+    {
+      "number": 41,
+      "text": "格外",
+      "page": 77,
+      "starred": false,
+      "pinyin": "gé wài",
+      "meaning": "especially; particularly; even more than usual; extra; additional",
+      "level": 5
+    },
+    {
+      "number": 42,
+      "text": "情景",
+      "page": 77,
+      "starred": false,
+      "pinyin": "qíng jǐng",
+      "meaning": "scene; spectacle; circumstances; situation",
+      "level": 5
+    },
+    {
+      "number": 43,
+      "text": "哈",
+      "page": 77,
+      "starred": false,
+      "meaning": "ha! (a sound of laughter)",
+      "pinyin": "hā",
+      "level": 5
+    }
+  ]
+}

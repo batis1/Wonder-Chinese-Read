@@ -1,0 +1,380 @@
+{
+  "id": "course-11",
+  "sourcePages": [
+    100,
+    101,
+    102
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "闹钟",
+      "page": 100,
+      "starred": false,
+      "pinyin": "nào zhōng",
+      "meaning": "alarm clock",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "危害",
+      "page": 100,
+      "starred": false,
+      "pinyin": "wēi hài",
+      "meaning": "to harm; to jeopardize; to endanger; harmful effect; damage",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "人类",
+      "page": 100,
+      "starred": false,
+      "pinyin": "rén lèi",
+      "meaning": "humanity; human race; mankind",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "机制",
+      "page": 100,
+      "starred": true,
+      "pinyin": "jī zhì",
+      "meaning": "mechanism; machine-processed; machine-made",
+      "level": 6
+    },
+    {
+      "number": 5,
+      "text": "生物",
+      "page": 100,
+      "starred": true,
+      "pinyin": "shēng wù",
+      "meaning": "organism; living creature; life form; (attributive) biological; bio-",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "规律",
+      "page": 100,
+      "starred": false,
+      "pinyin": "guī lǜ",
+      "meaning": "rule (e.g. of science); law of behavior; regular pattern",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "光线",
+      "page": 100,
+      "starred": false,
+      "pinyin": "guāng xiàn",
+      "meaning": "light ray; light; illumination",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "必要",
+      "page": 100,
+      "starred": false,
+      "pinyin": "bì yào",
+      "meaning": "necessary; essential; indispensable",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "过渡",
+      "page": 101,
+      "starred": true,
+      "pinyin": "guò dù",
+      "meaning": "to cross over (by ferry); transition; interim",
+      "level": 6
+    },
+    {
+      "number": 10,
+      "text": "浅",
+      "page": 101,
+      "starred": false,
+      "pinyin": "qiǎn",
+      "meaning": "sound of moving water; shallow; light (color)",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "现代",
+      "page": 101,
+      "starred": false,
+      "pinyin": "xiàn dài",
+      "meaning": "Hyundai, South Korean company; modern times; modern age",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "享受",
+      "page": 101,
+      "starred": false,
+      "pinyin": "xiǎng shòu",
+      "meaning": "to enjoy; to live it up; pleasure",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "用途",
+      "page": 101,
+      "starred": false,
+      "pinyin": "yòng tú",
+      "meaning": "use; application",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "实验",
+      "page": 101,
+      "starred": false,
+      "pinyin": "shí yàn",
+      "meaning": "experiment; test; experimental",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "铃",
+      "page": 101,
+      "starred": false,
+      "pinyin": "líng",
+      "meaning": "(small) bell",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "所",
+      "page": 101,
+      "starred": false,
+      "pinyin": "suǒ",
+      "meaning": "actually; place; classifier for houses, small buildings, institutions etc",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "状态",
+      "page": 101,
+      "starred": false,
+      "pinyin": "zhuàng tài",
+      "meaning": "condition; state; state of affairs",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "清醒",
+      "page": 101,
+      "starred": false,
+      "pinyin": "qīng xǐng",
+      "meaning": "clear-headed; sober; awake",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "呼吸",
+      "page": 101,
+      "starred": false,
+      "pinyin": "hū xī",
+      "meaning": "to breathe",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "心理",
+      "page": 101,
+      "starred": false,
+      "pinyin": "xīn lǐ",
+      "meaning": "psychology; mentality",
+      "level": 5
+    },
+    {
+      "number": 21,
+      "text": "慌",
+      "display": "慌（张）",
+      "page": 101,
+      "starred": false,
+      "pinyin": "huāng",
+      "meaning": "to get panicky; to lose one's head; (coll.) (after 得[de2]) unbearably; terribly",
+      "level": 7
+    },
+    {
+      "number": 22,
+      "text": "情绪",
+      "page": 101,
+      "starred": false,
+      "pinyin": "qíng xù",
+      "meaning": "mood; state of mind; moodiness",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "低落",
+      "page": 101,
+      "starred": false,
+      "pinyin": "dī luò",
+      "meaning": "downcast; gloomy; to decline; to get worse",
+      "level": 7
+    },
+    {
+      "number": 24,
+      "text": "记忆",
+      "page": 101,
+      "starred": false,
+      "pinyin": "jì yì",
+      "meaning": "to remember; to recall; memory",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "计算",
+      "page": 101,
+      "starred": false,
+      "pinyin": "jì suàn",
+      "meaning": "to calculate; to compute; to consider; to think over; to plot; to scheme",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "相当",
+      "page": 101,
+      "starred": false,
+      "pinyin": "xiāng dāng",
+      "meaning": "equivalent to; appropriate; considerably",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "持续",
+      "page": 101,
+      "starred": false,
+      "pinyin": "chí xù",
+      "meaning": "to continue; to last; to persist",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "数",
+      "page": 101,
+      "starred": false,
+      "pinyin": "shù",
+      "meaning": "to count; to count as; to regard as; to enumerate; to list",
+      "level": 4
+    },
+    {
+      "number": 29,
+      "text": "导致",
+      "page": 101,
+      "starred": false,
+      "pinyin": "dǎo zhì",
+      "meaning": "to lead to; to create; to cause; to bring about",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "失眠",
+      "page": 101,
+      "starred": false,
+      "pinyin": "shī mián",
+      "meaning": "to suffer from insomnia",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "精神",
+      "page": 101,
+      "starred": false,
+      "pinyin": "jīng shén",
+      "meaning": "spirit; mind; consciousness",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "专家",
+      "page": 102,
+      "starred": false,
+      "pinyin": "zhuān jiā",
+      "meaning": "expert; specialist",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "采用",
+      "page": 102,
+      "starred": false,
+      "pinyin": "cǎi yòng",
+      "meaning": "to adopt; to employ; to use",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "柔和",
+      "page": 102,
+      "starred": true,
+      "pinyin": "róu hé",
+      "meaning": "gentle; soft",
+      "level": 7
+    },
+    {
+      "number": 35,
+      "text": "愿望",
+      "page": 102,
+      "starred": false,
+      "pinyin": "yuàn wàng",
+      "meaning": "desire; wish",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "窗帘",
+      "page": 102,
+      "starred": false,
+      "pinyin": "chuāng lián",
+      "meaning": "window curtains",
+      "level": 7
+    },
+    {
+      "number": 37,
+      "text": "市场",
+      "page": 102,
+      "starred": false,
+      "pinyin": "shì chǎng",
+      "meaning": "marketplace; market; bazaar; (economics) market",
+      "level": 4
+    },
+    {
+      "number": 38,
+      "text": "产品",
+      "page": 102,
+      "starred": false,
+      "pinyin": "chǎn pǐn",
+      "meaning": "goods; merchandise; product",
+      "level": 5
+    },
+    {
+      "number": 39,
+      "text": "模仿",
+      "page": 102,
+      "starred": false,
+      "pinyin": "mó fǎng",
+      "meaning": "to imitate; to copy; to emulate",
+      "level": 6
+    },
+    {
+      "number": 40,
+      "text": "避免",
+      "page": 102,
+      "starred": false,
+      "pinyin": "bì miǎn",
+      "meaning": "to avert; to prevent; to avoid",
+      "level": 5
+    },
+    {
+      "number": 41,
+      "text": "传统",
+      "page": 102,
+      "starred": false,
+      "pinyin": "chuán tǒng",
+      "meaning": "tradition; traditional",
+      "level": 5
+    }
+  ]
+}

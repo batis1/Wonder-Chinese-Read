@@ -1,0 +1,10 @@
+PyMuPDF==1.26.6
+jieba==0.42.1
+pypinyin==0.55.0
+rapidocr-onnxruntime==1.4.4
+faster-whisper==1.2.1
+stable-ts==2.19.1
+transformers>=4.44,<5
+sentencepiece>=0.2
+sacremoses>=0.1
+requests>=2.32

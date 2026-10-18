@@ -1,0 +1,227 @@
+{
+  "id": "course-35",
+  "sourcePages": [
+    149,
+    150,
+    151,
+    152
+  ],
+  "points": [
+    {
+      "point": "赶快",
+      "kind": "usage",
+      "pages": [
+        149
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“赶快”，副词，意思是“抓紧时间、加快速度”。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "我下个月要搬家，得赶快找房子。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "这份材料下午开会要用，你赶快把它复印一下。"
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "…… ……一旦温度上升，大脑就会指挥我们的身体赶快出汗，"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "_____ ,要不该赶上堵车了。 (赶快)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: _____。 (赶快)\nB: 好,我马上就收拾好了。"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 你怎么还在玩儿游戏?火车票预定了吗?\nB: _____ (赶快)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "片",
+      "kind": "usage",
+      "pages": [
+        149,
+        150
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“片”，名词，平而薄的东西，一般不是太大。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "瓶子里装着满满的石头、玻璃碎片和沙子。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "大树们出的 “汗，，，通常是从叶片的气孔里冒出来的，"
+        },
+        {
+          "type": "explanation",
+          "text": "“片”还是量词，用于成片的东西；也用于声音、景色等。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "窗外有一棵大树，秋风中，叶子一片片地掉落下来。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "同学们听了，发出一片热烈的欢呼声。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "A: 我来切菜吧,土豆怎么切?\nB: _____ (片-名词)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "今天早上我吃了 _____ (片—量词)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 这药怎么吃?\nB: _____ (片-量词)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "根本",
+      "kind": "usage",
+      "pages": [
+        150
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“根本”，名词，事物最重要的部分。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "教育是国家的根本。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "这个办法只能救急，不能从根本上解决问题。"
+        },
+        {
+          "type": "explanation",
+          "text": "“根本”还是形容词，意思是“主要的、最重要的、起决定作用的”。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "谈判还算顺利，一些根本的问题都谈好了。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "政府工作应从人民的根本利益出发。"
+        },
+        {
+          "type": "explanation",
+          "text": "“根本”也是副词，表示从头到尾、始终，多用于否定句中。例如："
+        },
+        {
+          "type": "example",
+          "number": 5,
+          "text": "有时候我会梦见参加考试，可是却发现自己根本读不懂考试的题目。"
+        },
+        {
+          "type": "example",
+          "number": 6,
+          "text": "可是，经过测验计算发现，以大树输送管道的尺寸产生的毛细作用，根本无法把水分送到几十米高的地方。"
+        },
+        {
+          "type": "explanation",
+          "text": "“根本”做副词时还表示彻底、完全。例如："
+        },
+        {
+          "type": "example",
+          "number": 7,
+          "text": "事情已经根本解决了。"
+        },
+        {
+          "type": "example",
+          "number": 8,
+          "text": "他根本就是在故意找我们的麻烦。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "A: 你觉得他说的话有道理吗?\nB: _____ (根本)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "搬家要整理的东西太多了, _____ (根本)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "秦国人在赵国四处散布谣言,说秦军最怕赵括,(根本)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "特殊 / 特别",
+      "kind": "comparison",
+      "pages": [
+        151,
+        152
+      ],
+      "common": [
+        "做形容词时，都有和一般不一样的意思。",
+        "如：对我来说，他是一个特殊/特别的人。"
+      ],
+      "terms": [
+        {
+          "word": "特殊",
+          "paragraphs": [
+            "1.多用于书面语。",
+            "如：因为跟蒸腾作用有关，这种特殊的提升力就被称为“蒸腾拉力",
+            "2.没有这个用法。"
+          ]
+        },
+        {
+          "word": "特别",
+          "paragraphs": [
+            "1.口语和书面语均可使用。",
+            "如：她穿衣服总是很特别。",
+            "2.还可做副词。意思是“格外”",
+            "如：我特别喜欢学中文，尤其是汉字。"
+          ]
+        }
+      ]
+    }
+  ]
+}

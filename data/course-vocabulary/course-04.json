@@ -1,0 +1,371 @@
+{
+  "id": "course-04",
+  "sourcePages": [
+    39,
+    40,
+    41
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "背",
+      "page": 39,
+      "starred": false,
+      "pinyin": "bèi",
+      "meaning": "to carry on one's back; (fig.) to bear; to shoulder (a burden, blame etc); the back of a body or object",
+      "level": 4
+    },
+    {
+      "number": 2,
+      "text": "从前",
+      "page": 39,
+      "starred": false,
+      "pinyin": "cóng qián",
+      "meaning": "previously; formerly; once upon a time",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "时期",
+      "page": 39,
+      "starred": false,
+      "pinyin": "shí qī",
+      "meaning": "period; phase",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "流传",
+      "page": 39,
+      "starred": false,
+      "pinyin": "liú chuán",
+      "meaning": "to spread; to circulate; to hand down",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "至今",
+      "page": 39,
+      "starred": false,
+      "pinyin": "zhì jīn",
+      "meaning": "so far; to this day; until now",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "孝敬",
+      "page": 39,
+      "starred": true,
+      "pinyin": "xiào jìng",
+      "meaning": "to show filial respect; to give presents (to one's elders or superiors); to support one's aged parents",
+      "level": 7
+    },
+    {
+      "number": 7,
+      "text": "农民",
+      "page": 39,
+      "starred": false,
+      "pinyin": "nóng mín",
+      "meaning": "peasant; farmer",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "战争",
+      "page": 39,
+      "starred": false,
+      "pinyin": "zhàn zhēng",
+      "meaning": "war; conflict",
+      "level": 6
+    },
+    {
+      "number": 9,
+      "text": "满足",
+      "page": 39,
+      "starred": false,
+      "pinyin": "mǎn zú",
+      "meaning": "to satisfy; to meet (the needs of); satisfied",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "惭愧",
+      "page": 40,
+      "starred": false,
+      "pinyin": "cán kuì",
+      "meaning": "ashamed",
+      "level": 7
+    },
+    {
+      "number": 11,
+      "text": "决心",
+      "page": 40,
+      "starred": false,
+      "pinyin": "jué xīn",
+      "meaning": "determination; resolution; determined",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "委屈",
+      "page": 40,
+      "starred": false,
+      "pinyin": "wěi qū",
+      "meaning": "wronged; aggrieved; to inconvenience; to put (sb) at a disadvantage; to do sb wrong; sense of being wronged",
+      "level": 6
+    },
+    {
+      "number": 13,
+      "text": "打听",
+      "page": 40,
+      "starred": false,
+      "pinyin": "dǎ tīng",
+      "meaning": "to ask about; to make some inquiries; to ask around",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "主人",
+      "page": 40,
+      "starred": false,
+      "pinyin": "zhǔ rén",
+      "meaning": "owner; host; master",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "结实",
+      "page": 40,
+      "starred": false,
+      "pinyin": "jiē shí",
+      "meaning": "to bear fruit; rugged; sturdy",
+      "level": 6
+    },
+    {
+      "number": 16,
+      "text": "勤奋",
+      "page": 40,
+      "starred": false,
+      "pinyin": "qín fèn",
+      "meaning": "hardworking; diligent",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "银",
+      "display": "银（子）",
+      "page": 40,
+      "starred": false,
+      "pinyin": "yín",
+      "meaning": "silver; silver-colored; relating to money or currency",
+      "level": 6
+    },
+    {
+      "number": 18,
+      "text": "老实",
+      "page": 40,
+      "starred": false,
+      "pinyin": "lǎo shí",
+      "meaning": "honest; sincere; well-behaved; naive; gullible",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "镇",
+      "page": 40,
+      "starred": false,
+      "meaning": "town",
+      "pinyin": "zhèn",
+      "level": 6
+    },
+    {
+      "number": 20,
+      "text": "后背",
+      "page": 40,
+      "starred": false,
+      "pinyin": "hòu bèi",
+      "meaning": "the back (human anatomy); the back part of sth",
+      "level": null
+    },
+    {
+      "number": 21,
+      "text": "滑",
+      "page": 40,
+      "starred": false,
+      "pinyin": "huá",
+      "meaning": "to slip; to slide; slippery; smooth; sly; slippery; not to be trusted",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "甩",
+      "page": 40,
+      "starred": false,
+      "pinyin": "shuǎi",
+      "meaning": "to throw; to fling; to swing",
+      "level": 7
+    },
+    {
+      "number": 23,
+      "text": "顶",
+      "page": 40,
+      "starred": false,
+      "pinyin": "dǐng",
+      "meaning": "apex; crown of the head; top",
+      "level": 6
+    },
+    {
+      "number": 24,
+      "text": "扶",
+      "page": 40,
+      "starred": false,
+      "pinyin": "fú",
+      "meaning": "to support with the hand; to help sb up; to support oneself by holding onto something",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "不行",
+      "page": 40,
+      "starred": false,
+      "pinyin": "bù xíng",
+      "meaning": "won't do; be out of the question; be no good",
+      "level": 3
+    },
+    {
+      "number": 26,
+      "text": "团圆",
+      "page": 40,
+      "starred": true,
+      "pinyin": "tuán yuán",
+      "meaning": "to have a reunion",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "去世",
+      "page": 40,
+      "starred": false,
+      "pinyin": "qù shì",
+      "meaning": "to pass away; to die",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "国君",
+      "page": 40,
+      "starred": false,
+      "pinyin": "guó jūn",
+      "meaning": "monarch",
+      "level": null
+    },
+    {
+      "number": 29,
+      "text": "本领",
+      "page": 40,
+      "starred": false,
+      "pinyin": "běn lǐng",
+      "meaning": "skill; ability; capability",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "人才",
+      "page": 40,
+      "starred": false,
+      "pinyin": "rén cái",
+      "meaning": "talent; talented person; looks",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "官",
+      "page": 40,
+      "starred": false,
+      "pinyin": "guān",
+      "meaning": "government official; governmental; official",
+      "level": 6
+    },
+    {
+      "number": 32,
+      "text": "物质",
+      "page": 41,
+      "starred": false,
+      "pinyin": "wù zhì",
+      "meaning": "matter; substance; material",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "反而",
+      "page": 41,
+      "starred": false,
+      "pinyin": "fǎn ér",
+      "meaning": "on the contrary; instead",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "诚恳",
+      "page": 41,
+      "starred": false,
+      "pinyin": "chéng kěn",
+      "meaning": "sincere; honest; cordial",
+      "level": 7
+    },
+    {
+      "number": 35,
+      "text": "成就",
+      "page": 41,
+      "starred": false,
+      "pinyin": "chéng jiù",
+      "meaning": "accomplishment; success; achievement",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "古代",
+      "page": 41,
+      "starred": false,
+      "pinyin": "gǔ dài",
+      "meaning": "ancient times",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "孝顺",
+      "page": 41,
+      "starred": false,
+      "pinyin": "xiào shùn",
+      "meaning": "filial; dutiful; devoted to one's parents (and grandparents etc)",
+      "level": 7
+    },
+    {
+      "number": 38,
+      "text": "美德",
+      "page": 41,
+      "starred": false,
+      "pinyin": "měi dé",
+      "meaning": "USA and Germany; virtue",
+      "level": 7
+    },
+    {
+      "number": 39,
+      "text": "占",
+      "page": 41,
+      "starred": false,
+      "meaning": "to occupy; to account for",
+      "pinyin": "zhàn",
+      "level": 5
+    },
+    {
+      "number": 40,
+      "text": "食物",
+      "page": 41,
+      "starred": false,
+      "pinyin": "shí wù",
+      "meaning": "food",
+      "level": 4
+    }
+  ]
+}

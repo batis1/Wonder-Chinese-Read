@@ -1,0 +1,426 @@
+{
+  "id": "course-05",
+  "sourcePages": [
+    47,
+    48,
+    49
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "悠久",
+      "page": 47,
+      "starred": false,
+      "pinyin": "yōu jiǔ",
+      "meaning": "long (tradition, history etc)",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "文字",
+      "page": 47,
+      "starred": false,
+      "pinyin": "wén zì",
+      "meaning": "character; script; writing",
+      "level": 4
+    },
+    {
+      "number": 3,
+      "text": "记载",
+      "page": 47,
+      "starred": true,
+      "pinyin": "jì zǎi",
+      "meaning": "to write down; to record; written account",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "形状",
+      "page": 47,
+      "starred": false,
+      "pinyin": "xíng zhuàng",
+      "meaning": "form; shape",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "描写",
+      "page": 47,
+      "starred": false,
+      "pinyin": "miáo xiě",
+      "meaning": "to describe; to depict; to portray; depiction; portrayal",
+      "level": 6
+    },
+    {
+      "number": 6,
+      "text": "赞美",
+      "page": 47,
+      "starred": false,
+      "pinyin": "zàn měi",
+      "meaning": "to admire; to praise; to eulogize",
+      "level": 7
+    },
+    {
+      "number": 7,
+      "text": "诗",
+      "page": 47,
+      "starred": false,
+      "meaning": "poem; poetry",
+      "pinyin": "shī",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "老百姓",
+      "page": 47,
+      "starred": false,
+      "pinyin": "lǎo bǎi xìng",
+      "meaning": "ordinary people; the \"person in the street\"",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "充满",
+      "page": 48,
+      "starred": false,
+      "pinyin": "chōng mǎn",
+      "meaning": "full of; brimming with; very full",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "感激",
+      "page": 48,
+      "starred": false,
+      "pinyin": "gǎn jī",
+      "meaning": "to be grateful; to appreciate; thankful",
+      "level": 6
+    },
+    {
+      "number": 11,
+      "text": "从而",
+      "page": 48,
+      "starred": false,
+      "pinyin": "cóng ér",
+      "meaning": "thus; thereby",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "产生",
+      "page": 48,
+      "starred": false,
+      "pinyin": "chǎn shēng",
+      "meaning": "to arise; to come into being; to come about; to give rise to; to bring into being; to bring about; to produce; to engender; to generate",
+      "level": 4
+    },
+    {
+      "number": 13,
+      "text": "传说",
+      "page": 48,
+      "starred": false,
+      "pinyin": "chuán shuō",
+      "meaning": "legend; folk tale; to repeat from mouth to mouth; they say that...",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "善良",
+      "page": 48,
+      "starred": false,
+      "pinyin": "shàn liáng",
+      "meaning": "good and honest; kindhearted",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "救",
+      "page": 48,
+      "starred": false,
+      "pinyin": "jiù",
+      "meaning": "to save; to assist; to rescue",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "晕",
+      "page": 48,
+      "starred": false,
+      "meaning": "to faint; to pass out",
+      "pinyin": "yūn",
+      "level": 6
+    },
+    {
+      "number": 17,
+      "text": "龙",
+      "page": 48,
+      "starred": false,
+      "pinyin": "lóng",
+      "meaning": "Chinese dragon; loong; (fig.) emperor; dragon",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "治",
+      "display": "治（疗）",
+      "page": 48,
+      "starred": false,
+      "meaning": "to treat; to cure",
+      "pinyin": "zhì",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "玉",
+      "page": 48,
+      "starred": true,
+      "pinyin": "yù",
+      "meaning": "jade",
+      "level": 7
+    },
+    {
+      "number": 20,
+      "text": "壶",
+      "page": 48,
+      "starred": false,
+      "pinyin": "hú",
+      "meaning": "pot; classifier for bottled liquid",
+      "level": 6
+    },
+    {
+      "number": 21,
+      "text": "抢",
+      "page": 48,
+      "starred": false,
+      "meaning": "to rob; to snatch",
+      "pinyin": "qiǎng",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "埋",
+      "page": 48,
+      "starred": true,
+      "pinyin": "mái",
+      "meaning": "to bury; used in 埋怨[man2 yuan4]",
+      "level": 6
+    },
+    {
+      "number": 23,
+      "text": "藏",
+      "display": "（躲）藏",
+      "page": 48,
+      "starred": false,
+      "pinyin": "cáng",
+      "meaning": "to hide",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "如今",
+      "page": 48,
+      "starred": false,
+      "pinyin": "rú jīn",
+      "meaning": "nowadays; now",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "分布",
+      "page": 48,
+      "starred": false,
+      "pinyin": "fēn bù",
+      "meaning": "to scatter; to distribute; to be distributed (over an area etc)",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "天然",
+      "page": 48,
+      "starred": false,
+      "pinyin": "tiān rán",
+      "meaning": "natural",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "优美",
+      "page": 48,
+      "starred": false,
+      "pinyin": "yōu měi",
+      "meaning": "graceful; fine; elegant",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "独特",
+      "page": 48,
+      "starred": false,
+      "pinyin": "dú tè",
+      "meaning": "unique; distinctive",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "反映",
+      "page": 48,
+      "starred": false,
+      "pinyin": "fǎn yìng",
+      "meaning": "to mirror; to reflect; mirror image",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "珍珠",
+      "page": 48,
+      "starred": true,
+      "pinyin": "zhēn zhū",
+      "meaning": "pearl (CL:顆|颗[ke1],粒[li4]); (fig.) teardrop; tear",
+      "level": 6
+    },
+    {
+      "number": 32,
+      "text": "形成",
+      "page": 49,
+      "starred": false,
+      "pinyin": "xíng chéng",
+      "meaning": "to form; to take shape",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "于",
+      "page": 49,
+      "starred": false,
+      "meaning": "from; out of",
+      "pinyin": "yú",
+      "level": 6
+    },
+    {
+      "number": 34,
+      "text": "广大",
+      "page": 49,
+      "starred": false,
+      "pinyin": "guǎng dà",
+      "meaning": "(of an area) vast or extensive; large-scale; widespread",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "岩石",
+      "page": 49,
+      "starred": false,
+      "pinyin": "yán shí",
+      "meaning": "(geology) rock",
+      "level": 7
+    },
+    {
+      "number": 36,
+      "text": "亿",
+      "page": 49,
+      "starred": false,
+      "pinyin": "yì",
+      "meaning": "100 million",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "石灰岩",
+      "page": 49,
+      "starred": false,
+      "pinyin": "shí huī yán",
+      "meaning": "limestone",
+      "level": null
+    },
+    {
+      "number": 38,
+      "text": "地区",
+      "page": 49,
+      "starred": false,
+      "pinyin": "dì qū",
+      "meaning": "region; area (informal or geographical term); prefecture (in China's administrative system)",
+      "level": 5
+    },
+    {
+      "number": 39,
+      "text": "表面",
+      "page": 49,
+      "starred": false,
+      "pinyin": "biǎo miàn",
+      "meaning": "surface; face; outside",
+      "level": 5
+    },
+    {
+      "number": 40,
+      "text": "角度",
+      "page": 49,
+      "starred": false,
+      "pinyin": "jiǎo dù",
+      "meaning": "angle; (fig.) point of view",
+      "level": 5
+    },
+    {
+      "number": 41,
+      "text": "斜",
+      "page": 49,
+      "starred": false,
+      "pinyin": "xié",
+      "meaning": "inclined; slanting; oblique",
+      "level": 5
+    },
+    {
+      "number": 42,
+      "text": "为",
+      "page": 49,
+      "starred": false,
+      "meaning": "to become",
+      "pinyin": "wéi",
+      "level": 3
+    },
+    {
+      "number": 43,
+      "text": "火成岩",
+      "page": 49,
+      "starred": false,
+      "pinyin": "huǒ chéng yán",
+      "meaning": "igneous rock (geology); volcanic rock",
+      "level": null
+    },
+    {
+      "number": 44,
+      "text": "碰",
+      "page": 49,
+      "starred": false,
+      "pinyin": "pèng",
+      "meaning": "to touch; to meet with; to bump",
+      "level": 5
+    },
+    {
+      "number": 45,
+      "text": "挡",
+      "page": 49,
+      "starred": false,
+      "pinyin": "dǎng",
+      "meaning": "to resist; to obstruct; to hinder",
+      "level": 5
+    },
+    {
+      "number": 46,
+      "text": "地势",
+      "page": 49,
+      "starred": true,
+      "pinyin": "dì shì",
+      "meaning": "terrain; topography relief",
+      "level": 7
+    },
+    {
+      "number": 47,
+      "text": "冲",
+      "page": 49,
+      "starred": false,
+      "pinyin": "chōng",
+      "meaning": "(of water) to dash against; to mix with water; to infuse",
+      "level": 5
+    }
+  ]
+}

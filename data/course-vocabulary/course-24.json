@@ -1,0 +1,343 @@
+{
+  "id": "course-24",
+  "sourcePages": [
+    56,
+    57,
+    58
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "支教",
+      "page": 56,
+      "starred": false,
+      "pinyin": "zhī jiào",
+      "meaning": "program bringing education to underdeveloped areas; to work in such a program",
+      "level": null
+    },
+    {
+      "number": 2,
+      "text": "行动",
+      "page": 56,
+      "starred": false,
+      "pinyin": "xíng dòng",
+      "meaning": "operation; action; to move about",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "家访",
+      "page": 56,
+      "starred": false,
+      "pinyin": "jiā fǎng",
+      "meaning": "to pay a home visit, esp. (of a teacher) to visit a student's home",
+      "level": null
+    },
+    {
+      "number": 4,
+      "text": "发言",
+      "page": 56,
+      "starred": false,
+      "pinyin": "fā yán",
+      "meaning": "to make a speech; statement; utterance",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "及格",
+      "page": 56,
+      "starred": false,
+      "pinyin": "jí gé",
+      "meaning": "to pass an exam or a test; to meet a minimum standard",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "交往",
+      "page": 56,
+      "starred": false,
+      "pinyin": "jiāo wǎng",
+      "meaning": "to associate (with); to have contact (with); to hang out (with)",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "家务",
+      "page": 57,
+      "starred": false,
+      "pinyin": "jiā wù",
+      "meaning": "household duties; housework",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "体贴",
+      "page": 57,
+      "starred": false,
+      "pinyin": "tǐ tiē",
+      "meaning": "considerate (of other people's needs)",
+      "level": 7
+    },
+    {
+      "number": 9,
+      "text": "排练",
+      "page": 57,
+      "starred": false,
+      "pinyin": "pái liàn",
+      "meaning": "to rehearse; rehearsal",
+      "level": 6
+    },
+    {
+      "number": 10,
+      "text": "蝴蝶",
+      "page": 57,
+      "starred": false,
+      "pinyin": "hú dié",
+      "meaning": "butterfly",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "舞蹈",
+      "page": 57,
+      "starred": true,
+      "pinyin": "wǔ dǎo",
+      "meaning": "dance (performance art); dancing",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "冠军",
+      "page": 57,
+      "starred": false,
+      "pinyin": "guàn jūn",
+      "meaning": "champion",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "鼓掌",
+      "page": 57,
+      "starred": false,
+      "pinyin": "gǔ zhǎng",
+      "meaning": "to applaud; to clap",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "用功",
+      "page": 57,
+      "starred": false,
+      "pinyin": "yòng gōng",
+      "meaning": "diligent; industrious (in one's studies); to study hard",
+      "level": 6
+    },
+    {
+      "number": 15,
+      "text": "进步",
+      "page": 57,
+      "starred": false,
+      "pinyin": "jìn bù",
+      "meaning": "progress; improvement; to improve; to progress",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "题目",
+      "page": 57,
+      "starred": false,
+      "pinyin": "tí mù",
+      "meaning": "subject; title; topic; exercise or exam question (CL:道[dao4])",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "朗读",
+      "page": 57,
+      "starred": false,
+      "pinyin": "lǎng dú",
+      "meaning": "to read aloud",
+      "level": 6
+    },
+    {
+      "number": 18,
+      "text": "温柔",
+      "page": 57,
+      "starred": false,
+      "pinyin": "wēn róu",
+      "meaning": "gentle and soft; tender; sweet (commonly used to describe a girl or woman)",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "热烈",
+      "page": 57,
+      "starred": false,
+      "pinyin": "rè liè",
+      "meaning": "enthusiastic; ardent; warm",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "勇气",
+      "page": 57,
+      "starred": false,
+      "pinyin": "yǒng qì",
+      "meaning": "courage",
+      "level": 5
+    },
+    {
+      "number": 21,
+      "text": "青壮年",
+      "page": 57,
+      "starred": true,
+      "pinyin": "qīng zhuàng nián",
+      "meaning": "the prime of one's life",
+      "level": null
+    },
+    {
+      "number": 22,
+      "text": "闯",
+      "page": 57,
+      "starred": false,
+      "pinyin": "chuǎng",
+      "meaning": "to rush; to charge; to dash",
+      "level": 6
+    },
+    {
+      "number": 23,
+      "text": "留守",
+      "page": 57,
+      "starred": true,
+      "pinyin": "liú shǒu",
+      "meaning": "to stay behind to take care of things",
+      "level": null
+    },
+    {
+      "number": 24,
+      "text": "主题",
+      "page": 57,
+      "starred": false,
+      "pinyin": "zhǔ tí",
+      "meaning": "theme; subject",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "地理",
+      "page": 57,
+      "starred": false,
+      "pinyin": "dì lǐ",
+      "meaning": "geography",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "采访",
+      "page": 57,
+      "starred": false,
+      "pinyin": "cǎi fǎng",
+      "meaning": "to interview; to gather news; to hunt for and collect",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "利用",
+      "page": 57,
+      "starred": false,
+      "pinyin": "lì yòng",
+      "meaning": "to exploit; to make use of; to use",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "空闲",
+      "page": 57,
+      "starred": false,
+      "pinyin": "kòng xián",
+      "meaning": "leisure; spare time; (of a person) free; unoccupied; (of equipment, rooms etc) unused; idle; vacant",
+      "level": 6
+    },
+    {
+      "number": 29,
+      "text": "指导",
+      "page": 57,
+      "starred": false,
+      "pinyin": "zhǐ dǎo",
+      "meaning": "to guide; to direct; to instruct; coach; trainer",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "培训",
+      "page": 57,
+      "starred": false,
+      "pinyin": "péi xùn",
+      "meaning": "to cultivate; to train; to groom",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "建设",
+      "page": 57,
+      "starred": false,
+      "pinyin": "jiàn shè",
+      "meaning": "to build; to construct; to establish; to develop; to institute",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "操心",
+      "page": 58,
+      "starred": false,
+      "pinyin": "cāo xīn",
+      "meaning": "to worry about",
+      "level": 7
+    },
+    {
+      "number": 33,
+      "text": "承担",
+      "page": 58,
+      "starred": false,
+      "pinyin": "chéng dān",
+      "meaning": "to undertake; to assume (responsibility etc)",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "义务",
+      "page": 58,
+      "starred": false,
+      "pinyin": "yì wù",
+      "meaning": "duty; obligation (CL:項|项[xiang4]); volunteer (work etc)",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "艰巨",
+      "page": 58,
+      "starred": false,
+      "pinyin": "jiān jù",
+      "meaning": "(of a task, mission or responsibility) extremely difficult; challenging; demanding",
+      "level": 7
+    },
+    {
+      "number": 36,
+      "text": "力量",
+      "page": 58,
+      "starred": false,
+      "pinyin": "lì liàng",
+      "meaning": "power; force; strength",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "收获",
+      "page": 58,
+      "starred": false,
+      "pinyin": "shōu huò",
+      "meaning": "to harvest; to reap; to gain",
+      "level": 5
+    }
+  ]
+}

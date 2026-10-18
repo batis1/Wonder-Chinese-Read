@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="badge"><rect width="32" height="32" rx="6"/></clipPath>
+  </defs>
+  <rect width="32" height="32" rx="6" fill="#ed4b5b"/>
+  <path clip-path="url(#badge)" fill="#fff" fill-rule="evenodd" d="M6 6.5h12.5l7 7V15c0 3-1.5 5-4.5 5.8L32 32h-8.2l-9.1-10.5h-3.4V27H6V6.5Zm5.3 5v5h6.6c1.5 0 2.3-.8 2.3-2.2v-.8l-2-2h-6.9Z"/>
+</svg>

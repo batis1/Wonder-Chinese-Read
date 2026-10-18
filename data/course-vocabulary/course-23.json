@@ -1,0 +1,370 @@
+{
+  "id": "course-23",
+  "sourcePages": [
+    48,
+    49,
+    50
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "乖",
+      "page": 48,
+      "starred": false,
+      "pinyin": "guāi",
+      "meaning": "(of a child) obedient, well-behaved; clever; shrewd",
+      "level": 7
+    },
+    {
+      "number": 2,
+      "text": "刻苦",
+      "page": 48,
+      "starred": false,
+      "pinyin": "kè kǔ",
+      "meaning": "hardworking; assiduous",
+      "level": 7
+    },
+    {
+      "number": 3,
+      "text": "遵守",
+      "page": 48,
+      "starred": false,
+      "pinyin": "zūn shǒu",
+      "meaning": "to comply with; to abide by; to respect (an agreement)",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "纪律",
+      "page": 48,
+      "starred": false,
+      "pinyin": "jì lǜ",
+      "meaning": "discipline",
+      "level": 6
+    },
+    {
+      "number": 5,
+      "text": "征求",
+      "page": 48,
+      "starred": false,
+      "pinyin": "zhēng qiú",
+      "meaning": "to solicit; to seek; to request (opinions, feedback etc)",
+      "level": 6
+    },
+    {
+      "number": 6,
+      "text": "念",
+      "page": 48,
+      "starred": false,
+      "pinyin": "niàn",
+      "meaning": "to read; to study (a subject); to attend (a school)",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "基本",
+      "page": 48,
+      "starred": false,
+      "pinyin": "jī běn",
+      "meaning": "basic; fundamental; main",
+      "level": 4
+    },
+    {
+      "number": 8,
+      "text": "阶段",
+      "page": 49,
+      "starred": false,
+      "pinyin": "jiē duàn",
+      "meaning": "stage; section; phase",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "亲爱",
+      "page": 49,
+      "starred": false,
+      "pinyin": "qīn ài",
+      "meaning": "dear; beloved; darling",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "违反",
+      "page": 49,
+      "starred": false,
+      "pinyin": "wéi fǎn",
+      "meaning": "to violate (a law)",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "规矩",
+      "page": 49,
+      "starred": false,
+      "pinyin": "guī jǔ",
+      "meaning": "lit. compass and set square; fig. established standard; rule",
+      "level": 6
+    },
+    {
+      "number": 12,
+      "text": "能干",
+      "page": 49,
+      "starred": false,
+      "pinyin": "néng gàn",
+      "meaning": "capable; competent",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "讲座",
+      "page": 49,
+      "starred": false,
+      "pinyin": "jiǎng zuò",
+      "meaning": "course of lectures; lecture series; chair (academic position)",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "出席",
+      "page": 49,
+      "starred": false,
+      "pinyin": "chū xí",
+      "meaning": "to attend; to participate; present",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "酒吧",
+      "page": 49,
+      "starred": false,
+      "pinyin": "jiǔ bā",
+      "meaning": "bar (place to buy drinks)",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "担任",
+      "page": 49,
+      "starred": false,
+      "pinyin": "dān rèn",
+      "meaning": "to hold a governmental office or post; to assume office of; to take charge of",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "主席",
+      "page": 49,
+      "starred": false,
+      "pinyin": "zhǔ xí",
+      "meaning": "chairperson; premier; chairman",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "组织",
+      "page": 49,
+      "starred": false,
+      "pinyin": "zǔ zhī",
+      "meaning": "to organize; organization; (biology) tissue",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "外交",
+      "page": 49,
+      "starred": false,
+      "pinyin": "wài jiāo",
+      "meaning": "diplomacy; diplomatic; foreign affairs",
+      "level": 6
+    },
+    {
+      "number": 20,
+      "text": "经商",
+      "page": 49,
+      "starred": false,
+      "pinyin": "jīng shāng",
+      "meaning": "to trade; to carry out commercial activities; in business",
+      "level": 6
+    },
+    {
+      "number": 21,
+      "text": "目标",
+      "page": 49,
+      "starred": false,
+      "pinyin": "mù biāo",
+      "meaning": "target; goal; objective",
+      "level": 4
+    },
+    {
+      "number": 22,
+      "text": "系",
+      "page": 49,
+      "starred": false,
+      "meaning": "department; faculty",
+      "pinyin": "xì",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "名牌",
+      "page": 49,
+      "starred": false,
+      "pinyin": "míng pái",
+      "meaning": "famous brand; nameplate; name tag",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "录取",
+      "page": 49,
+      "starred": false,
+      "pinyin": "lù qǔ",
+      "meaning": "to accept an applicant (prospective student, employee etc) who passes an entrance exam; to admit (a student); to hire (a job candidate)",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "面临",
+      "page": 49,
+      "starred": false,
+      "pinyin": "miàn lín",
+      "meaning": "to face sth; to be confronted with",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "一致",
+      "page": 49,
+      "starred": false,
+      "pinyin": "yī zhì",
+      "meaning": "consistent; unanimous; in agreement; together; in unison",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "让步",
+      "page": 49,
+      "starred": true,
+      "pinyin": "ràng bù",
+      "meaning": "to concede; to give in; to yield",
+      "level": 7
+    },
+    {
+      "number": 28,
+      "text": "隐约",
+      "page": 49,
+      "starred": false,
+      "pinyin": "yǐn yuē",
+      "meaning": "vague; faint; indistinct",
+      "level": 7
+    },
+    {
+      "number": 29,
+      "text": "陌生",
+      "page": 49,
+      "starred": false,
+      "pinyin": "mò shēng",
+      "meaning": "strange; unfamiliar",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "某",
+      "page": 49,
+      "starred": false,
+      "pinyin": "mǒu",
+      "meaning": "some; a certain; sb or sth indefinite",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "建立",
+      "page": 49,
+      "starred": false,
+      "pinyin": "jiàn lì",
+      "meaning": "to establish; to set up; to found",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "单独",
+      "page": 49,
+      "starred": false,
+      "pinyin": "dān dú",
+      "meaning": "alone; by oneself; on one's own",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "沟通",
+      "page": 49,
+      "starred": false,
+      "pinyin": "gōu tōng",
+      "meaning": "to join; to connect; to link up; to communicate",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "横",
+      "page": 50,
+      "starred": true,
+      "pinyin": "héng",
+      "meaning": "horizontal; across; crosswise",
+      "level": 6
+    },
+    {
+      "number": 35,
+      "text": "沙滩",
+      "page": 50,
+      "starred": false,
+      "pinyin": "shā tān",
+      "meaning": "beach; sandy shore",
+      "level": 7
+    },
+    {
+      "number": 36,
+      "text": "沉默",
+      "page": 50,
+      "starred": false,
+      "pinyin": "chén mò",
+      "meaning": "taciturn; uncommunicative; silent",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "吻",
+      "page": 50,
+      "starred": false,
+      "pinyin": "wěn",
+      "meaning": "kiss; to kiss; mouth",
+      "level": 7
+    },
+    {
+      "number": 38,
+      "text": "忍不住",
+      "page": 50,
+      "starred": false,
+      "pinyin": "rěn bú zhù",
+      "meaning": "cannot help; unable to bear",
+      "level": null
+    },
+    {
+      "number": 39,
+      "text": "幸亏",
+      "page": 50,
+      "starred": false,
+      "pinyin": "xìng kuī",
+      "meaning": "fortunately; luckily",
+      "level": 7
+    },
+    {
+      "number": 40,
+      "text": "暗",
+      "page": 50,
+      "starred": false,
+      "pinyin": "àn",
+      "meaning": "dark; to turn dark; secret; hidden",
+      "level": 5
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "id": "course-32",
+  "sourcePages": [
+    122,
+    123,
+    124
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "消失",
+      "page": 122,
+      "starred": false,
+      "pinyin": "xiāo shī",
+      "meaning": "to disappear; to fade away",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "洪水",
+      "page": 122,
+      "starred": true,
+      "pinyin": "hóng shuǐ",
+      "meaning": "deluge; flood",
+      "level": 6
+    },
+    {
+      "number": 3,
+      "text": "地震",
+      "page": 122,
+      "starred": false,
+      "pinyin": "dì zhèn",
+      "meaning": "earthquake",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "破坏",
+      "page": 122,
+      "starred": false,
+      "pinyin": "pò huài",
+      "meaning": "destruction; damage; to wreck",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "砍",
+      "page": 122,
+      "starred": false,
+      "pinyin": "kǎn",
+      "meaning": "to chop; to cut down; to throw sth at sb",
+      "level": 6
+    },
+    {
+      "number": 6,
+      "text": "生存",
+      "page": 122,
+      "starred": true,
+      "pinyin": "shēng cún",
+      "meaning": "to exist; to survive",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "沙漠",
+      "page": 123,
+      "starred": false,
+      "pinyin": "shā mò",
+      "meaning": "desert",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "公布",
+      "page": 123,
+      "starred": false,
+      "pinyin": "gōng bù",
+      "meaning": "to announce; to make public; to publish",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "数据",
+      "page": 123,
+      "starred": false,
+      "pinyin": "shù jù",
+      "meaning": "data",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "真实",
+      "page": 123,
+      "starred": false,
+      "pinyin": "zhēn shí",
+      "meaning": "true; real",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "夸张",
+      "page": 123,
+      "starred": false,
+      "pinyin": "kuā zhāng",
+      "meaning": "to exaggerate; overstated; exaggerated; hyperbole",
+      "level": 6
+    },
+    {
+      "number": 12,
+      "text": "资源",
+      "page": 123,
+      "starred": false,
+      "pinyin": "zī yuán",
+      "meaning": "natural resource (such as water or minerals); resource (such as manpower or tourism)",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "车祸",
+      "page": 123,
+      "starred": false,
+      "pinyin": "chē huò",
+      "meaning": "traffic accident; car crash",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "不安",
+      "page": 123,
+      "starred": false,
+      "pinyin": "bù ān",
+      "meaning": "unpeaceful; unstable; uneasy",
+      "level": 6
+    },
+    {
+      "number": 15,
+      "text": "工业",
+      "page": 123,
+      "starred": false,
+      "pinyin": "gōng yè",
+      "meaning": "industry",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "农业",
+      "page": 123,
+      "starred": false,
+      "pinyin": "nóng yè",
+      "meaning": "agriculture; farming",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "生产",
+      "page": 123,
+      "starred": false,
+      "pinyin": "shēng chǎn",
+      "meaning": "to produce; to manufacture; to give birth to a child",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "大型",
+      "page": 123,
+      "starred": false,
+      "pinyin": "dà xíng",
+      "meaning": "large; large-scale",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "工厂",
+      "page": 123,
+      "starred": false,
+      "pinyin": "gōng chǎng",
+      "meaning": "factory",
+      "level": 4
+    },
+    {
+      "number": 20,
+      "text": "废",
+      "page": 123,
+      "starred": false,
+      "meaning": "waste; useless",
+      "pinyin": "fèi",
+      "level": 7
+    },
+    {
+      "number": 21,
+      "text": "燃烧",
+      "page": 123,
+      "starred": false,
+      "pinyin": "rán shāo",
+      "meaning": "to ignite; to combust; to burn",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "煤炭",
+      "page": 123,
+      "starred": false,
+      "pinyin": "méi tàn",
+      "meaning": "coal",
+      "level": 7
+    },
+    {
+      "number": 23,
+      "text": "密切",
+      "page": 123,
+      "starred": false,
+      "pinyin": "mì qiè",
+      "meaning": "close; intimate; to strengthen (ties, cooperation etc); closely; intently; carefully",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "尾气",
+      "page": 123,
+      "starred": true,
+      "pinyin": "wěi qì",
+      "meaning": "exhaust; emissions",
+      "level": 7
+    },
+    {
+      "number": 25,
+      "text": "幸运",
+      "page": 123,
+      "starred": false,
+      "pinyin": "xìng yùn",
+      "meaning": "fortunate; lucky; good fortune; luck",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "敏感",
+      "page": 123,
+      "starred": false,
+      "pinyin": "mǐn gǎn",
+      "meaning": "sensitive; susceptible",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "自觉",
+      "page": 123,
+      "starred": false,
+      "pinyin": "zì jué",
+      "meaning": "to realize; to be aware of; to feel that; to be conscious of (sth relating to oneself); responsible; predisposed to do the right thing; considerate of others",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "设施",
+      "page": 123,
+      "starred": false,
+      "pinyin": "shè shī",
+      "meaning": "facilities; installation",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "能源",
+      "page": 123,
+      "starred": false,
+      "pinyin": "néng yuán",
+      "meaning": "energy sources; energy",
+      "level": 6
+    },
+    {
+      "number": 30,
+      "text": "逐步",
+      "page": 123,
+      "starred": false,
+      "pinyin": "zhú bù",
+      "meaning": "progressively; step by step",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "尽量",
+      "page": 123,
+      "starred": false,
+      "pinyin": "jǐn liàng",
+      "meaning": "as much as possible; to the greatest extent",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "私",
+      "display": "私（人）",
+      "page": 123,
+      "starred": false,
+      "pinyin": "sī",
+      "meaning": "(bound form) personal; private; (bound form) selfish; (bound form) clandestine",
+      "level": null
+    },
+    {
+      "number": 33,
+      "text": "尊敬",
+      "page": 124,
+      "starred": false,
+      "pinyin": "zūn jìng",
+      "meaning": "to respect; to revere; to esteem; honorable; distinguished (used on formal occasions before a term of address)",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "鼓舞",
+      "page": 124,
+      "starred": false,
+      "pinyin": "gǔ wǔ",
+      "meaning": "to inspire; to encourage; to hearten; to boost (morale)",
+      "level": 6
+    },
+    {
+      "number": 35,
+      "text": "消极",
+      "page": 124,
+      "starred": false,
+      "pinyin": "xiāo jí",
+      "meaning": "negative; passive; inactive",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "幻想",
+      "page": 124,
+      "starred": false,
+      "pinyin": "huàn xiǎng",
+      "meaning": "to fantasize; to imagine; an illusion; a fantasy",
+      "level": 6
+    },
+    {
+      "number": 37,
+      "text": "贡献",
+      "page": 124,
+      "starred": false,
+      "pinyin": "gòng xiàn",
+      "meaning": "to contribute; to dedicate; to devote",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "命运",
+      "page": 124,
+      "starred": false,
+      "pinyin": "mìng yùn",
+      "meaning": "fate; destiny",
+      "level": 5
+    },
+    {
+      "number": 39,
+      "text": "掌握",
+      "page": 124,
+      "starred": false,
+      "pinyin": "zhǎng wò",
+      "meaning": "to grasp (often fig.); to control; to seize (initiative, opportunity, destiny)",
+      "level": 5
+    }
+  ]
+}

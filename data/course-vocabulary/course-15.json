@@ -1,0 +1,363 @@
+{
+  "id": "course-15",
+  "sourcePages": [
+    134,
+    135,
+    136
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "纸上谈兵",
+      "page": 134,
+      "starred": false,
+      "pinyin": "zhǐ shàng tán bīng",
+      "meaning": "lit. military tactics on paper (idiom); fig. theoretical discussion that is worse than useless in practice; armchair strategist",
+      "level": 7
+    },
+    {
+      "number": 2,
+      "text": "军事",
+      "page": 134,
+      "starred": false,
+      "pinyin": "jūn shì",
+      "meaning": "military affairs; (attributive) military",
+      "level": 7
+    },
+    {
+      "number": 3,
+      "text": "敌",
+      "display": "敌（人）",
+      "page": 134,
+      "starred": false,
+      "pinyin": "dí",
+      "meaning": "(bound form) enemy; (bound form) to be a match for; to rival; (bound form) to resist; to withstand",
+      "level": null
+    },
+    {
+      "number": 4,
+      "text": "理论",
+      "page": 134,
+      "starred": false,
+      "pinyin": "lǐ lùn",
+      "meaning": "theory; to argue; to take notice of",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "作战",
+      "page": 134,
+      "starred": false,
+      "pinyin": "zuò zhàn",
+      "meaning": "combat; to fight",
+      "level": 7
+    },
+    {
+      "number": 6,
+      "text": "毛病",
+      "page": 134,
+      "starred": false,
+      "pinyin": "máo bìng",
+      "meaning": "fault; defect; shortcomings",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "道理",
+      "page": 134,
+      "starred": false,
+      "pinyin": "dào lǐ",
+      "meaning": "reason; argument; sense",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "迟早",
+      "page": 134,
+      "starred": false,
+      "pinyin": "chí zǎo",
+      "meaning": "sooner or later",
+      "level": 7
+    },
+    {
+      "number": 9,
+      "text": "军队",
+      "page": 135,
+      "starred": true,
+      "pinyin": "jūn duì",
+      "meaning": "armed forces; troops",
+      "level": 6
+    },
+    {
+      "number": 10,
+      "text": "派",
+      "page": 135,
+      "starred": false,
+      "pinyin": "pài",
+      "meaning": "used in 派司[pa1 si5]; (literary) tributary; branch of a river; clique; school; group; faction",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "弱",
+      "page": 135,
+      "starred": false,
+      "pinyin": "ruò",
+      "meaning": "weak; feeble; young; inferior; not as good as",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "形势",
+      "page": 135,
+      "starred": false,
+      "pinyin": "xíng shì",
+      "meaning": "circumstances; situation; terrain",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "命令",
+      "page": 135,
+      "starred": false,
+      "pinyin": "mìng lìng",
+      "meaning": "order; command",
+      "level": 6
+    },
+    {
+      "number": 14,
+      "text": "守",
+      "page": 135,
+      "starred": true,
+      "pinyin": "shǒu",
+      "meaning": "to guard; to defend; to keep watch",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "阵地",
+      "page": 135,
+      "starred": true,
+      "pinyin": "zhèn dì",
+      "meaning": "(military) position; front",
+      "level": 7
+    },
+    {
+      "number": 16,
+      "text": "绝对",
+      "page": 135,
+      "starred": false,
+      "pinyin": "jué duì",
+      "meaning": "absolute; unconditional",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "主动",
+      "page": 135,
+      "starred": false,
+      "pinyin": "zhǔ dòng",
+      "meaning": "to take the initiative; to do sth of one's own accord; spontaneous",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "挑战",
+      "page": 135,
+      "starred": false,
+      "pinyin": "tiǎo zhàn",
+      "meaning": "to challenge; to take on a challenge; a challenge",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "骂",
+      "page": 135,
+      "starred": false,
+      "pinyin": "mà",
+      "meaning": "to scold; to abuse; to curse",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "胆小鬼",
+      "page": 135,
+      "starred": false,
+      "pinyin": "dǎn xiǎo guǐ",
+      "meaning": "coward",
+      "level": 7
+    },
+    {
+      "number": 21,
+      "text": "胜利",
+      "page": 135,
+      "starred": false,
+      "pinyin": "shèng lì",
+      "meaning": "victory",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "调",
+      "display": "调（动）",
+      "page": 135,
+      "starred": false,
+      "pinyin": "diào",
+      "meaning": "to transfer; to move (troops or cadres); to investigate",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "散布",
+      "page": 135,
+      "starred": true,
+      "pinyin": "sàn bù",
+      "meaning": "to disseminate",
+      "level": 7
+    },
+    {
+      "number": 24,
+      "text": "谣言",
+      "page": 135,
+      "starred": false,
+      "pinyin": "yáo yán",
+      "meaning": "rumor",
+      "level": 7
+    },
+    {
+      "number": 25,
+      "text": "上当",
+      "page": 135,
+      "starred": false,
+      "pinyin": "shàng dàng",
+      "meaning": "taken in (by sb's deceit); to be fooled; to be duped",
+      "level": 6
+    },
+    {
+      "number": 26,
+      "text": "再三",
+      "page": 135,
+      "starred": false,
+      "pinyin": "zài sān",
+      "meaning": "over and over again; again and again",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "阻止",
+      "page": 135,
+      "starred": false,
+      "pinyin": "zǔ zhǐ",
+      "meaning": "to prevent; to block",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "任命",
+      "page": 135,
+      "starred": true,
+      "pinyin": "rèn mìng",
+      "meaning": "to appoint; (job) appointment",
+      "level": 7
+    },
+    {
+      "number": 29,
+      "text": "独立",
+      "page": 135,
+      "starred": false,
+      "pinyin": "dú lì",
+      "meaning": "independent; independence; to stand alone",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "资格",
+      "page": 135,
+      "starred": false,
+      "pinyin": "zī gé",
+      "meaning": "qualifications; seniority",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "糊涂",
+      "page": 135,
+      "starred": false,
+      "pinyin": "hú tú",
+      "meaning": "muddled; silly; confused",
+      "level": 7
+    },
+    {
+      "number": 32,
+      "text": "公元",
+      "page": 136,
+      "starred": false,
+      "pinyin": "gōng yuán",
+      "meaning": "CE (Common Era); Christian Era; AD (Anno Domini)",
+      "level": 6
+    },
+    {
+      "number": 33,
+      "text": "盲目",
+      "page": 136,
+      "starred": false,
+      "pinyin": "máng mù",
+      "meaning": "(fig.) (of one's actions) blind; unthinking",
+      "level": 7
+    },
+    {
+      "number": 34,
+      "text": "轻视",
+      "page": 136,
+      "starred": false,
+      "pinyin": "qīng shì",
+      "meaning": "contempt; contemptuous; to despise",
+      "level": 7
+    },
+    {
+      "number": 35,
+      "text": "方案",
+      "page": 136,
+      "starred": false,
+      "pinyin": "fāng àn",
+      "meaning": "plan; program (for action etc); proposal",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "进攻",
+      "page": 136,
+      "starred": false,
+      "pinyin": "jìn gōng",
+      "meaning": "to attack; to assault; to go on the offensive",
+      "level": 7
+    },
+    {
+      "number": 37,
+      "text": "宝贵",
+      "page": 136,
+      "starred": false,
+      "pinyin": "bǎo guì",
+      "meaning": "valuable; precious; to value",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "讽刺",
+      "page": 136,
+      "starred": false,
+      "pinyin": "fěng cì",
+      "meaning": "to satirize; to mock; irony",
+      "level": 7
+    },
+    {
+      "number": 39,
+      "text": "灵活",
+      "page": 136,
+      "starred": false,
+      "pinyin": "líng huó",
+      "meaning": "flexible; nimble; agile",
+      "level": 5
+    }
+  ]
+}

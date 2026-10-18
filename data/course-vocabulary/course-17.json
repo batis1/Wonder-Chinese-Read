@@ -1,0 +1,307 @@
+{
+  "id": "course-17",
+  "sourcePages": [
+    152,
+    153,
+    154
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "事物",
+      "page": 152,
+      "starred": false,
+      "pinyin": "shì wù",
+      "meaning": "thing; object",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "高峰",
+      "page": 152,
+      "starred": true,
+      "pinyin": "gāo fēng",
+      "meaning": "peak; summit; height",
+      "level": 6
+    },
+    {
+      "number": 3,
+      "text": "终点",
+      "page": 152,
+      "starred": true,
+      "pinyin": "zhōng diǎn",
+      "meaning": "the end; end point; finishing line (in a race)",
+      "level": 6
+    },
+    {
+      "number": 4,
+      "text": "迅速",
+      "page": 152,
+      "starred": false,
+      "pinyin": "xùn sù",
+      "meaning": "rapid; speedy; fast",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "深刻",
+      "page": 152,
+      "starred": false,
+      "pinyin": "shēn kè",
+      "meaning": "profound; deep; deep-going",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "戏剧",
+      "page": 152,
+      "starred": false,
+      "pinyin": "xì jù",
+      "meaning": "a drama; a play; theater; script of a play",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "投入",
+      "page": 152,
+      "starred": false,
+      "pinyin": "tóu rù",
+      "meaning": "to throw into; to put into; to throw oneself into",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "服装",
+      "page": 152,
+      "starred": false,
+      "pinyin": "fú zhuāng",
+      "meaning": "dress; clothing; costume",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "化妆",
+      "page": 152,
+      "starred": true,
+      "pinyin": "huà zhuāng",
+      "meaning": "to put on makeup",
+      "level": 6
+    },
+    {
+      "number": 10,
+      "text": "道具",
+      "page": 152,
+      "starred": false,
+      "pinyin": "dào jù",
+      "meaning": "(theater) prop; paraphernalia; (gaming) item; artifact",
+      "level": 7
+    },
+    {
+      "number": 11,
+      "text": "美术",
+      "page": 153,
+      "starred": false,
+      "pinyin": "měi shù",
+      "meaning": "art; fine arts; painting",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "以",
+      "page": 153,
+      "starred": false,
+      "meaning": "in order to; so as to",
+      "pinyin": "yǐ",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "良好",
+      "page": 153,
+      "starred": false,
+      "pinyin": "liáng hǎo",
+      "meaning": "good; favorable; well",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "争取",
+      "page": 153,
+      "starred": false,
+      "pinyin": "zhēng qǔ",
+      "meaning": "to fight for; to strive for; to win over",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "忽视",
+      "page": 153,
+      "starred": false,
+      "pinyin": "hū shì",
+      "meaning": "to neglect; to overlook; to disregard; to ignore",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "魅力",
+      "page": 153,
+      "starred": false,
+      "pinyin": "mèi lì",
+      "meaning": "charm; fascination; glamor",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "糟糕",
+      "page": 153,
+      "starred": false,
+      "pinyin": "zāo gāo",
+      "meaning": "too bad; how terrible; what bad luck",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "婚礼",
+      "page": 153,
+      "starred": false,
+      "pinyin": "hūn lǐ",
+      "meaning": "wedding ceremony; wedding",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "等于",
+      "page": 153,
+      "starred": false,
+      "pinyin": "děng yú",
+      "meaning": "to equal; to be tantamount to",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "度过",
+      "page": 153,
+      "starred": false,
+      "pinyin": "dù guò",
+      "meaning": "to pass; to spend (time); to survive",
+      "level": null
+    },
+    {
+      "number": 21,
+      "text": "告别",
+      "page": 153,
+      "starred": false,
+      "pinyin": "gào bié",
+      "meaning": "to leave; to part from; to bid farewell to; to say goodbye to",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "平常",
+      "page": 153,
+      "starred": false,
+      "pinyin": "píng cháng",
+      "meaning": "ordinary; common; usually",
+      "level": 4
+    },
+    {
+      "number": 23,
+      "text": "依然",
+      "page": 153,
+      "starred": false,
+      "pinyin": "yī rán",
+      "meaning": "still; as before",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "推荐",
+      "page": 153,
+      "starred": false,
+      "pinyin": "tuī jiàn",
+      "meaning": "to recommend",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "淋漓尽致",
+      "page": 153,
+      "starred": false,
+      "pinyin": "lín lí jìn zhì",
+      "meaning": "lit. extreme saturation (idiom); fig. vividly and thoroughly; in great detail",
+      "level": null
+    },
+    {
+      "number": 26,
+      "text": "评价",
+      "page": 153,
+      "starred": false,
+      "pinyin": "píng jià",
+      "meaning": "to evaluate; to assess",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "烂",
+      "page": 153,
+      "starred": false,
+      "meaning": "bad; lame",
+      "pinyin": "làn",
+      "level": 6
+    },
+    {
+      "number": 28,
+      "text": "主持",
+      "page": 154,
+      "starred": false,
+      "pinyin": "zhǔ chí",
+      "meaning": "to take charge of; to manage or direct; to preside over",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "运用",
+      "page": 154,
+      "starred": false,
+      "pinyin": "yùn yòng",
+      "meaning": "to use; to put to use",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "开幕式",
+      "page": 154,
+      "starred": false,
+      "pinyin": "kāi mù shì",
+      "meaning": "opening ceremony",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "宁可",
+      "page": 154,
+      "starred": false,
+      "pinyin": "nìng kě",
+      "meaning": "preferably; one would prefer to...(or not to...); would rather",
+      "level": 7
+    },
+    {
+      "number": 32,
+      "text": "集中",
+      "page": 154,
+      "starred": false,
+      "pinyin": "jí zhōng",
+      "meaning": "to concentrate; to centralize; to focus",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "体会",
+      "page": 154,
+      "starred": false,
+      "pinyin": "tǐ huì",
+      "meaning": "to know from experience; to learn through experience; to realize",
+      "level": 5
+    }
+  ]
+}

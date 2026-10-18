@@ -1,0 +1,334 @@
+{
+  "id": "course-20",
+  "sourcePages": [
+    23,
+    24,
+    25
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "摊",
+      "page": 23,
+      "starred": false,
+      "meaning": "stall; stand",
+      "pinyin": "tān",
+      "level": 7
+    },
+    {
+      "number": 2,
+      "text": "出版",
+      "page": 23,
+      "starred": false,
+      "pinyin": "chū bǎn",
+      "meaning": "to publish",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "连环画",
+      "page": 23,
+      "starred": false,
+      "pinyin": "lián huán huà",
+      "meaning": "lianhuanhua (graphic novel)",
+      "level": null
+    },
+    {
+      "number": 4,
+      "text": "年代",
+      "page": 23,
+      "starred": false,
+      "pinyin": "nián dài",
+      "meaning": "a decade of a century (e.g. the Sixties); age; era",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "单调",
+      "page": 23,
+      "starred": false,
+      "pinyin": "dān diào",
+      "meaning": "monotonous",
+      "level": 6
+    },
+    {
+      "number": 6,
+      "text": "网络",
+      "page": 23,
+      "starred": false,
+      "pinyin": "wǎng luò",
+      "meaning": "network; Internet",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "动画片",
+      "page": 23,
+      "starred": false,
+      "pinyin": "dòng huà piàn",
+      "meaning": "animated film",
+      "level": null
+    },
+    {
+      "number": 8,
+      "text": "娱乐",
+      "page": 23,
+      "starred": false,
+      "pinyin": "yú lè",
+      "meaning": "to entertain; to amuse; entertainment",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "无数",
+      "page": 23,
+      "starred": false,
+      "pinyin": "wú shù",
+      "meaning": "countless; numberless; innumerable",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "青少年",
+      "page": 23,
+      "starred": false,
+      "pinyin": "qīng shào nián",
+      "meaning": "adolescent; youth; teenager",
+      "level": null
+    },
+    {
+      "number": 11,
+      "text": "从事",
+      "page": 24,
+      "starred": false,
+      "pinyin": "cóng shì",
+      "meaning": "to go for; to engage in; to undertake",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "毫无",
+      "page": 24,
+      "starred": false,
+      "pinyin": "háo wú",
+      "meaning": "not in the least; to completely lack",
+      "level": 6
+    },
+    {
+      "number": 13,
+      "text": "疑问",
+      "page": 24,
+      "starred": false,
+      "pinyin": "yí wèn",
+      "meaning": "question; interrogation; doubt",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "棚子",
+      "page": 24,
+      "starred": false,
+      "pinyin": "péng zi",
+      "meaning": "shack; shed",
+      "level": null
+    },
+    {
+      "number": 15,
+      "text": "砖头",
+      "page": 24,
+      "starred": false,
+      "pinyin": "zhuān tóu",
+      "meaning": "brick",
+      "level": null
+    },
+    {
+      "number": 16,
+      "text": "支",
+      "page": 24,
+      "starred": false,
+      "pinyin": "zhī",
+      "meaning": "to support; to sustain; to erect",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "粗糙",
+      "page": 24,
+      "starred": false,
+      "pinyin": "cū cāo",
+      "meaning": "crude; gruff; rough",
+      "level": 7
+    },
+    {
+      "number": 18,
+      "text": "木头",
+      "page": 24,
+      "starred": false,
+      "pinyin": "mù tou",
+      "meaning": "wood; log (CL:塊|块[kuai4],根[gen1]); (fig.) blockhead; dolt",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "题材",
+      "page": 24,
+      "starred": false,
+      "pinyin": "tí cái",
+      "meaning": "subject matter",
+      "level": 6
+    },
+    {
+      "number": 20,
+      "text": "翻",
+      "page": 24,
+      "starred": false,
+      "pinyin": "fān",
+      "meaning": "to turn over; to flip over; to overturn",
+      "level": 5
+    },
+    {
+      "number": 21,
+      "text": "搭",
+      "page": 24,
+      "starred": false,
+      "meaning": "to hang over; to lay over",
+      "pinyin": "dā",
+      "level": 6
+    },
+    {
+      "number": 22,
+      "text": "整齐",
+      "page": 24,
+      "starred": false,
+      "pinyin": "zhěng qí",
+      "meaning": "orderly; neat; even",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "年纪",
+      "page": 24,
+      "starred": false,
+      "pinyin": "nián jì",
+      "meaning": "age",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "身材",
+      "page": 24,
+      "starred": false,
+      "pinyin": "shēn cái",
+      "meaning": "stature; build (height and weight); figure",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "成人",
+      "page": 24,
+      "starred": false,
+      "pinyin": "chéng rén",
+      "meaning": "to reach adulthood; an adult",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "册",
+      "page": 24,
+      "starred": false,
+      "meaning": "volume; a measure word for books",
+      "pinyin": "cè",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "假如",
+      "page": 24,
+      "starred": false,
+      "pinyin": "jiǎ rú",
+      "meaning": "if",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "登记",
+      "page": 24,
+      "starred": false,
+      "pinyin": "dēng jì",
+      "meaning": "to register (one's name)",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "记录",
+      "page": 24,
+      "starred": false,
+      "pinyin": "jì lù",
+      "meaning": "to record; record (esp. a written account); notetaker",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "手续",
+      "page": 24,
+      "starred": false,
+      "pinyin": "shǒu xù",
+      "meaning": "procedure; formalities",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "办理",
+      "page": 24,
+      "starred": false,
+      "pinyin": "bàn lǐ",
+      "meaning": "to handle; to transact; to conduct",
+      "level": 4
+    },
+    {
+      "number": 32,
+      "text": "押金",
+      "page": 25,
+      "starred": false,
+      "pinyin": "yā jīn",
+      "meaning": "deposit; down payment",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "凭",
+      "page": 25,
+      "starred": false,
+      "pinyin": "píng",
+      "meaning": "to lean on; to lean against; to rely on; to depend on; (bound form) evidence; proof",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "印刷",
+      "page": 25,
+      "starred": false,
+      "pinyin": "yìn shuā",
+      "meaning": "to print; printing",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "涨",
+      "page": 25,
+      "starred": false,
+      "pinyin": "zhǎng",
+      "meaning": "to rise (of prices, rivers); to swell; to distend",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "收藏",
+      "page": 25,
+      "starred": true,
+      "pinyin": "shōu cáng",
+      "meaning": "to collect (works of art, dolls, antiques etc); to put away for safekeeping; (Internet) to bookmark; a collection",
+      "level": 6
+    }
+  ]
+}

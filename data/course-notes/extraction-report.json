@@ -1,0 +1,1801 @@
+[
+  {
+    "id": "course-01",
+    "points": [
+      {
+        "point": "如何",
+        "pages": [
+          17
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "靠",
+        "pages": [
+          17,
+          18
+        ],
+        "blocks": 9,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "居然",
+        "pages": [
+          18
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "如何 / 怎么",
+        "pages": [
+          19
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-02",
+    "points": [
+      {
+        "point": "以来",
+        "pages": [
+          24
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "临",
+        "pages": [
+          24,
+          25
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "立刻",
+        "pages": [
+          25
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "悄悄 / 偷偷",
+        "pages": [
+          26
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          2,
+          2
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-03",
+    "points": [
+      {
+        "point": "各自",
+        "pages": [
+          31,
+          32
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "勿",
+        "pages": [
+          32
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "包括",
+        "pages": [
+          32
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "时刻",
+        "pages": [
+          33
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "舒适 / 舒服",
+        "pages": [
+          34
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-04",
+    "points": [
+      {
+        "point": "至今",
+        "pages": [
+          41,
+          42
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "顶",
+        "pages": [
+          42
+        ],
+        "blocks": 12,
+        "examples": 8,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "得不行",
+        "pages": [
+          42,
+          43
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "反而",
+        "pages": [
+          43
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "满足 / 满意",
+        "pages": [
+          44
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-05",
+    "points": [
+      {
+        "point": "起来",
+        "pages": [
+          49,
+          50
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "于",
+        "pages": [
+          50
+        ],
+        "blocks": 7,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "从而",
+        "pages": [
+          51
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "为",
+        "pages": [
+          51
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "美丽 / 优美",
+        "pages": [
+          52,
+          53
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          6,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-06",
+    "points": [
+      {
+        "point": "替",
+        "pages": [
+          58
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "说不定",
+        "pages": [
+          59
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "似的",
+        "pages": [
+          59
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "纷纷",
+        "pages": [
+          60
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "打听 / 询问",
+        "pages": [
+          61
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-07",
+    "points": [
+      {
+        "point": "瞎",
+        "pages": [
+          68,
+          69
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "分别",
+        "pages": [
+          69
+        ],
+        "blocks": 12,
+        "examples": 8,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "根",
+        "pages": [
+          70
+        ],
+        "blocks": 9,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "便",
+        "pages": [
+          70
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "忽然 / 突然",
+        "pages": [
+          71,
+          72
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          2,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-08",
+    "points": [
+      {
+        "point": "倒",
+        "pages": [
+          77,
+          78
+        ],
+        "blocks": 12,
+        "examples": 8,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "来去",
+        "pages": [
+          78
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "要不",
+        "pages": [
+          78,
+          79
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "彼此 / 互相",
+        "pages": [
+          80
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          7,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-09",
+    "points": [
+      {
+        "point": "算",
+        "pages": [
+          86
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "作为",
+        "pages": [
+          86
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "曾经",
+        "pages": [
+          87
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "亲自 / 自己",
+        "pages": [
+          88
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          4,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-10",
+    "points": [
+      {
+        "point": "毕竟",
+        "pages": [
+          94,
+          95
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "逐渐",
+        "pages": [
+          95
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "或许",
+        "pages": [
+          95,
+          96
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "显示 / 显得",
+        "pages": [
+          96,
+          97
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 1,
+        "columns": [
+          4,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-11",
+    "points": [
+      {
+        "point": "过来",
+        "pages": [
+          102,
+          103
+        ],
+        "blocks": 9,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "所",
+        "pages": [
+          103,
+          104
+        ],
+        "blocks": 9,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "相当",
+        "pages": [
+          104
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "数",
+        "pages": [
+          104,
+          105
+        ],
+        "blocks": 9,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "持续 / 继续",
+        "pages": [
+          105,
+          106
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 1,
+        "columns": [
+          6,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-12",
+    "points": [
+      {
+        "point": "以及",
+        "pages": [
+          111,
+          112
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "程度",
+        "pages": [
+          112
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "发达 / 发展",
+        "pages": [
+          113
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 1,
+        "columns": [
+          4,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-13",
+    "points": [
+      {
+        "point": "何况",
+        "pages": [
+          119,
+          120
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "何必",
+        "pages": [
+          120
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "多亏",
+        "pages": [
+          120
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "激烈 / 强烈",
+        "pages": [
+          121,
+          122
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          4,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-14",
+    "points": [
+      {
+        "point": "所谓",
+        "pages": [
+          127,
+          128
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "则",
+        "pages": [
+          128
+        ],
+        "blocks": 9,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "为所",
+        "pages": [
+          128,
+          129
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "起",
+        "pages": [
+          129
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "通常 / 常常",
+        "pages": [
+          130
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 1,
+        "columns": [
+          4,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-15",
+    "points": [
+      {
+        "point": "过",
+        "pages": [
+          136,
+          137
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "迟早",
+        "pages": [
+          137
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "再三",
+        "pages": [
+          137,
+          138
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "胜利 / 成功",
+        "pages": [
+          139
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-16",
+    "points": [
+      {
+        "point": "即",
+        "pages": [
+          146
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "个别",
+        "pages": [
+          147
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "非",
+        "pages": [
+          147,
+          148
+        ],
+        "blocks": 11,
+        "examples": 8,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "临时 / 暂时",
+        "pages": [
+          148,
+          149
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          5,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-17",
+    "points": [
+      {
+        "point": "以",
+        "pages": [
+          154,
+          155
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "平常",
+        "pages": [
+          155
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "宁可",
+        "pages": [
+          155
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "忽视 / 轻视",
+        "pages": [
+          156
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          4,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-18",
+    "points": [
+      {
+        "point": "极其",
+        "pages": [
+          162
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "其余",
+        "pages": [
+          163
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "可见",
+        "pages": [
+          163
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "目前 / 现在",
+        "pages": [
+          164,
+          165
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-19",
+    "points": [
+      {
+        "point": "般",
+        "pages": [
+          17
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "闻",
+        "pages": [
+          18
+        ],
+        "blocks": 8,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "趁",
+        "pages": [
+          18
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "怀念 / 想念",
+        "pages": [
+          19,
+          20
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 1,
+        "columns": [
+          4,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-20",
+    "points": [
+      {
+        "point": "得起",
+        "pages": [
+          25
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "支",
+        "pages": [
+          26
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "凭",
+        "pages": [
+          26
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "记录 / 纪录",
+        "pages": [
+          27,
+          28
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 0,
+        "columns": [
+          5,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-21",
+    "points": [
+      {
+        "point": "硬",
+        "pages": [
+          33,
+          34
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "偶然",
+        "pages": [
+          34
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "尽快",
+        "pages": [
+          35
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "偶然 / 偶尔",
+        "pages": [
+          36
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 1,
+        "columns": [
+          4,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-22",
+    "points": [
+      {
+        "point": "一旦",
+        "pages": [
+          43
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "难免",
+        "pages": [
+          43
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "自从",
+        "pages": [
+          44
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "平等 / 公平",
+        "pages": [
+          45
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          4,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-23",
+    "points": [
+      {
+        "point": "一致",
+        "pages": [
+          50
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "某",
+        "pages": [
+          51
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "幸亏",
+        "pages": [
+          51
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "单独 / 独自",
+        "pages": [
+          52,
+          53
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          6,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-24",
+    "points": [
+      {
+        "point": "行动",
+        "pages": [
+          58,
+          59
+        ],
+        "blocks": 9,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "义务",
+        "pages": [
+          59
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "发言 / 发表",
+        "pages": [
+          60,
+          61
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 1,
+        "columns": [
+          6,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-25",
+    "points": [
+      {
+        "point": "朝",
+        "pages": [
+          67
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "简直",
+        "pages": [
+          67,
+          68
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "严肃 / 严格",
+        "pages": [
+          69
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 1,
+        "columns": [
+          4,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-26",
+    "points": [
+      {
+        "point": "来",
+        "pages": [
+          74,
+          75
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "至于",
+        "pages": [
+          75
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "总算",
+        "pages": [
+          75,
+          76
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "总算 / 终于",
+        "pages": [
+          77
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          4,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-27",
+    "points": [
+      {
+        "point": "下来",
+        "pages": [
+          83
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "舍不得",
+        "pages": [
+          83
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "损失 / 失去",
+        "pages": [
+          84,
+          85
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          4,
+          3
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-28",
+    "points": [
+      {
+        "point": "从此",
+        "pages": [
+          91,
+          92
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "假设",
+        "pages": [
+          92
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "堆",
+        "pages": [
+          92,
+          93
+        ],
+        "blocks": 9,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "反应 / 反映",
+        "pages": [
+          94
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 1,
+        "columns": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-29",
+    "points": [
+      {
+        "point": "不如",
+        "pages": [
+          99
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "干脆",
+        "pages": [
+          100
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "万一",
+        "pages": [
+          100
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "挤 / 拥挤",
+        "pages": [
+          101,
+          102
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          10,
+          7
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-30",
+    "points": [
+      {
+        "point": "无意",
+        "pages": [
+          107
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "有利",
+        "pages": [
+          107,
+          108
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "的确",
+        "pages": [
+          108
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "接近 / 靠近",
+        "pages": [
+          109,
+          110
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          6,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-31",
+    "points": [
+      {
+        "point": "嗯",
+        "pages": [
+          116
+        ],
+        "blocks": 9,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "轻易",
+        "pages": [
+          117
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "轻易 / 容易",
+        "pages": [
+          118
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 1,
+        "columns": [
+          5,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-32",
+    "points": [
+      {
+        "point": "密切",
+        "pages": [
+          124
+        ],
+        "blocks": 9,
+        "examples": 6,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "尽量",
+        "pages": [
+          125
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "逐步",
+        "pages": [
+          125
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "鼓励 / 鼓舞",
+        "pages": [
+          126,
+          127
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          5,
+          6
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-33",
+    "points": [
+      {
+        "point": "照常",
+        "pages": [
+          132,
+          133
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "难怪",
+        "pages": [
+          133
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "与其",
+        "pages": [
+          133
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "表现 / 体现",
+        "pages": [
+          134,
+          135
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          6,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-34",
+    "points": [
+      {
+        "point": "总之",
+        "pages": [
+          141
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "动词过",
+        "pages": [
+          142
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "开",
+        "pages": [
+          142
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "反复 / 重复",
+        "pages": [
+          143,
+          144
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 1,
+        "columns": [
+          6,
+          5
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-35",
+    "points": [
+      {
+        "point": "赶快",
+        "pages": [
+          149
+        ],
+        "blocks": 4,
+        "examples": 3,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "片",
+        "pages": [
+          149,
+          150
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "根本",
+        "pages": [
+          150
+        ],
+        "blocks": 12,
+        "examples": 8,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "特殊 / 特别",
+        "pages": [
+          151,
+          152
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          3,
+          4
+        ]
+      }
+    ]
+  },
+  {
+    "id": "course-36",
+    "points": [
+      {
+        "point": "除非",
+        "pages": [
+          157
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "直",
+        "pages": [
+          158
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "反正",
+        "pages": [
+          158
+        ],
+        "blocks": 6,
+        "examples": 4,
+        "common": 0,
+        "columns": []
+      },
+      {
+        "point": "应付 / 处理",
+        "pages": [
+          159,
+          160
+        ],
+        "blocks": 0,
+        "examples": 0,
+        "common": 2,
+        "columns": [
+          6,
+          7
+        ]
+      }
+    ]
+  }
+]

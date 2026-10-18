@@ -1,0 +1,265 @@
+{
+  "id": "course-06",
+  "sourcePages": [
+    58,
+    59,
+    60,
+    61
+  ],
+  "points": [
+    {
+      "point": "替",
+      "kind": "usage",
+      "pages": [
+        58
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“替”，动词，意思是“代替”。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "见了外公，你替我向他问好。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "刘老师今天有点儿事来不了，你能替替他吗？"
+        },
+        {
+          "type": "explanation",
+          "text": "“替”，也可以做介词，表示“给、为”。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "七郎暗暗下定决心一定要杀死“夕”，替百姓除掉这个制造灾害的东西。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "李阳要去留学了，我们都替他高兴。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "你放心吧,他借的钱 _____ (替)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "后天就要考试了,小明的病还没好, _____ (替)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 明天,我去上海出差,要带点儿什么东西吗?\nB: _____ (替)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "说不定",
+      "kind": "usage",
+      "pages": [
+        59
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“说不定”，动词，意思是“不能说得很清楚、肯定”。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "这事儿经理已经同意了，只是出发的时间还说不定。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "咱俩到底谁赢谁输还真说不定呢。"
+        },
+        {
+          "type": "explanation",
+          "text": "“说不定”，也可以做副词，表示估计，可能性很大。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "周末他起得晚，这会儿说不定还在睡觉呢。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "别随随便便就说放弃，说不定下次就成功了。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "你再去图书馆或书店转转, _____ (说不定)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: 今年的优秀毕业生定了吗?李阳有希望吗?\nB: _____ (说不定)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 要想达到他那样的成就,我这辈子是不敢想了。\nB: _____ (说不定)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "似的",
+      "kind": "usage",
+      "pages": [
+        59
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“似的”，助词，“像/跟/好像……似的”表示跟某种事物、情况相似。多用于书面语。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "消息一出来，询问情况的电话雪片似的纷纷打来。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "我不敢相信这是真的，好像做梦似的。"
+        },
+        {
+          "type": "explanation",
+          "text": "在“……得+什么似的”结构中，“什么似的”代替想表示的情态，有夸张的语气。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "刘方背着重重的电脑包挤地铁，下班回到家累得什么似的。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "“夕”吓得什么似的，急忙往外逃。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "丽丽爱读书,一天要是不看点儿什么, _____ (似的)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "李阳考上了北大, _____ (似的)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 小刘怎么了?她今天有点儿不太高兴。\nB: _____ (似的)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "纷纷",
+      "kind": "usage",
+      "pages": [
+        60
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“纷纷”，形容词，“动词/形容词+纷纷”形容(言论、落下的东西)多而乱。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "秋风刮起，落叶纷纷。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "他救起了妻子，孩子却被大水冲走了。事后，人们议论纷纷。"
+        },
+        {
+          "type": "explanation",
+          "text": "“纷纷”，也可以做副词，后面接动词，表示(许多人或事物)接二连三地。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "除掉“夕”以后，百姓纷纷对七郎表达谢意。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "要下雨了，路上的人纷纷往家里跑。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "新年快到了,各大商场、购物中心 _____ (纷纷)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "见到熊猫的游客们非常兴奋, _____ (纷纷)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 听说了吗?小刘的妻子生了个女儿。\nB: _____ (纷纷)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "打听 / 询问",
+      "kind": "comparison",
+      "pages": [
+        61
+      ],
+      "common": [
+        "都是动词，都有“问”的意思。",
+        "如：他打听/询问了老人的身体和生活情况。"
+      ],
+      "terms": [
+        {
+          "word": "打听",
+          "paragraphs": [
+            "1.多用于口语。",
+            "如：我跟您打听一下，附近有邮局吗？",
+            "2.一般用于寻找、了解有关信息，后可跟结果补语“到”",
+            "如：我到处打听也没打听到这家公司。",
+            "3.没有这种用法。"
+          ]
+        },
+        {
+          "word": "询问",
+          "paragraphs": [
+            "1.多用于书面语。",
+            "如：他仔细地询问了公司近年来的发展情况。",
+            "2.后面一般不能带结果补语“到”另外，还有征求意见的意思。",
+            "如：他打电话询问刘教授对论文的意见。",
+            "3.后面可跟动作的对象，还可活用为名词。",
+            "如：警察询问了当天见过他的邻居。他详细地回答了病人的询问。"
+          ]
+        }
+      ]
+    }
+  ]
+}

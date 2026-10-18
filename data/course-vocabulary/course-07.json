@@ -1,0 +1,417 @@
+{
+  "id": "course-07",
+  "sourcePages": [
+    66,
+    67,
+    68
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "成语",
+      "page": 66,
+      "starred": false,
+      "pinyin": "chéng yǔ",
+      "meaning": "Chinese set expression, typically of 4 characters, often alluding to a story or historical quotation; idiom; proverb; saying; adage",
+      "level": 6
+    },
+    {
+      "number": 2,
+      "text": "则",
+      "page": 66,
+      "starred": false,
+      "meaning": "a measure word for news or short writings",
+      "pinyin": "zé",
+      "level": 6
+    },
+    {
+      "number": 3,
+      "text": "盲人",
+      "page": 66,
+      "starred": true,
+      "pinyin": "máng rén",
+      "meaning": "blind person",
+      "level": 6
+    },
+    {
+      "number": 4,
+      "text": "摸",
+      "page": 66,
+      "starred": false,
+      "pinyin": "mō",
+      "meaning": "to feel with the hand; to touch; to stroke",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "象",
+      "display": "（大）象",
+      "page": 66,
+      "starred": false,
+      "pinyin": "xiàng",
+      "meaning": "elephant; shape; form",
+      "level": null
+    },
+    {
+      "number": 6,
+      "text": "智慧",
+      "page": 66,
+      "starred": false,
+      "pinyin": "zhì huì",
+      "meaning": "wisdom; intelligence",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "士兵",
+      "page": 66,
+      "starred": false,
+      "pinyin": "shì bīng",
+      "meaning": "soldier",
+      "level": 6
+    },
+    {
+      "number": 8,
+      "text": "瞎",
+      "page": 66,
+      "starred": false,
+      "pinyin": "xiā",
+      "meaning": "blind; groundlessly; foolishly",
+      "level": 7
+    },
+    {
+      "number": 9,
+      "text": "分别",
+      "page": 66,
+      "starred": false,
+      "pinyin": "fēn bié",
+      "meaning": "to part; to leave each other; to distinguish; to tell apart; difference; distinction",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "寻找",
+      "page": 66,
+      "starred": false,
+      "pinyin": "xún zhǎo",
+      "meaning": "to seek; to look for",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "牙齿",
+      "page": 67,
+      "starred": false,
+      "pinyin": "yá chǐ",
+      "meaning": "tooth; dental",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "胡说",
+      "page": 67,
+      "starred": false,
+      "pinyin": "hú shuō",
+      "meaning": "to talk nonsense; drivel",
+      "level": 7
+    },
+    {
+      "number": 13,
+      "text": "尾巴",
+      "page": 67,
+      "starred": false,
+      "pinyin": "wěi ba",
+      "meaning": "tail; colloquial pr. [yi3 ba5]",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "绳子",
+      "page": 67,
+      "starred": false,
+      "pinyin": "shéng zi",
+      "meaning": "cord; string; rope",
+      "level": 7
+    },
+    {
+      "number": 15,
+      "text": "平",
+      "page": 67,
+      "starred": false,
+      "pinyin": "píng",
+      "meaning": "flat; level; smooth; to make even; to level; equal; on the same level",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "墙",
+      "page": 67,
+      "starred": false,
+      "pinyin": "qiáng",
+      "meaning": "wall (CL:面[mian4],堵[du3]); (slang) to block (a website) (usu. in the passive: 被牆|被墙[bei4 qiang2])",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "扇子",
+      "page": 67,
+      "starred": false,
+      "pinyin": "shàn zi",
+      "meaning": "fan",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "片面",
+      "page": 67,
+      "starred": false,
+      "pinyin": "piàn miàn",
+      "meaning": "unilateral; one-sided",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "结论",
+      "page": 67,
+      "starred": false,
+      "pinyin": "jié lùn",
+      "meaning": "conclusion; verdict; to conclude",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "精诚所至，金石为开",
+      "page": 67,
+      "starred": true,
+      "meaning": "Absolute sincerity can move even metal and stone; no difficulty is insurmountable if one sets one's mind on it.",
+      "pinyin": "jīng chéng suǒ zhì ， jīn shí wéi kāi",
+      "level": null
+    },
+    {
+      "number": 21,
+      "text": "将军",
+      "page": 67,
+      "starred": false,
+      "pinyin": "jiāng jūn",
+      "meaning": "general; high-ranking military officer; to check or checkmate",
+      "level": 6
+    },
+    {
+      "number": 22,
+      "text": "善于",
+      "page": 67,
+      "starred": false,
+      "pinyin": "shàn yú",
+      "meaning": "to be good at; to be adept at",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "称",
+      "page": 67,
+      "starred": false,
+      "meaning": "to call; to give someone a particular name",
+      "pinyin": "chēng",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "打猎",
+      "page": 67,
+      "starred": false,
+      "pinyin": "dǎ liè",
+      "meaning": "to go hunting",
+      "level": 7
+    },
+    {
+      "number": 25,
+      "text": "忽然",
+      "page": 67,
+      "starred": false,
+      "pinyin": "hū rán",
+      "meaning": "suddenly; all of a sudden",
+      "level": 4
+    },
+    {
+      "number": 26,
+      "text": "蹲",
+      "page": 67,
+      "starred": false,
+      "pinyin": "dūn",
+      "meaning": "(dialect) to sprain one's foot or leg due to a sudden impact or landing; to crouch; to squat",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "摇",
+      "page": 67,
+      "starred": false,
+      "pinyin": "yáo",
+      "meaning": "to shake; to rock; to row",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "不要紧",
+      "page": 67,
+      "starred": false,
+      "pinyin": "bú yào jǐn",
+      "meaning": "unimportant; not serious; it doesn't matter",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "支",
+      "page": 67,
+      "starred": false,
+      "meaning": "a measure word for long, thin, rigid objects",
+      "pinyin": "zhī",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "摆",
+      "page": 67,
+      "starred": false,
+      "pinyin": "bǎi",
+      "meaning": "to arrange; to exhibit; to move to and fro",
+      "level": 6
+    },
+    {
+      "number": 31,
+      "text": "姿势",
+      "page": 67,
+      "starred": false,
+      "pinyin": "zī shì",
+      "meaning": "posture; position",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "全神贯注",
+      "page": 67,
+      "starred": false,
+      "pinyin": "quán shén guàn zhù",
+      "meaning": "(idiom) to concentrate one's attention completely; with rapt attention",
+      "level": null
+    },
+    {
+      "number": 33,
+      "text": "尽",
+      "display": "尽（力）",
+      "page": 67,
+      "starred": false,
+      "meaning": "to try one's best",
+      "pinyin": "jìn",
+      "level": 6
+    },
+    {
+      "number": 34,
+      "text": "反应",
+      "page": 68,
+      "starred": false,
+      "pinyin": "fǎn yìng",
+      "meaning": "to react; to respond; reaction",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "确定",
+      "page": 68,
+      "starred": false,
+      "pinyin": "què dìng",
+      "meaning": "definite; certain; fixed",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "石头",
+      "page": 68,
+      "starred": false,
+      "pinyin": "shí tou",
+      "meaning": "stone",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "连续",
+      "page": 68,
+      "starred": false,
+      "pinyin": "lián xù",
+      "meaning": "continuous; in a row; serial",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "根",
+      "page": 68,
+      "starred": false,
+      "pinyin": "gēn",
+      "meaning": "root; basis; classifier for long slender objects, e.g. cigarettes, guitar strings",
+      "level": 5
+    },
+    {
+      "number": 39,
+      "text": "碎",
+      "page": 68,
+      "starred": false,
+      "pinyin": "suì",
+      "meaning": "(transitive or intransitive) to break into pieces; to shatter; to crumble; broken; fragmentary; scattered; garrulous",
+      "level": 5
+    },
+    {
+      "number": 40,
+      "text": "杆",
+      "page": 68,
+      "starred": false,
+      "pinyin": "gān",
+      "meaning": "(bound form) pole; shaft; stick; pole",
+      "level": 7
+    },
+    {
+      "number": 41,
+      "text": "哎",
+      "page": 68,
+      "starred": false,
+      "pinyin": "āi",
+      "meaning": "hey!; (interjection used to attract attention or to express surprise or disapprobation)",
+      "level": 5
+    },
+    {
+      "number": 42,
+      "text": "唉",
+      "page": 68,
+      "starred": false,
+      "pinyin": "ài",
+      "meaning": "a sigh expressing sadness or regret",
+      "level": 5
+    },
+    {
+      "number": 43,
+      "text": "金属",
+      "page": 68,
+      "starred": false,
+      "pinyin": "jīn shǔ",
+      "meaning": "metal",
+      "level": 6
+    },
+    {
+      "number": 44,
+      "text": "硬",
+      "page": 68,
+      "starred": false,
+      "pinyin": "yìng",
+      "meaning": "hard; stiff; solid; (fig.) strong; firm; resolutely; uncompromisingly",
+      "level": 5
+    },
+    {
+      "number": 45,
+      "text": "便",
+      "page": 68,
+      "starred": false,
+      "meaning": "then; consequently",
+      "pinyin": "biàn",
+      "level": 5
+    }
+  ]
+}

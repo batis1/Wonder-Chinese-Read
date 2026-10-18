@@ -1,0 +1,344 @@
+{
+  "id": "course-36",
+  "sourcePages": [
+    155,
+    156,
+    157
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "养",
+      "page": 155,
+      "starred": false,
+      "pinyin": "yǎng",
+      "meaning": "to raise (animals); to bring up (children); to keep (pets)",
+      "level": 3
+    },
+    {
+      "number": 2,
+      "text": "除非",
+      "page": 155,
+      "starred": false,
+      "pinyin": "chú fēi",
+      "meaning": "only if (..., or otherwise, ...); only when; only in the case that",
+      "level": 6
+    },
+    {
+      "number": 3,
+      "text": "奋斗",
+      "page": 155,
+      "starred": false,
+      "pinyin": "fèn dòu",
+      "meaning": "to strive; to struggle",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "乐趣",
+      "page": 155,
+      "starred": true,
+      "pinyin": "lè qù",
+      "meaning": "delight; pleasure; joy",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "在乎",
+      "page": 155,
+      "starred": false,
+      "pinyin": "zài hū",
+      "meaning": "to rest with; to lie in; to be due to (a certain attribute); (often used in the negative) to care about",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "朵",
+      "page": 155,
+      "starred": false,
+      "pinyin": "duǒ",
+      "meaning": "flower; earlobe; fig. item on both sides",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "剪刀",
+      "page": 155,
+      "starred": false,
+      "pinyin": "jiǎn dāo",
+      "meaning": "scissors",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "捡",
+      "page": 156,
+      "starred": false,
+      "pinyin": "jiǎn",
+      "meaning": "to pick up; to collect; to gather",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "装饰",
+      "page": 156,
+      "starred": false,
+      "pinyin": "zhuāng shì",
+      "meaning": "to decorate; decoration; decorative",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "结合",
+      "page": 156,
+      "starred": false,
+      "pinyin": "jié hé",
+      "meaning": "to combine; to link; to integrate",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "暴雨",
+      "page": 156,
+      "starred": false,
+      "pinyin": "bào yǔ",
+      "meaning": "torrential rain; rainstorm",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "紧急",
+      "page": 156,
+      "starred": false,
+      "pinyin": "jǐn jí",
+      "meaning": "urgent; emergency",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "劳驾",
+      "page": 156,
+      "starred": false,
+      "pinyin": "láo jià",
+      "meaning": "excuse me",
+      "level": 7
+    },
+    {
+      "number": 14,
+      "text": "抢救",
+      "page": 156,
+      "starred": false,
+      "pinyin": "qiǎng jiù",
+      "meaning": "to rescue",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "腰",
+      "page": 156,
+      "starred": false,
+      "pinyin": "yāo",
+      "meaning": "the waist and lower back; (bound form) kidney of an animal (as food); the waist of trousers or a skirt",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "直",
+      "page": 156,
+      "starred": false,
+      "meaning": "continuously; directly",
+      "pinyin": "zhí",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "不然",
+      "page": 156,
+      "starred": false,
+      "pinyin": "bù rán",
+      "meaning": "not so; no; or else",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "回报",
+      "page": 156,
+      "starred": false,
+      "pinyin": "huí bào",
+      "meaning": "(in) return; reciprocation; payback",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "真理",
+      "page": 156,
+      "starred": false,
+      "pinyin": "zhēn lǐ",
+      "meaning": "truth",
+      "level": 7
+    },
+    {
+      "number": 20,
+      "text": "浇",
+      "page": 156,
+      "starred": false,
+      "pinyin": "jiāo",
+      "meaning": "to pour liquid; to irrigate (using waterwheel); to water",
+      "level": 5
+    },
+    {
+      "number": 21,
+      "text": "潮湿",
+      "page": 156,
+      "starred": false,
+      "pinyin": "cháo shī",
+      "meaning": "damp; moist",
+      "level": 6
+    },
+    {
+      "number": 22,
+      "text": "施肥",
+      "page": 156,
+      "starred": false,
+      "pinyin": "shī féi",
+      "meaning": "to apply fertilizer",
+      "level": null
+    },
+    {
+      "number": 23,
+      "text": "熟练",
+      "page": 156,
+      "starred": false,
+      "pinyin": "shú liàn",
+      "meaning": "practiced; proficient; skilled",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "应付",
+      "page": 156,
+      "starred": false,
+      "pinyin": "yìng fù",
+      "meaning": "to deal with; to cope",
+      "level": 7
+    },
+    {
+      "number": 25,
+      "text": "鲜艳",
+      "page": 156,
+      "starred": false,
+      "pinyin": "xiān yàn",
+      "meaning": "bright-colored; gaily-colored",
+      "level": 6
+    },
+    {
+      "number": 26,
+      "text": "自豪",
+      "page": 156,
+      "starred": false,
+      "pinyin": "zì háo",
+      "meaning": "proud (of one's achievements etc)",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "吹",
+      "page": 156,
+      "starred": false,
+      "meaning": "to boast; to brag",
+      "pinyin": "chuī",
+      "level": 4
+    },
+    {
+      "number": 28,
+      "text": "爱心",
+      "page": 156,
+      "starred": false,
+      "pinyin": "ài xīn",
+      "meaning": "compassion; kindness; care for others",
+      "level": 4
+    },
+    {
+      "number": 29,
+      "text": "分享",
+      "page": 156,
+      "starred": false,
+      "pinyin": "fēn xiǎng",
+      "meaning": "to share (esp. sth enjoyable, useful or beneficial)",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "昙花",
+      "page": 156,
+      "starred": true,
+      "pinyin": "tán huā",
+      "meaning": "Dutchman's pipe cactus, aka Queen of the Night cactus (Epiphyllum oxypetalum)",
+      "level": null
+    },
+    {
+      "number": 31,
+      "text": "庆祝",
+      "page": 156,
+      "starred": false,
+      "pinyin": "qìng zhù",
+      "meaning": "to celebrate",
+      "level": 4
+    },
+    {
+      "number": 32,
+      "text": "保留",
+      "page": 156,
+      "starred": false,
+      "pinyin": "bǎo liú",
+      "meaning": "to keep; to retain; to have reservations (about sth)",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "菊花",
+      "page": 157,
+      "starred": true,
+      "pinyin": "jú huā",
+      "meaning": "chrysanthemum; (TCM) chrysanthemum flower; (slang) anus",
+      "level": 6
+    },
+    {
+      "number": 34,
+      "text": "砸",
+      "page": 157,
+      "starred": true,
+      "pinyin": "zá",
+      "meaning": "to smash; to pound; to fail",
+      "level": 7
+    },
+    {
+      "number": 35,
+      "text": "悲",
+      "display": "悲（伤）",
+      "page": 157,
+      "starred": false,
+      "pinyin": "bēi",
+      "meaning": "sad; sadness; sorrow",
+      "level": null
+    },
+    {
+      "number": 36,
+      "text": "反正",
+      "page": 157,
+      "starred": false,
+      "pinyin": "fǎn zhèng",
+      "meaning": "anyway; in any case; to come over from the enemy's side",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "热爱",
+      "page": 157,
+      "starred": false,
+      "pinyin": "rè ài",
+      "meaning": "to love ardently; to adore",
+      "level": 5
+    }
+  ]
+}

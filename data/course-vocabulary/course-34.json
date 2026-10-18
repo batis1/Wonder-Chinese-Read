@@ -1,0 +1,316 @@
+{
+  "id": "course-34",
+  "sourcePages": [
+    139,
+    140,
+    141
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "接触",
+      "page": 139,
+      "starred": false,
+      "pinyin": "jiē chù",
+      "meaning": "to touch; to contact; access",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "特征",
+      "page": 139,
+      "starred": false,
+      "pinyin": "tè zhēng",
+      "meaning": "characteristic; diagnostic property; distinctive feature",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "翅膀",
+      "page": 139,
+      "starred": false,
+      "pinyin": "chì bǎng",
+      "meaning": "wing",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "昆虫",
+      "page": 139,
+      "starred": false,
+      "pinyin": "kūn chóng",
+      "meaning": "insect",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "天空",
+      "page": 139,
+      "starred": false,
+      "pinyin": "tiān kōng",
+      "meaning": "sky",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "区分",
+      "page": 139,
+      "starred": false,
+      "pinyin": "qū fēn",
+      "meaning": "to differentiate; to draw a distinction; to divide into categories",
+      "level": 6
+    },
+    {
+      "number": 7,
+      "text": "唯一",
+      "page": 139,
+      "starred": false,
+      "pinyin": "wéi yī",
+      "meaning": "only; sole",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "斑",
+      "page": 139,
+      "starred": false,
+      "pinyin": "bān",
+      "meaning": "spot; colored patch; stripe",
+      "level": null
+    },
+    {
+      "number": 9,
+      "text": "充当",
+      "page": 139,
+      "starred": true,
+      "pinyin": "chōng dāng",
+      "meaning": "to serve as; to act as; to play the role of",
+      "level": 7
+    },
+    {
+      "number": 10,
+      "text": "总之",
+      "page": 140,
+      "starred": false,
+      "pinyin": "zǒng zhī",
+      "meaning": "in a word; in short; in brief",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "角色",
+      "page": 140,
+      "starred": false,
+      "pinyin": "jué sè",
+      "meaning": "role; part (in a play or movie etc); also pr. [jiao3se4]",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "爱惜",
+      "page": 140,
+      "starred": false,
+      "pinyin": "ài xī",
+      "meaning": "to cherish; to treasure; to use sparingly",
+      "level": 7
+    },
+    {
+      "number": 13,
+      "text": "保养",
+      "page": 140,
+      "starred": true,
+      "pinyin": "bǎo yǎng",
+      "meaning": "to take good care of (or conserve) one's health; to keep in good repair; to maintain",
+      "level": 7
+    },
+    {
+      "number": 14,
+      "text": "反复",
+      "page": 140,
+      "starred": false,
+      "pinyin": "fǎn fù",
+      "meaning": "repeatedly; over and over; to upend",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "啄",
+      "page": 140,
+      "starred": true,
+      "pinyin": "zhuó",
+      "meaning": "to peck",
+      "level": null
+    },
+    {
+      "number": 16,
+      "text": "随身",
+      "page": 140,
+      "starred": false,
+      "pinyin": "suí shēn",
+      "meaning": "to (carry) on one's person; to (take) with one",
+      "level": 7
+    },
+    {
+      "number": 17,
+      "text": "梳子",
+      "page": 140,
+      "starred": false,
+      "pinyin": "shū zi",
+      "meaning": "comb",
+      "level": 7
+    },
+    {
+      "number": 18,
+      "text": "光滑",
+      "page": 140,
+      "starred": false,
+      "pinyin": "guāng huá",
+      "meaning": "glossy; sleek; smooth",
+      "level": 7
+    },
+    {
+      "number": 19,
+      "text": "抓",
+      "page": 140,
+      "starred": false,
+      "pinyin": "zhuā",
+      "meaning": "to grab; to catch; to arrest",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "寄生",
+      "page": 140,
+      "starred": false,
+      "pinyin": "jì shēng",
+      "meaning": "to live in or on another organism as a parasite; to live by taking advantage of others; parasitism",
+      "level": null
+    },
+    {
+      "number": 21,
+      "text": "肥皂",
+      "page": 140,
+      "starred": false,
+      "pinyin": "féi zào",
+      "meaning": "soap",
+      "level": 7
+    },
+    {
+      "number": 22,
+      "text": "种类",
+      "page": 140,
+      "starred": false,
+      "pinyin": "zhǒng lèi",
+      "meaning": "kind; genus; type",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "概括",
+      "page": 140,
+      "starred": false,
+      "pinyin": "gài kuò",
+      "meaning": "to summarize; to generalize; briefly; in broad outline",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "岛屿",
+      "page": 140,
+      "starred": false,
+      "pinyin": "dǎo yǔ",
+      "meaning": "island",
+      "level": 7
+    },
+    {
+      "number": 25,
+      "text": "知更鸟",
+      "page": 140,
+      "starred": false,
+      "pinyin": "zhī gèng niǎo",
+      "meaning": "redbreast; robin",
+      "level": null
+    },
+    {
+      "number": 26,
+      "text": "坑",
+      "page": 140,
+      "starred": true,
+      "pinyin": "kēng",
+      "meaning": "pit; hollow; depression; (mining) pit; shaft; tunnel; (literary) to bury alive",
+      "level": 7
+    },
+    {
+      "number": 27,
+      "text": "池塘",
+      "page": 140,
+      "starred": false,
+      "pinyin": "chí táng",
+      "meaning": "pool; pond",
+      "level": 7
+    },
+    {
+      "number": 28,
+      "text": "老鹰",
+      "page": 140,
+      "starred": false,
+      "pinyin": "lǎo yīng",
+      "meaning": "(coll.) eagle; hawk; any similar bird of prey",
+      "level": null
+    },
+    {
+      "number": 29,
+      "text": "痛快",
+      "page": 140,
+      "starred": false,
+      "pinyin": "tòng kuài",
+      "meaning": "delighted; to one's heart's content; straightforward",
+      "level": 6
+    },
+    {
+      "number": 30,
+      "text": "迎接",
+      "page": 140,
+      "starred": false,
+      "pinyin": "yíng jiē",
+      "meaning": "to welcome; to greet",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "洗礼",
+      "page": 140,
+      "starred": true,
+      "pinyin": "xǐ lǐ",
+      "meaning": "(lit. and fig.) baptism",
+      "level": 7
+    },
+    {
+      "number": 32,
+      "text": "沙子",
+      "page": 141,
+      "starred": false,
+      "pinyin": "shā zi",
+      "meaning": "sand; grit",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "干燥",
+      "page": 141,
+      "starred": false,
+      "pinyin": "gān zào",
+      "meaning": "(of weather, climate, soil etc) dry; arid; (of skin, mouth etc) dry; (fig.) dull; dry; boring",
+      "level": 6
+    },
+    {
+      "number": 34,
+      "text": "秘密",
+      "page": 141,
+      "starred": false,
+      "pinyin": "mì mì",
+      "meaning": "secret; private; confidential; clandestine; a secret",
+      "level": 5
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "id": "course-34",
+  "sourcePages": [
+    141,
+    142,
+    143,
+    144
+  ],
+  "points": [
+    {
+      "point": "总之",
+      "kind": "usage",
+      "pages": [
+        141
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“总之”，连词，概括前面的内容，总的来说。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "暑假我可能去上海、南京，还有杭州，总之，想去南方几个城市转转。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "总之，网络的确带给我们以前无法想象的方便，但同时它也带来了一定的危害。"
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "总之，在鸟儿的生活中，羽毛充当着十分重要的角色。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "不管你去不去, _____ (总之)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: 你怎么能把汉语学得这么好?\nB: _____。 (总之)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "_____ ,总之,中国菜有很多做法。"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "动词过",
+      "kind": "usage",
+      "pages": [
+        142
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“动词＋过”表示通过动作，人或物体改变方向。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "他转过身，一句话也不说。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "……它们只要有时间，就会情不自禁地背过头去，反复地啄着羽毛，……"
+        },
+        {
+          "type": "explanation",
+          "text": "也可以表示通过动作，人或物体移动位置。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "接过书的那一刻，老王突然明白了自己失败的原因。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "短短的几分钟里，我的脑子里闪过了很多想法。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "你回A 头B 就可以看见C我D 了。"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "他递A一块毛巾B给C我擦D 汗。"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "青年走A到B 门口,转C 身D说:“我们会再见的。”"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "开",
+      "kind": "usage",
+      "pages": [
+        142
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“动词＋开”表示舒展。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "猴子突然站了起来，张开手臂，抱住了管理员。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "《清明上河图》在我们的面前慢慢展开。"
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "而老鹰的洗澡方式更是直接，它们会在雨中张开双翅痛快地迎接洗礼！"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "A 回家时,妈妈B 张C双臂D迎接我。"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "他把纸铺 (pO , to spread, to lay) A , 笔拿B好,准备C 练习D 书法。"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "那件事情已经都A传B 了C, 大家都知道D 了。"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "反复 / 重复",
+      "kind": "comparison",
+      "pages": [
+        143,
+        144
+      ],
+      "common": [
+        "都有不止一次的意思。如这件事情你已经反复/重复说过好几遍了。"
+      ],
+      "terms": [
+        {
+          "word": "反复",
+          "paragraphs": [
+            "1.副词，一遍一遍地",
+            "如：它们只要一有时间，就会情不自禁地背过头去，反复地啄着羽毛。",
+            "2.动词，不利的情况重新出现。",
+            "如：这种病容易反复。",
+            "3.名词，重复出现的不好的情况",
+            "如：对这个问题，他思想上可能还有反复。"
+          ]
+        },
+        {
+          "word": "重复",
+          "paragraphs": [
+            "1.动词，指又一次做同样的事情。",
+            "如：我没听清，请你再重复一遍",
+            "2.动词，同样的东西再次出现。",
+            "如：这两个练习题重复了。",
+            "3.没有这个用法。"
+          ]
+        }
+      ]
+    }
+  ]
+}

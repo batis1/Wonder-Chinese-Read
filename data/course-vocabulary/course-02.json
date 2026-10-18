@@ -1,0 +1,362 @@
+{
+  "id": "course-02",
+  "sourcePages": [
+    22,
+    23,
+    24
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "串",
+      "page": 22,
+      "starred": true,
+      "meaning": "bunch; string",
+      "pinyin": "chuàn",
+      "level": 6
+    },
+    {
+      "number": 2,
+      "text": "一辈子",
+      "page": 22,
+      "starred": false,
+      "pinyin": "yī bèi zi",
+      "meaning": "(for) a lifetime",
+      "level": 6
+    },
+    {
+      "number": 3,
+      "text": "农村",
+      "page": 22,
+      "starred": false,
+      "pinyin": "nóng cūn",
+      "meaning": "rural area; village",
+      "level": 4
+    },
+    {
+      "number": 4,
+      "text": "屋",
+      "display": "屋（子）",
+      "page": 22,
+      "starred": false,
+      "pinyin": "wū",
+      "meaning": "(bound form) house; (bound form) room",
+      "level": null
+    },
+    {
+      "number": 5,
+      "text": "断",
+      "page": 22,
+      "starred": false,
+      "pinyin": "duàn",
+      "meaning": "to break; to snap; to cut off",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "以来",
+      "page": 22,
+      "starred": false,
+      "pinyin": "yǐ lái",
+      "meaning": "since (used after a specified time or event)",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "姥姥",
+      "page": 22,
+      "starred": false,
+      "pinyin": "lǎo lao",
+      "meaning": "(coll.) mother's mother; maternal grandmother",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "舅舅",
+      "page": 22,
+      "starred": false,
+      "pinyin": "jiù jiù",
+      "meaning": "mother's brother; maternal uncle (informal)",
+      "level": 6
+    },
+    {
+      "number": 9,
+      "text": "姑姑",
+      "page": 22,
+      "starred": false,
+      "pinyin": "gū gū",
+      "meaning": "paternal aunt",
+      "level": 6
+    },
+    {
+      "number": 10,
+      "text": "坚决",
+      "page": 22,
+      "starred": false,
+      "pinyin": "jiān jué",
+      "meaning": "firm; resolute; determined",
+      "level": 6
+    },
+    {
+      "number": 11,
+      "text": "打工",
+      "page": 23,
+      "starred": false,
+      "pinyin": "dǎ gōng",
+      "meaning": "to work a temporary or casual job; (of students) to have a job outside of class time, or during vacation",
+      "level": 4
+    },
+    {
+      "number": 12,
+      "text": "挣",
+      "page": 23,
+      "starred": false,
+      "meaning": "to earn",
+      "pinyin": "zhèng",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "县",
+      "page": 23,
+      "starred": false,
+      "pinyin": "xiàn",
+      "meaning": "county; (Japan) prefecture",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "套",
+      "page": 23,
+      "starred": false,
+      "meaning": "set; suite",
+      "pinyin": "tào",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "装修",
+      "page": 23,
+      "starred": false,
+      "pinyin": "zhuāng xiū",
+      "meaning": "to decorate; interior decoration; to fit up",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "不得了",
+      "page": 23,
+      "starred": false,
+      "pinyin": "bù dé le",
+      "meaning": "desperately serious; disastrous; extremely",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "醉",
+      "page": 23,
+      "starred": false,
+      "pinyin": "zuì",
+      "meaning": "intoxicated",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "强烈",
+      "page": 23,
+      "starred": false,
+      "pinyin": "qiáng liè",
+      "meaning": "strong; intense",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "夜",
+      "page": 23,
+      "starred": false,
+      "pinyin": "yè",
+      "meaning": "night",
+      "level": 4
+    },
+    {
+      "number": 20,
+      "text": "锁",
+      "page": 23,
+      "starred": false,
+      "pinyin": "suǒ",
+      "meaning": "to lock; to lock up; a lock (CL:把[ba3])",
+      "level": 5
+    },
+    {
+      "number": 21,
+      "text": "临",
+      "page": 23,
+      "starred": false,
+      "pinyin": "lín",
+      "meaning": "to face; to overlook; to arrive",
+      "level": 7
+    },
+    {
+      "number": 22,
+      "text": "悄悄",
+      "page": 23,
+      "starred": false,
+      "pinyin": "qiāo qiāo",
+      "meaning": "quiet; making little or no noise; surreptitious; stealthy; anxious; worried",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "晒",
+      "page": 23,
+      "starred": false,
+      "pinyin": "shài",
+      "meaning": "(of the sun) to shine on; to bask in (the sunshine); to dry (clothes, grain etc) in the sun",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "被子",
+      "page": 23,
+      "starred": false,
+      "pinyin": "bèi zi",
+      "meaning": "blanket; quilt",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "长途",
+      "page": 23,
+      "starred": false,
+      "pinyin": "cháng tú",
+      "meaning": "long distance; long-distance phone call (abbr. for 長途電話|长途电话[chang2 tu2 dian4 hua4]); long-distance coach (abbr. for 長途汽車|长途汽车[chang2 tu2 qi4 che1])",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "冻",
+      "page": 23,
+      "starred": false,
+      "pinyin": "dòng",
+      "meaning": "to freeze; to feel very cold; aspic or jelly",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "想象",
+      "page": 23,
+      "starred": false,
+      "pinyin": "xiǎng xiàng",
+      "meaning": "to imagine; to envision; imagination",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "灰尘",
+      "page": 23,
+      "starred": false,
+      "pinyin": "huī chén",
+      "meaning": "dust",
+      "level": 6
+    },
+    {
+      "number": 29,
+      "text": "亮",
+      "page": 23,
+      "starred": false,
+      "pinyin": "liàng",
+      "meaning": "bright; light; to shine; to flash; loud and clear",
+      "level": 4
+    },
+    {
+      "number": 30,
+      "text": "微笑",
+      "page": 23,
+      "starred": false,
+      "pinyin": "wēi xiào",
+      "meaning": "smile; to smile",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "温暖",
+      "page": 23,
+      "starred": false,
+      "pinyin": "wēn nuǎn",
+      "meaning": "warm",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "立刻",
+      "page": 23,
+      "starred": false,
+      "pinyin": "lì kè",
+      "meaning": "immediately; at once; right away",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "扑",
+      "page": 23,
+      "starred": true,
+      "pinyin": "pū",
+      "meaning": "to throw oneself at; to pounce on; to devote one's energies",
+      "level": 6
+    },
+    {
+      "number": 34,
+      "text": "卧室",
+      "page": 24,
+      "starred": false,
+      "pinyin": "wò shì",
+      "meaning": "bedroom",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "铺",
+      "page": 24,
+      "starred": false,
+      "meaning": "to spread; to unfold",
+      "pinyin": "pū",
+      "level": 6
+    },
+    {
+      "number": 36,
+      "text": "飘",
+      "page": 24,
+      "starred": false,
+      "pinyin": "piāo",
+      "meaning": "to float (in the air); to flutter; to waft; complacent; frivolous; weak; shaky; wobbly",
+      "level": 6
+    },
+    {
+      "number": 37,
+      "text": "阵",
+      "page": 24,
+      "starred": false,
+      "meaning": "a measure word for a short spell of an action or phenomenon",
+      "pinyin": "zhèn",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "感受",
+      "page": 24,
+      "starred": false,
+      "pinyin": "gǎn shòu",
+      "meaning": "to sense; perception; to feel (through the senses)",
+      "level": 4
+    },
+    {
+      "number": 39,
+      "text": "流泪",
+      "page": 24,
+      "starred": false,
+      "pinyin": "liú lèi",
+      "meaning": "to shed tears",
+      "level": null
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "id": "course-14",
+  "sourcePages": [
+    125,
+    126,
+    127
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "四合院",
+      "page": 125,
+      "starred": false,
+      "pinyin": "sì hé yuàn",
+      "meaning": "courtyard house with a fully enclosed courtyard (type of Chinese residence)",
+      "level": null
+    },
+    {
+      "number": 2,
+      "text": "民居",
+      "page": 125,
+      "starred": true,
+      "pinyin": "mín jū",
+      "meaning": "houses; homes",
+      "level": 7
+    },
+    {
+      "number": 3,
+      "text": "组合",
+      "page": 125,
+      "starred": false,
+      "pinyin": "zǔ hé",
+      "meaning": "to assemble; to combine; to compose; combination; association; set; compilation; (math.) combinatorial",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "建筑",
+      "page": 125,
+      "starred": false,
+      "pinyin": "jiàn zhù",
+      "meaning": "to construct; building",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "形式",
+      "page": 125,
+      "starred": false,
+      "pinyin": "xíng shì",
+      "meaning": "outer appearance; form; shape",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "所谓",
+      "page": 125,
+      "starred": false,
+      "pinyin": "suǒ wèi",
+      "meaning": "what is meant by the expression ...; what is referred to as ...; (derog.) so-called",
+      "level": 7
+    },
+    {
+      "number": 7,
+      "text": "方",
+      "page": 125,
+      "starred": false,
+      "pinyin": "fāng",
+      "meaning": "square; power or involution (math.); upright",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "广泛",
+      "page": 125,
+      "starred": false,
+      "pinyin": "guǎng fàn",
+      "meaning": "wide; broad; extensive; widespread",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "样式",
+      "page": 125,
+      "starred": false,
+      "pinyin": "yàng shì",
+      "meaning": "type; style",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "代表",
+      "page": 126,
+      "starred": false,
+      "pinyin": "dài biǎo",
+      "meaning": "representative; delegate; to represent",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "通常",
+      "page": 126,
+      "starred": false,
+      "pinyin": "tōng cháng",
+      "meaning": "regular; usual; normal; usually; normally",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "并列",
+      "page": 126,
+      "starred": false,
+      "pinyin": "bìng liè",
+      "meaning": "to stand side by side; to be juxtaposed",
+      "level": 7
+    },
+    {
+      "number": 13,
+      "text": "组成",
+      "page": 126,
+      "starred": false,
+      "pinyin": "zǔ chéng",
+      "meaning": "to form; to make up; to constitute",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "长辈",
+      "page": 126,
+      "starred": false,
+      "pinyin": "zhǎng bèi",
+      "meaning": "one's elders; older generation",
+      "level": 6
+    },
+    {
+      "number": 15,
+      "text": "具备",
+      "page": 126,
+      "starred": false,
+      "pinyin": "jù bèi",
+      "meaning": "to possess; to have; equipped with",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "日常",
+      "page": 126,
+      "starred": false,
+      "pinyin": "rì cháng",
+      "meaning": "day-to-day; daily; everyday",
+      "level": 4
+    },
+    {
+      "number": 17,
+      "text": "起居",
+      "page": 126,
+      "starred": false,
+      "pinyin": "qǐ jū",
+      "meaning": "everyday life; regular pattern of life",
+      "level": null
+    },
+    {
+      "number": 18,
+      "text": "接待",
+      "page": 126,
+      "starred": false,
+      "pinyin": "jiē dài",
+      "meaning": "to receive; to entertain; to host (guests, visitors or clients)",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "功能",
+      "page": 126,
+      "starred": false,
+      "pinyin": "gōng néng",
+      "meaning": "function; capability",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "厢房",
+      "page": 126,
+      "starred": false,
+      "pinyin": "xiāng fáng",
+      "meaning": "wing (of a traditional house); side room",
+      "level": null
+    },
+    {
+      "number": 21,
+      "text": "走廊",
+      "page": 126,
+      "starred": false,
+      "pinyin": "zǒu láng",
+      "meaning": "corridor; aisle; hallway; passageway; veranda",
+      "level": 6
+    },
+    {
+      "number": 22,
+      "text": "空间",
+      "page": 126,
+      "starred": false,
+      "pinyin": "kōng jiān",
+      "meaning": "space; room; (fig.) scope; leeway; (astronomy) outer space",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "种",
+      "page": 126,
+      "starred": true,
+      "pinyin": "zhǒng",
+      "meaning": "seed; species; kind",
+      "level": 3
+    },
+    {
+      "number": 24,
+      "text": "竹子",
+      "page": 126,
+      "starred": false,
+      "pinyin": "zhú zi",
+      "meaning": "bamboo",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "则",
+      "page": 126,
+      "starred": false,
+      "pinyin": "zé",
+      "meaning": "(literary) (conjunction used to express contrast with a previous clause) but; then; (bound form) standard; norm; (bound form) principle",
+      "level": 6
+    },
+    {
+      "number": 26,
+      "text": "金鱼",
+      "page": 126,
+      "starred": false,
+      "pinyin": "jīn yú",
+      "meaning": "goldfish",
+      "level": null
+    },
+    {
+      "number": 27,
+      "text": "创造",
+      "page": 126,
+      "starred": false,
+      "pinyin": "chuàng zào",
+      "meaning": "to create; to bring about; to produce",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "情趣",
+      "page": 126,
+      "starred": false,
+      "pinyin": "qíng qù",
+      "meaning": "inclinations and interests; delight; fun",
+      "level": null
+    },
+    {
+      "number": 29,
+      "text": "因而",
+      "page": 126,
+      "starred": false,
+      "pinyin": "yīn ér",
+      "meaning": "therefore; as a result; thus",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "为",
+      "page": 126,
+      "starred": false,
+      "pinyin": "wèi",
+      "meaning": "as (in the capacity of); to take sth as; to act as",
+      "level": 3
+    },
+    {
+      "number": 31,
+      "text": "关闭",
+      "page": 126,
+      "starred": false,
+      "pinyin": "guān bì",
+      "meaning": "to close; to shut (a window etc); (of a shop, school etc) to shut down",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "封闭",
+      "page": 127,
+      "starred": false,
+      "pinyin": "fēng bì",
+      "meaning": "to close; to seal off; to close down (an illegal venue); closed (i.e. isolated from outside input)",
+      "level": 6
+    },
+    {
+      "number": 33,
+      "text": "打交道",
+      "page": 127,
+      "starred": false,
+      "pinyin": "dǎ jiāo dào",
+      "meaning": "to come into contact with; to have dealings",
+      "level": 6
+    },
+    {
+      "number": 34,
+      "text": "日子",
+      "page": 127,
+      "starred": false,
+      "pinyin": "rì zi",
+      "meaning": "day; a (calendar) date; days of one's life",
+      "level": 4
+    },
+    {
+      "number": 35,
+      "text": "充分",
+      "page": 127,
+      "starred": false,
+      "pinyin": "chōng fèn",
+      "meaning": "ample; sufficient; adequate",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "令",
+      "page": 127,
+      "starred": false,
+      "pinyin": "lìng",
+      "meaning": "used in 脊令[ji2 ling2]; used in 令狐[Ling2 hu2] (Taiwan pr. [ling4]); classifier for a ream of paper",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "亲切",
+      "page": 127,
+      "starred": false,
+      "pinyin": "qīn qiè",
+      "meaning": "amiable; cordial; close and dear",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "劳动",
+      "page": 127,
+      "starred": false,
+      "pinyin": "láo dòng",
+      "meaning": "work; toil; physical labor",
+      "level": 5
+    },
+    {
+      "number": 39,
+      "text": "人民",
+      "page": 127,
+      "starred": false,
+      "pinyin": "rén mín",
+      "meaning": "the people",
+      "level": 5
+    },
+    {
+      "number": 40,
+      "text": "矛盾",
+      "page": 127,
+      "starred": false,
+      "pinyin": "máo dùn",
+      "meaning": "contradiction; conflicting views; contradictory",
+      "level": 5
+    },
+    {
+      "number": 41,
+      "text": "浓",
+      "page": 127,
+      "starred": false,
+      "pinyin": "nóng",
+      "meaning": "concentrated; dense; strong (smell etc)",
+      "level": 5
+    }
+  ]
+}

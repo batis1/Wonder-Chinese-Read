@@ -1,0 +1,215 @@
+{
+  "id": "course-01",
+  "sourcePages": [
+    17,
+    18,
+    19
+  ],
+  "points": [
+    {
+      "point": "如何",
+      "kind": "usage",
+      "pages": [
+        17
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“如何”，代词，用来询问方式。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "我们明天举行会议，讨论这个问题该如何解决。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "评委叫第一对夫妻说说他俩是如何恩爱的。"
+        },
+        {
+          "type": "explanation",
+          "text": "“如何”也常用于句末，用来征求意见或询问状况。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "我们希望由你来负责解决这个问题，如何？"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "“80后”们月收入情况如何？"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "请你说一说, _____ (如何)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: _____ (如何)\nB: 他们相敬如宾,关系很好。"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 你能不能简单地叙述一下那部电影的内容?\nB: _____ (如何)"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "靠",
+      "kind": "usage",
+      "pages": [
+        17,
+        18
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“靠”，动词，常见格式为“靠着/在……”，把身体的部分重量让别人或物体支撑。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "王老师喜欢靠着桌子讲课。"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "……男人的头靠在女人的肩膀上，睡着了。"
+        },
+        {
+          "type": "explanation",
+          "text": "“靠”，也表示依靠，得益于。例如："
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "“在家靠父母，出门靠朋友”，有什么事情我能帮忙的，你们尽管开口。"
+        },
+        {
+          "type": "example",
+          "number": 4,
+          "text": "没有一个人可以完全不靠别人而生活。"
+        },
+        {
+          "type": "explanation",
+          "text": "“靠”，还表示接近。例如："
+        },
+        {
+          "type": "example",
+          "number": 5,
+          "text": "我的座位是17 号，是靠窗的座位。"
+        },
+        {
+          "type": "example",
+          "number": 6,
+          "text": "以后我一定要买一个靠海的房子，这样我每天都能听到大海的声音。"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "快要到站了,你别 _____ ,不安全。 靠 )、"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: 下个星期的考试,你需要我帮忙吗? _____ 靠\nB: _____ `"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: 您好,请给我登机牌。\nB: 好的,"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "居然",
+      "kind": "usage",
+      "pages": [
+        18
+      ],
+      "blocks": [
+        {
+          "type": "explanation",
+          "text": "“居然”，副词，表示没想到、出乎意料。例如："
+        },
+        {
+          "type": "example",
+          "number": 1,
+          "text": "这么简单的题，你居然也不会做？上课时都干什么去了？"
+        },
+        {
+          "type": "example",
+          "number": 2,
+          "text": "没想到居然在这儿碰到你！你也去上海？"
+        },
+        {
+          "type": "example",
+          "number": 3,
+          "text": "……这个女人为了不影响丈夫睡觉，居然放弃这次机会！"
+        }
+      ],
+      "practice": [
+        {
+          "type": "exercise",
+          "number": 1,
+          "text": "我快被气死了! _____ (居然)"
+        },
+        {
+          "type": "exercise",
+          "number": 2,
+          "text": "A: 你听说了吗?小王和小李离婚了!\nB: _____ (居然)"
+        },
+        {
+          "type": "exercise",
+          "number": 3,
+          "text": "A: _____ (居然)\nB: 是啊,比赛之前我以为他肯定会赢呢。"
+        }
+      ],
+      "common": []
+    },
+    {
+      "point": "如何 / 怎么",
+      "kind": "comparison",
+      "pages": [
+        19
+      ],
+      "common": [
+        "都是代词，都可用于询问方式。",
+        "如：只有知道如何/怎么停止的人，才知道如何/怎么高速前进。"
+      ],
+      "terms": [
+        {
+          "word": "如何",
+          "paragraphs": [
+            "1.多用于书面语",
+            "如：该如何爱护我们的地球？",
+            "2.不能用于询问原因。",
+            "3.可用于句末表示询问状况或征求意见。",
+            "如：最近身体如何？"
+          ]
+        },
+        {
+          "word": "怎么",
+          "paragraphs": [
+            "1.可用于口语",
+            "如：你今天是怎么来的？",
+            "2.可用于询问原因。",
+            "如：今天怎么这么冷？",
+            "3.可用于句首表示惊讶。",
+            "如：怎么，你不认识我了？！"
+          ]
+        }
+      ]
+    }
+  ]
+}

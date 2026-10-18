@@ -1,0 +1,272 @@
+{
+  "id": "course-31",
+  "sourcePages": [
+    114,
+    115,
+    116
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "门槛",
+      "page": 114,
+      "starred": true,
+      "pinyin": "mén kǎn",
+      "meaning": "doorstep; sill; threshold",
+      "level": 7
+    },
+    {
+      "number": 2,
+      "text": "报社",
+      "page": 114,
+      "starred": false,
+      "pinyin": "bào shè",
+      "meaning": "newspaper (i.e. a company)",
+      "level": 6
+    },
+    {
+      "number": 3,
+      "text": "编辑",
+      "page": 114,
+      "starred": false,
+      "pinyin": "biān jí",
+      "meaning": "to edit; to compile; editor",
+      "level": 6
+    },
+    {
+      "number": 4,
+      "text": "嗯",
+      "page": 114,
+      "starred": false,
+      "pinyin": "ń",
+      "meaning": "(a groaning sound); (nonverbal grunt as interjection); OK, yeah",
+      "level": 4
+    },
+    {
+      "number": 5,
+      "text": "轻易",
+      "page": 114,
+      "starred": false,
+      "pinyin": "qīng yì",
+      "meaning": "easy; simple; rashly; offhandedly",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "处理",
+      "page": 114,
+      "starred": false,
+      "pinyin": "chǔ lǐ",
+      "meaning": "to handle; to deal with; to punish; to treat sth by a special process; to process",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "社区",
+      "page": 114,
+      "starred": true,
+      "pinyin": "shè qū",
+      "meaning": "community; neighborhood",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "劝",
+      "page": 114,
+      "starred": false,
+      "pinyin": "quàn",
+      "meaning": "to advise; to urge; to try to persuade",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "圆",
+      "page": 114,
+      "starred": false,
+      "pinyin": "yuán",
+      "meaning": "circle; round; circular",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "标志",
+      "page": 115,
+      "starred": false,
+      "pinyin": "biāo zhì",
+      "meaning": "sign; mark; symbol; logo; to symbolize; to indicate; to mark",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "出示",
+      "page": 115,
+      "starred": false,
+      "pinyin": "chū shì",
+      "meaning": "to show; to take out and show to others; to display",
+      "level": 6
+    },
+    {
+      "number": 12,
+      "text": "赞成",
+      "page": 115,
+      "starred": false,
+      "pinyin": "zàn chéng",
+      "meaning": "to approve of; to agree with; (literary) to help bring about",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "请愿书",
+      "page": 115,
+      "starred": false,
+      "pinyin": "qǐng yuàn shū",
+      "meaning": "petition",
+      "level": null
+    },
+    {
+      "number": 14,
+      "text": "恋爱",
+      "page": 115,
+      "starred": false,
+      "pinyin": "liàn ài",
+      "meaning": "(romantic) love; in love; to have an affair",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "迫切",
+      "page": 115,
+      "starred": false,
+      "pinyin": "pò qiè",
+      "meaning": "urgent; pressing",
+      "level": 6
+    },
+    {
+      "number": 16,
+      "text": "犹豫",
+      "page": 115,
+      "starred": false,
+      "pinyin": "yóu yù",
+      "meaning": "to hesitate",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "冷淡",
+      "page": 115,
+      "starred": false,
+      "pinyin": "lěng dàn",
+      "meaning": "cold; indifferent",
+      "level": 7
+    },
+    {
+      "number": 18,
+      "text": "无所谓",
+      "page": 115,
+      "starred": false,
+      "pinyin": "wú suǒ wèi",
+      "meaning": "to be indifferent; not to matter; cannot be said to be",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "值班",
+      "page": 115,
+      "starred": true,
+      "pinyin": "zhí bān",
+      "meaning": "to work a shift; on duty",
+      "level": 6
+    },
+    {
+      "number": 20,
+      "text": "报告",
+      "page": 115,
+      "starred": false,
+      "pinyin": "bào gào",
+      "meaning": "to inform; to report; to make known",
+      "level": 5
+    },
+    {
+      "number": 21,
+      "text": "八成",
+      "display": "八成（儿）",
+      "page": 115,
+      "starred": false,
+      "meaning": "most probably; most likely; eighty percent",
+      "pinyin": "bā chéng",
+      "level": 7
+    },
+    {
+      "number": 22,
+      "text": "模糊",
+      "page": 115,
+      "starred": false,
+      "pinyin": "mó hú",
+      "meaning": "vague; indistinct; fuzzy; to blur; to obscure; to confuse; to mix up",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "狡猾",
+      "page": 116,
+      "starred": false,
+      "pinyin": "jiǎo huá",
+      "meaning": "crafty; cunning; sly",
+      "level": 7
+    },
+    {
+      "number": 24,
+      "text": "了不起",
+      "page": 116,
+      "starred": false,
+      "pinyin": "liǎo bù qǐ",
+      "meaning": "amazing; terrific; extraordinary",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "身段",
+      "page": 116,
+      "starred": false,
+      "pinyin": "shēn duàn",
+      "meaning": "a woman's physique; figure; posture on stage",
+      "level": null
+    },
+    {
+      "number": 26,
+      "text": "缩短",
+      "page": 116,
+      "starred": false,
+      "pinyin": "suō duǎn",
+      "meaning": "to shorten; to reduce; to curtail",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "看不起",
+      "page": 116,
+      "starred": false,
+      "pinyin": "kàn bù qǐ",
+      "meaning": "to look down upon; to despise",
+      "level": 6
+    },
+    {
+      "number": 28,
+      "text": "谦虚",
+      "page": 116,
+      "starred": false,
+      "pinyin": "qiān xū",
+      "meaning": "modest; self-effacing; to make modest remarks",
+      "level": 6
+    },
+    {
+      "number": 29,
+      "text": "实践",
+      "page": 116,
+      "starred": false,
+      "pinyin": "shí jiàn",
+      "meaning": "practice; to put into practice; to live up to (a promise)",
+      "level": 5
+    }
+  ]
+}

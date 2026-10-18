@@ -1,0 +1,315 @@
+{
+  "id": "course-22",
+  "sourcePages": [
+    41,
+    42
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "过分",
+      "page": 41,
+      "starred": false,
+      "pinyin": "guò fèn",
+      "meaning": "excessive; undue; unduly; overly",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "强调",
+      "page": 41,
+      "starred": false,
+      "pinyin": "qiáng diào",
+      "meaning": "to emphasize (a statement); to stress",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "作文",
+      "page": 41,
+      "starred": false,
+      "pinyin": "zuò wén",
+      "meaning": "to write an essay; composition (student essay)",
+      "level": 4
+    },
+    {
+      "number": 4,
+      "text": "观点",
+      "page": 41,
+      "starred": false,
+      "pinyin": "guān diǎn",
+      "meaning": "point of view; viewpoint; standpoint",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "客观",
+      "page": 41,
+      "starred": false,
+      "pinyin": "kè guān",
+      "meaning": "objective; impartial",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "全面",
+      "page": 41,
+      "starred": false,
+      "pinyin": "quán miàn",
+      "meaning": "all-around; comprehensive; total",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "转变",
+      "page": 41,
+      "starred": false,
+      "pinyin": "zhuǎn biàn",
+      "meaning": "to change; to transform; shift",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "观念",
+      "page": 41,
+      "starred": false,
+      "pinyin": "guān niàn",
+      "meaning": "notion; thought; concept",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "火柴",
+      "page": 41,
+      "starred": false,
+      "pinyin": "huǒ chái",
+      "meaning": "match (for lighting fire)",
+      "level": 6
+    },
+    {
+      "number": 10,
+      "text": "灰",
+      "page": 41,
+      "starred": false,
+      "pinyin": "huī",
+      "meaning": "ash; dust; lime",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "一旦",
+      "page": 41,
+      "starred": false,
+      "pinyin": "yí dàn",
+      "meaning": "in case (sth happens); if; once (sth happens, then...)",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "王宫",
+      "page": 41,
+      "starred": false,
+      "pinyin": "wáng gōng",
+      "meaning": "imperial palace",
+      "level": null
+    },
+    {
+      "number": 13,
+      "text": "王子",
+      "page": 41,
+      "starred": false,
+      "pinyin": "wáng zǐ",
+      "meaning": "prince; son of a king",
+      "level": 6
+    },
+    {
+      "number": 14,
+      "text": "属于",
+      "page": 42,
+      "starred": false,
+      "pinyin": "shǔ yú",
+      "meaning": "to belong to; to fall under (a category)",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "对待",
+      "page": 42,
+      "starred": false,
+      "pinyin": "duì dài",
+      "meaning": "to treat; treatment",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "交换",
+      "page": 42,
+      "starred": false,
+      "pinyin": "jiāo huàn",
+      "meaning": "to exchange; to swap; to switch (telecom)",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "拥有",
+      "page": 42,
+      "starred": false,
+      "pinyin": "yōng yǒu",
+      "meaning": "to have; to possess; to own",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "巨大",
+      "page": 42,
+      "starred": false,
+      "pinyin": "jù dà",
+      "meaning": "huge; immense; enormous; gigantic",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "承认",
+      "page": 42,
+      "starred": false,
+      "pinyin": "chéng rèn",
+      "meaning": "to admit; to concede; to recognize",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "人性",
+      "page": 42,
+      "starred": false,
+      "pinyin": "rén xìng",
+      "meaning": "human nature; humanity; human",
+      "level": 7
+    },
+    {
+      "number": 21,
+      "text": "完美",
+      "page": 42,
+      "starred": false,
+      "pinyin": "wán měi",
+      "meaning": "perfect",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "难免",
+      "page": 42,
+      "starred": false,
+      "pinyin": "nán miǎn",
+      "meaning": "hard to avoid; difficult to escape from; will inevitably",
+      "level": 6
+    },
+    {
+      "number": 23,
+      "text": "疼爱",
+      "page": 42,
+      "starred": false,
+      "pinyin": "téng ài",
+      "meaning": "to love dearly; to dote on (sb)",
+      "level": 7
+    },
+    {
+      "number": 24,
+      "text": "平等",
+      "page": 42,
+      "starred": false,
+      "pinyin": "píng děng",
+      "meaning": "equal; equality",
+      "level": 6
+    },
+    {
+      "number": 25,
+      "text": "自私",
+      "page": 42,
+      "starred": false,
+      "pinyin": "zì sī",
+      "meaning": "selfish; selfishness",
+      "level": 7
+    },
+    {
+      "number": 26,
+      "text": "倾向",
+      "page": 42,
+      "starred": false,
+      "pinyin": "qīng xiàng",
+      "meaning": "trend; tendency; orientation",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "理由",
+      "page": 42,
+      "starred": false,
+      "pinyin": "lǐ yóu",
+      "meaning": "reason; grounds; justification",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "道德",
+      "page": 42,
+      "starred": false,
+      "pinyin": "dào dé",
+      "meaning": "virtue; morality; ethics",
+      "level": 6
+    },
+    {
+      "number": 29,
+      "text": "自从",
+      "page": 42,
+      "starred": false,
+      "pinyin": "zì cóng",
+      "meaning": "since (a time); ever since",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "童话",
+      "page": 42,
+      "starred": false,
+      "pinyin": "tóng huà",
+      "meaning": "children's fairy tales",
+      "level": 6
+    },
+    {
+      "number": 31,
+      "text": "价值",
+      "page": 42,
+      "starred": false,
+      "pinyin": "jià zhí",
+      "meaning": "value; worth; (ethical, cultural etc) values",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "单纯",
+      "page": 42,
+      "starred": false,
+      "pinyin": "dān chún",
+      "meaning": "simple; pure; unsophisticated",
+      "level": 6
+    },
+    {
+      "number": 33,
+      "text": "主张",
+      "page": 42,
+      "starred": false,
+      "pinyin": "zhǔ zhāng",
+      "meaning": "to advocate; to stand for; view",
+      "level": 6
+    },
+    {
+      "number": 34,
+      "text": "知感",
+      "page": 42,
+      "starred": true,
+      "meaning": "sense; perception",
+      "pinyin": "zhī gǎn",
+      "level": null
+    }
+  ]
+}

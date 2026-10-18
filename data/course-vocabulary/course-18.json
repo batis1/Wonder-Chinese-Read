@@ -1,0 +1,371 @@
+{
+  "id": "course-18",
+  "sourcePages": [
+    160,
+    161,
+    162
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "抽象",
+      "page": 160,
+      "starred": false,
+      "pinyin": "chōu xiàng",
+      "meaning": "abstract; abstraction",
+      "level": 6
+    },
+    {
+      "number": 2,
+      "text": "古典",
+      "page": 160,
+      "starred": false,
+      "pinyin": "gǔ diǎn",
+      "meaning": "classical",
+      "level": 6
+    },
+    {
+      "number": 3,
+      "text": "欣赏",
+      "page": 160,
+      "starred": false,
+      "pinyin": "xīn shǎng",
+      "meaning": "to appreciate; to enjoy; to admire",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "布",
+      "page": 160,
+      "starred": false,
+      "meaning": "cloth",
+      "pinyin": "bù",
+      "level": 6
+    },
+    {
+      "number": 5,
+      "text": "规则",
+      "page": 160,
+      "starred": false,
+      "pinyin": "guī zé",
+      "meaning": "rule; regulation; regular; orderly; fixed",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "派",
+      "page": 160,
+      "starred": false,
+      "meaning": "school; group; artistic movement",
+      "pinyin": "pài",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "作品",
+      "page": 160,
+      "starred": false,
+      "pinyin": "zuò pǐn",
+      "meaning": "work (of art); opus",
+      "level": 4
+    },
+    {
+      "number": 8,
+      "text": "洒",
+      "page": 160,
+      "starred": false,
+      "meaning": "to sprinkle; to scatter",
+      "pinyin": "sǎ",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "极其",
+      "page": 161,
+      "starred": false,
+      "pinyin": "jí qí",
+      "meaning": "extremely",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "神秘",
+      "page": 161,
+      "starred": false,
+      "pinyin": "shén mì",
+      "meaning": "mysterious; mystery",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "丑",
+      "display": "丑（陋）",
+      "page": 161,
+      "starred": false,
+      "meaning": "ugly",
+      "pinyin": "chǒu",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "自由",
+      "page": 161,
+      "starred": false,
+      "pinyin": "zì yóu",
+      "meaning": "freedom; liberty; free; unrestricted",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "设计",
+      "page": 161,
+      "starred": false,
+      "pinyin": "shè jì",
+      "meaning": "to design; to plan; design; plan",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "组",
+      "page": 161,
+      "starred": false,
+      "pinyin": "zǔ",
+      "meaning": "to form; to organize; group",
+      "level": 4
+    },
+    {
+      "number": 15,
+      "text": "幅",
+      "page": 161,
+      "starred": false,
+      "pinyin": "fú",
+      "meaning": "width; roll; classifier for textiles or pictures",
+      "level": 4
+    },
+    {
+      "number": 16,
+      "text": "出自",
+      "page": 161,
+      "starred": false,
+      "pinyin": "chū zì",
+      "meaning": "to come from",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "业余",
+      "page": 161,
+      "starred": false,
+      "pinyin": "yè yú",
+      "meaning": "in one's spare time; outside working hours; amateur (historian etc)",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "婴儿",
+      "page": 161,
+      "starred": false,
+      "pinyin": "yīng ér",
+      "meaning": "infant; baby; lead (Pb)",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "猩猩",
+      "page": 161,
+      "starred": true,
+      "pinyin": "xīng xīng",
+      "meaning": "orangutan; (slang) dialect speaker whose speech is corrupted by Standard Mandarin",
+      "level": 7
+    },
+    {
+      "number": 20,
+      "text": "涂鸦",
+      "page": 161,
+      "starred": false,
+      "pinyin": "tú yā",
+      "meaning": "graffiti; scrawl; poor calligraphy",
+      "level": null
+    },
+    {
+      "number": 21,
+      "text": "签",
+      "page": 161,
+      "starred": false,
+      "pinyin": "qiān",
+      "meaning": "to sign one's name; to write brief comments on a document; inscribed bamboo stick (variant of 籤|签[qian1])",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "其余",
+      "page": 161,
+      "starred": false,
+      "pinyin": "qí yú",
+      "meaning": "the rest; the others; remaining",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "身份",
+      "page": 161,
+      "starred": false,
+      "pinyin": "shēn fèn",
+      "meaning": "identity; aspect of one's identity (e.g. mayor, father, permanent resident); role; capacity (as in \"in his capacity as ...\" 以[yi3] + ... + 的身份[de5 shen1 fen4]); status (social, legal etc); position; rank",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "确认",
+      "page": 161,
+      "starred": false,
+      "pinyin": "què rèn",
+      "meaning": "to confirm; to verify; confirmation",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "随手",
+      "page": 161,
+      "starred": false,
+      "pinyin": "suí shǒu",
+      "meaning": "conveniently; without extra trouble; while doing it",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "分辨",
+      "page": 161,
+      "starred": false,
+      "pinyin": "fēn biàn",
+      "meaning": "to distinguish; to differentiate; to resolve",
+      "level": 7
+    },
+    {
+      "number": 27,
+      "text": "挥",
+      "page": 161,
+      "starred": false,
+      "pinyin": "huī",
+      "meaning": "to wave; to brandish; to command",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "可见",
+      "page": 161,
+      "starred": false,
+      "pinyin": "kě jiàn",
+      "meaning": "it can clearly be seen (that this is the case); it is (thus) clear; clear",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "哪怕",
+      "page": 161,
+      "starred": false,
+      "pinyin": "nǎ pà",
+      "meaning": "even; even if; even though",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "元素",
+      "page": 161,
+      "starred": false,
+      "pinyin": "yuán sù",
+      "meaning": "element (key component of sth); (chemistry) element; (math.) element (member of a set)",
+      "level": 6
+    },
+    {
+      "number": 31,
+      "text": "调整",
+      "page": 161,
+      "starred": false,
+      "pinyin": "tiáo zhěng",
+      "meaning": "to adjust; to revise; to reorganize",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "位置",
+      "page": 162,
+      "starred": false,
+      "pinyin": "wèi zhì",
+      "meaning": "position; place; seat",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "含意",
+      "page": 162,
+      "starred": false,
+      "pinyin": "hán yì",
+      "meaning": "meaning",
+      "level": null
+    },
+    {
+      "number": 34,
+      "text": "区域",
+      "page": 162,
+      "starred": false,
+      "pinyin": "qū yù",
+      "meaning": "area; region; district",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "活跃",
+      "page": 162,
+      "starred": false,
+      "pinyin": "huó yuè",
+      "meaning": "active; lively; excited",
+      "level": 6
+    },
+    {
+      "number": 36,
+      "text": "布局",
+      "page": 162,
+      "starred": false,
+      "pinyin": "bù jú",
+      "meaning": "arrangement; composition; layout",
+      "level": 7
+    },
+    {
+      "number": 37,
+      "text": "事实",
+      "page": 162,
+      "starred": false,
+      "pinyin": "shì shí",
+      "meaning": "fact",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "目前",
+      "page": 162,
+      "starred": false,
+      "pinyin": "mù qián",
+      "meaning": "at the present time; currently",
+      "level": 4
+    },
+    {
+      "number": 39,
+      "text": "证据",
+      "page": 162,
+      "starred": false,
+      "pinyin": "zhèng jù",
+      "meaning": "evidence; proof; testimony",
+      "level": 5
+    },
+    {
+      "number": 40,
+      "text": "话题",
+      "page": 162,
+      "starred": false,
+      "pinyin": "huà tí",
+      "meaning": "subject (of a talk or conversation); topic",
+      "level": 5
+    }
+  ]
+}

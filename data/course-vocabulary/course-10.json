@@ -1,0 +1,344 @@
+{
+  "id": "course-10",
+  "sourcePages": [
+    92,
+    93,
+    94
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "争论",
+      "page": 92,
+      "starred": false,
+      "pinyin": "zhēng lùn",
+      "meaning": "to argue; to debate; to contend",
+      "level": 6
+    },
+    {
+      "number": 2,
+      "text": "奇迹",
+      "page": 92,
+      "starred": false,
+      "pinyin": "qí jì",
+      "meaning": "miracle; wonder; marvel",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "围绕",
+      "page": 92,
+      "starred": false,
+      "pinyin": "wéi rào",
+      "meaning": "to revolve around; to center on (an issue)",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "奔跑",
+      "page": 92,
+      "starred": true,
+      "pinyin": "bēn pǎo",
+      "meaning": "to run",
+      "level": 6
+    },
+    {
+      "number": 5,
+      "text": "蹄",
+      "display": "蹄（子）",
+      "page": 92,
+      "starred": true,
+      "pinyin": "tí",
+      "meaning": "hoof; pig's trotters",
+      "level": null
+    },
+    {
+      "number": 6,
+      "text": "辩论",
+      "page": 92,
+      "starred": false,
+      "pinyin": "biàn lùn",
+      "meaning": "debate; argument; to argue over",
+      "level": 7
+    },
+    {
+      "number": 7,
+      "text": "青蛙",
+      "page": 92,
+      "starred": true,
+      "pinyin": "qīng wā",
+      "meaning": "frog (CL:隻|只[zhi1]); (old) (slang) ugly guy",
+      "level": null
+    },
+    {
+      "number": 8,
+      "text": "啦",
+      "page": 93,
+      "starred": false,
+      "pinyin": "la",
+      "meaning": "(onom.) sound of singing, cheering etc; (phonetic); (dialect) to chat",
+      "level": 6
+    },
+    {
+      "number": 9,
+      "text": "始终",
+      "page": 93,
+      "starred": false,
+      "pinyin": "shǐ zhōng",
+      "meaning": "from beginning to end; all along",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "脖子",
+      "page": 93,
+      "starred": false,
+      "pinyin": "bó zi",
+      "meaning": "neck",
+      "level": 6
+    },
+    {
+      "number": 11,
+      "text": "说服",
+      "page": 93,
+      "starred": false,
+      "pinyin": "shuō fú",
+      "meaning": "to persuade; to convince; to talk sb over",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "摄影师",
+      "page": 93,
+      "starred": false,
+      "pinyin": "shè yǐng shī",
+      "meaning": "photographer; cinematographer; cameraman",
+      "level": null
+    },
+    {
+      "number": 13,
+      "text": "毕竟",
+      "page": 93,
+      "starred": false,
+      "pinyin": "bì jìng",
+      "meaning": "after all; all in all; when all is said and done",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "操场",
+      "page": 93,
+      "starred": false,
+      "pinyin": "cāo chǎng",
+      "meaning": "playground; sports field; drill ground",
+      "level": 4
+    },
+    {
+      "number": 15,
+      "text": "洞",
+      "page": 93,
+      "starred": false,
+      "pinyin": "dòng",
+      "meaning": "cave; hole; zero (unambiguous spoken form when spelling out numbers)",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "插",
+      "page": 93,
+      "starred": false,
+      "pinyin": "chā",
+      "meaning": "to insert; stick in; pierce",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "棍",
+      "page": 93,
+      "starred": false,
+      "pinyin": "gùn",
+      "meaning": "stick; rod; truncheon; scoundrel; villain",
+      "level": 6
+    },
+    {
+      "number": 18,
+      "text": "系",
+      "page": 93,
+      "starred": false,
+      "meaning": "to tie; to fasten",
+      "pinyin": "jì",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "匹",
+      "page": 93,
+      "starred": false,
+      "meaning": "a measure word for horses",
+      "pinyin": "pǐ",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "拦",
+      "page": 93,
+      "starred": false,
+      "pinyin": "lán",
+      "meaning": "to block sb's path; to obstruct; to flag down (a taxi)",
+      "level": 6
+    },
+    {
+      "number": 21,
+      "text": "拍",
+      "page": 93,
+      "starred": false,
+      "pinyin": "pāi",
+      "meaning": "to pat; to clap; to slap",
+      "level": 4
+    },
+    {
+      "number": 22,
+      "text": "差距",
+      "page": 93,
+      "starred": false,
+      "pinyin": "chā jù",
+      "meaning": "disparity; gap",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "显示",
+      "page": 93,
+      "starred": false,
+      "pinyin": "xiǎn shì",
+      "meaning": "to show; to illustrate; to display",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "意识",
+      "page": 93,
+      "starred": false,
+      "pinyin": "yì shí",
+      "meaning": "consciousness; awareness; (usu. followed by 到[dao4]) to be aware of; to realize",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "艰苦",
+      "page": 94,
+      "starred": false,
+      "pinyin": "jiān kǔ",
+      "meaning": "difficult; hard; arduous",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "试验",
+      "page": 94,
+      "starred": true,
+      "pinyin": "shì yàn",
+      "meaning": "experiment; test; to experiment",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "逐渐",
+      "page": 94,
+      "starred": false,
+      "pinyin": "zhú jiàn",
+      "meaning": "gradually",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "改进",
+      "page": 94,
+      "starred": false,
+      "pinyin": "gǎi jìn",
+      "meaning": "to improve; to make better; improvement",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "成熟",
+      "page": 94,
+      "starred": false,
+      "pinyin": "chéng shú",
+      "meaning": "mature; ripe; to mature; to ripen; Taiwan pr. [cheng2shou2]",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "兄弟",
+      "page": 94,
+      "starred": false,
+      "pinyin": "xiōng dì",
+      "meaning": "brothers; younger brother; I, me (humble term used by men in public speech)",
+      "level": 4
+    },
+    {
+      "number": 31,
+      "text": "播放",
+      "page": 94,
+      "starred": false,
+      "pinyin": "bō fàng",
+      "meaning": "to broadcast; to transmit (by radio or TV)",
+      "level": 4
+    },
+    {
+      "number": 32,
+      "text": "纪念",
+      "page": 94,
+      "starred": false,
+      "pinyin": "jì niàn",
+      "meaning": "to commemorate; to honor the memory of; memento; keepsake; souvenir",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "导演",
+      "page": 94,
+      "starred": false,
+      "pinyin": "dǎo yǎn",
+      "meaning": "to direct; director (film etc)",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "瞬间",
+      "page": 94,
+      "starred": true,
+      "pinyin": "shùn jiān",
+      "meaning": "in an instant; in a flash",
+      "level": 6
+    },
+    {
+      "number": 35,
+      "text": "请求",
+      "page": 94,
+      "starred": false,
+      "pinyin": "qǐng qiú",
+      "meaning": "to request; to ask; request (CL:個|个[ge4])",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "或许",
+      "page": 94,
+      "starred": false,
+      "pinyin": "huò xǔ",
+      "meaning": "perhaps; maybe",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "重大",
+      "page": 94,
+      "starred": false,
+      "pinyin": "zhòng dà",
+      "meaning": "great; important; major",
+      "level": 5
+    }
+  ]
+}

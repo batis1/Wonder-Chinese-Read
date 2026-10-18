@@ -1,0 +1,383 @@
+{
+  "id": "course-06",
+  "sourcePages": [
+    56,
+    57,
+    58
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "除夕",
+      "page": 56,
+      "starred": false,
+      "pinyin": "chú xī",
+      "meaning": "lunar New Year's Eve",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "由来",
+      "page": 56,
+      "starred": false,
+      "pinyin": "yóu lái",
+      "meaning": "origin",
+      "level": 6
+    },
+    {
+      "number": 3,
+      "text": "农历",
+      "page": 56,
+      "starred": false,
+      "pinyin": "nóng lì",
+      "meaning": "the traditional Chinese calendar; the lunar calendar",
+      "level": 7
+    },
+    {
+      "number": 4,
+      "text": "守岁",
+      "page": 56,
+      "starred": false,
+      "pinyin": "shǒu suì",
+      "meaning": "to see in the New Year; to stay up all night on lunar New Year's Eve",
+      "level": null
+    },
+    {
+      "number": 5,
+      "text": "怪物",
+      "page": 56,
+      "starred": false,
+      "pinyin": "guài wù",
+      "meaning": "monster; freak; eccentric person",
+      "level": 7
+    },
+    {
+      "number": 6,
+      "text": "伤害",
+      "page": 56,
+      "starred": false,
+      "pinyin": "shāng hài",
+      "meaning": "to injure; to harm",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "恨",
+      "page": 56,
+      "starred": false,
+      "pinyin": "hèn",
+      "meaning": "to hate; to regret",
+      "level": 6
+    },
+    {
+      "number": 8,
+      "text": "骨",
+      "display": "骨（头）",
+      "page": 56,
+      "starred": false,
+      "meaning": "bone",
+      "pinyin": "gǔ",
+      "level": null
+    },
+    {
+      "number": 9,
+      "text": "无奈",
+      "page": 56,
+      "starred": false,
+      "pinyin": "wú nài",
+      "meaning": "to have no alternative; frustrated; exasperated",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "英雄",
+      "page": 56,
+      "starred": false,
+      "pinyin": "yīng xióng",
+      "meaning": "hero",
+      "level": 6
+    },
+    {
+      "number": 11,
+      "text": "英俊",
+      "page": 56,
+      "starred": false,
+      "pinyin": "yīng jùn",
+      "meaning": "handsome",
+      "level": 7
+    },
+    {
+      "number": 12,
+      "text": "咬",
+      "page": 56,
+      "starred": false,
+      "pinyin": "yǎo",
+      "meaning": "to bite; to nip",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "外公",
+      "page": 57,
+      "starred": false,
+      "pinyin": "wài gōng",
+      "meaning": "(coll.) mother's father; maternal grandfather",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "询问",
+      "page": 57,
+      "starred": false,
+      "pinyin": "xún wèn",
+      "meaning": "to inquire; to ask about",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "天真",
+      "page": 57,
+      "starred": false,
+      "pinyin": "tiān zhēn",
+      "meaning": "naive; innocent; artless",
+      "level": 6
+    },
+    {
+      "number": 16,
+      "text": "杀",
+      "page": 57,
+      "starred": false,
+      "pinyin": "shā",
+      "meaning": "to kill; to slay; to murder; to attack; to weaken; to reduce; (dialect) to smart",
+      "level": 6
+    },
+    {
+      "number": 17,
+      "text": "替",
+      "display": "（代）替",
+      "page": 57,
+      "starred": false,
+      "pinyin": "tì",
+      "meaning": "to substitute for; to take the place of; to replace",
+      "level": 5
+    },
+    {
+      "number": 18,
+      "text": "除",
+      "page": 57,
+      "starred": false,
+      "pinyin": "chú",
+      "meaning": "to get rid of; to remove; to exclude",
+      "level": 6
+    },
+    {
+      "number": 19,
+      "text": "制造",
+      "page": 57,
+      "starred": false,
+      "pinyin": "zhì zào",
+      "meaning": "to manufacture; to make",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "灾害",
+      "page": 57,
+      "starred": false,
+      "pinyin": "zāi hài",
+      "meaning": "calamity; disaster",
+      "level": 6
+    },
+    {
+      "number": 21,
+      "text": "逃",
+      "page": 57,
+      "starred": false,
+      "pinyin": "táo",
+      "meaning": "to escape; to run away; to flee",
+      "level": 6
+    },
+    {
+      "number": 22,
+      "text": "影子",
+      "page": 57,
+      "starred": false,
+      "pinyin": "yǐng zi",
+      "meaning": "shadow; reflection; (fig.) hint",
+      "level": 6
+    },
+    {
+      "number": 23,
+      "text": "此外",
+      "page": 57,
+      "starred": false,
+      "pinyin": "cǐ wài",
+      "meaning": "besides; in addition; moreover; furthermore",
+      "level": 4
+    },
+    {
+      "number": 24,
+      "text": "说不定",
+      "page": 57,
+      "starred": false,
+      "pinyin": "shuō bù dìng",
+      "meaning": "can't say for sure; maybe",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "熬夜",
+      "page": 57,
+      "starred": false,
+      "pinyin": "áo yè",
+      "meaning": "to stay up late or all night",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "赶紧",
+      "page": 57,
+      "starred": false,
+      "pinyin": "gǎn jǐn",
+      "meaning": "hurriedly; without delay",
+      "level": 4
+    },
+    {
+      "number": 27,
+      "text": "果然",
+      "page": 57,
+      "starred": false,
+      "pinyin": "guǒ rán",
+      "meaning": "really; sure enough; as expected",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "姑娘",
+      "page": 57,
+      "starred": false,
+      "pinyin": "gū niáng",
+      "meaning": "girl; young woman; young lady",
+      "level": 4
+    },
+    {
+      "number": 29,
+      "text": "锅",
+      "page": 57,
+      "starred": false,
+      "pinyin": "guō",
+      "meaning": "pot; pan; wok; cauldron; pot-shaped thing",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "盆",
+      "display": "盆（子）",
+      "page": 57,
+      "starred": false,
+      "pinyin": "pén",
+      "meaning": "basin; flower pot; unit of volume equal to 12 斗[dou3] and 8 升[sheng1], approx 128 liters",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "整个",
+      "page": 57,
+      "starred": false,
+      "pinyin": "zhěng gè",
+      "meaning": "whole; entire; total",
+      "level": 4
+    },
+    {
+      "number": 32,
+      "text": "吓",
+      "page": 57,
+      "starred": false,
+      "pinyin": "xià",
+      "meaning": "to scare; to intimidate; to threaten",
+      "level": 6
+    },
+    {
+      "number": 33,
+      "text": "似的",
+      "page": 57,
+      "starred": false,
+      "pinyin": "shì de",
+      "meaning": "seems as if; rather like; Taiwan pr. [si4 de5]",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "追",
+      "page": 57,
+      "starred": false,
+      "meaning": "to chase; to go after",
+      "pinyin": "zhuī",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "箭",
+      "page": 57,
+      "starred": false,
+      "pinyin": "jiàn",
+      "meaning": "arrow",
+      "level": 6
+    },
+    {
+      "number": 36,
+      "text": "射",
+      "display": "射（击）",
+      "page": 57,
+      "starred": false,
+      "pinyin": "shè",
+      "meaning": "to shoot; to launch; to allude to",
+      "level": 6
+    },
+    {
+      "number": 37,
+      "text": "纷纷",
+      "page": 58,
+      "starred": false,
+      "pinyin": "fēn fēn",
+      "meaning": "one after another; in succession; one by one",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "表达",
+      "page": 58,
+      "starred": false,
+      "pinyin": "biǎo dá",
+      "meaning": "to express; to convey",
+      "level": 5
+    },
+    {
+      "number": 39,
+      "text": "意义",
+      "page": 58,
+      "starred": false,
+      "pinyin": "yì yì",
+      "meaning": "sense; meaning; significance",
+      "level": 5
+    },
+    {
+      "number": 40,
+      "text": "鞭炮",
+      "page": 58,
+      "starred": false,
+      "pinyin": "biān pào",
+      "meaning": "firecrackers; string of small firecrackers",
+      "level": 7
+    },
+    {
+      "number": 41,
+      "text": "风俗",
+      "page": 58,
+      "starred": false,
+      "pinyin": "fēng sú",
+      "meaning": "social custom",
+      "level": 5
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "/media/covers/01.jpg": {
+    "src": "/media/covers/01-a23afeec92.webp",
+    "width": 393,
+    "height": 249,
+    "srcSet": "/media/covers/01-4a6f47fcf8.webp 320w, /media/covers/01-a23afeec92.webp 393w"
+  },
+  "/media/covers/02.jpg": {
+    "src": "/media/covers/02-e8794e461e.webp",
+    "width": 455,
+    "height": 236,
+    "srcSet": "/media/covers/02-4faec960cf.webp 320w, /media/covers/02-e8794e461e.webp 455w"
+  },
+  "/media/covers/03.jpg": {
+    "src": "/media/covers/03-897bcf5693.webp",
+    "width": 208,
+    "height": 180,
+    "srcSet": "/media/covers/03-897bcf5693.webp 208w"
+  },
+  "/media/covers/04.jpg": {
+    "src": "/media/covers/04-224821beb7.webp",
+    "width": 332,
+    "height": 356,
+    "srcSet": "/media/covers/04-9224e4395b.webp 320w, /media/covers/04-224821beb7.webp 332w"
+  },
+  "/media/covers/05.jpg": {
+    "src": "/media/covers/05-fbc723dc38.webp",
+    "width": 459,
+    "height": 240,
+    "srcSet": "/media/covers/05-fdcd1e2380.webp 320w, /media/covers/05-fbc723dc38.webp 459w"
+  },
+  "/media/covers/06.jpg": {
+    "src": "/media/covers/06-803812d241.webp",
+    "width": 177,
+    "height": 258,
+    "srcSet": "/media/covers/06-803812d241.webp 177w"
+  },
+  "/media/covers/07.jpg": {
+    "src": "/media/covers/07-3bc3784959.webp",
+    "width": 477,
+    "height": 652,
+    "srcSet": "/media/covers/07-c5d1881e7f.webp 320w, /media/covers/07-3bc3784959.webp 477w"
+  },
+  "/media/covers/08.jpg": {
+    "src": "/media/covers/08-7b6897919c.webp",
+    "width": 218,
+    "height": 315,
+    "srcSet": "/media/covers/08-7b6897919c.webp 218w"
+  },
+  "/media/covers/09.jpg": {
+    "src": "/media/covers/09-dcda0be9e7.webp",
+    "width": 437,
+    "height": 228,
+    "srcSet": "/media/covers/09-eb2454418a.webp 320w, /media/covers/09-dcda0be9e7.webp 437w"
+  },
+  "/media/covers/10.jpg": {
+    "src": "/media/covers/10-6aa29bcd01.webp",
+    "width": 209,
+    "height": 237,
+    "srcSet": "/media/covers/10-6aa29bcd01.webp 209w"
+  },
+  "/media/covers/11.jpg": {
+    "src": "/media/covers/11-1caed4ce4f.webp",
+    "width": 342,
+    "height": 377,
+    "srcSet": "/media/covers/11-72a39063b2.webp 320w, /media/covers/11-1caed4ce4f.webp 342w"
+  },
+  "/media/covers/12.jpg": {
+    "src": "/media/covers/12-5f3e0a32d9.webp",
+    "width": 879,
+    "height": 621,
+    "srcSet": "/media/covers/12-ecd7975ce6.webp 320w, /media/covers/12-5f3e0a32d9.webp 879w"
+  },
+  "/media/covers/13.jpg": {
+    "src": "/media/covers/13-a3ad5947da.webp",
+    "width": 237,
+    "height": 244,
+    "srcSet": "/media/covers/13-a3ad5947da.webp 237w"
+  },
+  "/media/covers/14.jpg": {
+    "src": "/media/covers/14-050b7f0224.webp",
+    "width": 482,
+    "height": 652,
+    "srcSet": "/media/covers/14-d853e92e06.webp 320w, /media/covers/14-050b7f0224.webp 482w"
+  },
+  "/media/covers/15.jpg": {
+    "src": "/media/covers/15-b7bfcd7e66.webp",
+    "width": 251,
+    "height": 311,
+    "srcSet": "/media/covers/15-b7bfcd7e66.webp 251w"
+  },
+  "/media/covers/16.jpg": {
+    "src": "/media/covers/16-7b43f175bf.webp",
+    "width": 207,
+    "height": 314,
+    "srcSet": "/media/covers/16-7b43f175bf.webp 207w"
+  },
+  "/media/covers/17.jpg": {
+    "src": "/media/covers/17-011afa4f21.webp",
+    "width": 482,
+    "height": 566,
+    "srcSet": "/media/covers/17-f080e0af89.webp 320w, /media/covers/17-011afa4f21.webp 482w"
+  },
+  "/media/covers/18.jpg": {
+    "src": "/media/covers/18-87a0f02159.webp",
+    "width": 440,
+    "height": 287,
+    "srcSet": "/media/covers/18-309ee1ff44.webp 320w, /media/covers/18-87a0f02159.webp 440w"
+  },
+  "/media/covers/19.jpg": {
+    "src": "/media/covers/19-69cffe0f60.webp",
+    "width": 393,
+    "height": 183,
+    "srcSet": "/media/covers/19-c4cc6ce5c3.webp 320w, /media/covers/19-69cffe0f60.webp 393w"
+  },
+  "/media/covers/20.jpg": {
+    "src": "/media/covers/20-7d2b5128ff.webp",
+    "width": 960,
+    "height": 1358,
+    "srcSet": "/media/covers/20-cba5211a53.webp 320w, /media/covers/20-7d2b5128ff.webp 960w"
+  },
+  "/media/covers/21.jpg": {
+    "src": "/media/covers/21-93ed1b3256.webp",
+    "width": 268,
+    "height": 225,
+    "srcSet": "/media/covers/21-93ed1b3256.webp 268w"
+  },
+  "/media/covers/22.jpg": {
+    "src": "/media/covers/22-256df38736.webp",
+    "width": 412,
+    "height": 179,
+    "srcSet": "/media/covers/22-8178fe7ec5.webp 320w, /media/covers/22-256df38736.webp 412w"
+  },
+  "/media/covers/23.jpg": {
+    "src": "/media/covers/23-fd66739493.webp",
+    "width": 423,
+    "height": 259,
+    "srcSet": "/media/covers/23-ac36bb95f1.webp 320w, /media/covers/23-fd66739493.webp 423w"
+  },
+  "/media/covers/24.jpg": {
+    "src": "/media/covers/24-23b8cd887c.webp",
+    "width": 472,
+    "height": 557,
+    "srcSet": "/media/covers/24-019a410c05.webp 320w, /media/covers/24-23b8cd887c.webp 472w"
+  },
+  "/media/covers/25.jpg": {
+    "src": "/media/covers/25-ff783807bf.webp",
+    "width": 284,
+    "height": 206,
+    "srcSet": "/media/covers/25-ff783807bf.webp 284w"
+  },
+  "/media/covers/26.jpg": {
+    "src": "/media/covers/26-fee42842f9.webp",
+    "width": 235,
+    "height": 283,
+    "srcSet": "/media/covers/26-fee42842f9.webp 235w"
+  },
+  "/media/covers/27.jpg": {
+    "src": "/media/covers/27-0d4fcb33da.webp",
+    "width": 404,
+    "height": 186,
+    "srcSet": "/media/covers/27-89a15479a2.webp 320w, /media/covers/27-0d4fcb33da.webp 404w"
+  },
+  "/media/covers/28.jpg": {
+    "src": "/media/covers/28-35ecbf0a3b.webp",
+    "width": 960,
+    "height": 1359,
+    "srcSet": "/media/covers/28-4a852d51c7.webp 320w, /media/covers/28-35ecbf0a3b.webp 960w"
+  },
+  "/media/covers/29.jpg": {
+    "src": "/media/covers/29-f71ccb4022.webp",
+    "width": 260,
+    "height": 249,
+    "srcSet": "/media/covers/29-f71ccb4022.webp 260w"
+  },
+  "/media/covers/30.jpg": {
+    "src": "/media/covers/30-24f728fb98.webp",
+    "width": 949,
+    "height": 443,
+    "srcSet": "/media/covers/30-3debc71345.webp 320w, /media/covers/30-24f728fb98.webp 949w"
+  },
+  "/media/covers/31.jpg": {
+    "src": "/media/covers/31-054fa7b343.webp",
+    "width": 482,
+    "height": 570,
+    "srcSet": "/media/covers/31-bd874dace1.webp 320w, /media/covers/31-054fa7b343.webp 482w"
+  },
+  "/media/covers/32.jpg": {
+    "src": "/media/covers/32-585ae09909.webp",
+    "width": 482,
+    "height": 342,
+    "srcSet": "/media/covers/32-bdb6fe6849.webp 320w, /media/covers/32-585ae09909.webp 482w"
+  },
+  "/media/covers/33.jpg": {
+    "src": "/media/covers/33-de211e5839.webp",
+    "width": 426,
+    "height": 242,
+    "srcSet": "/media/covers/33-a14835d430.webp 320w, /media/covers/33-de211e5839.webp 426w"
+  },
+  "/media/covers/34.jpg": {
+    "src": "/media/covers/34-a34a771eba.webp",
+    "width": 376,
+    "height": 167,
+    "srcSet": "/media/covers/34-f61b066436.webp 320w, /media/covers/34-a34a771eba.webp 376w"
+  },
+  "/media/covers/35.jpg": {
+    "src": "/media/covers/35-4f17aa9615.webp",
+    "width": 482,
+    "height": 523,
+    "srcSet": "/media/covers/35-a105d89642.webp 320w, /media/covers/35-4f17aa9615.webp 482w"
+  },
+  "/media/covers/36.jpg": {
+    "src": "/media/covers/36-ea2333d81d.webp",
+    "width": 960,
+    "height": 1356,
+    "srcSet": "/media/covers/36-9734e64b85.webp 320w, /media/covers/36-ea2333d81d.webp 960w"
+  }
+}

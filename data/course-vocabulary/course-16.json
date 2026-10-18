@@ -1,0 +1,379 @@
+{
+  "id": "course-16",
+  "sourcePages": [
+    144,
+    145,
+    146
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "节食",
+      "page": 144,
+      "starred": false,
+      "pinyin": "jié shí",
+      "meaning": "to save food; to go on a diet",
+      "level": null
+    },
+    {
+      "number": 2,
+      "text": "报道",
+      "page": 144,
+      "starred": false,
+      "pinyin": "bào dào",
+      "meaning": "to report (news); report",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "营养",
+      "page": 144,
+      "starred": false,
+      "pinyin": "yíng yǎng",
+      "meaning": "nutrition; nourishment",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "摄入",
+      "page": 144,
+      "starred": true,
+      "pinyin": "shè rù",
+      "meaning": "to take in; to absorb; to consume",
+      "level": null
+    },
+    {
+      "number": 5,
+      "text": "模式",
+      "page": 144,
+      "starred": true,
+      "pinyin": "mó shì",
+      "meaning": "mode; pattern; model",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "波动",
+      "page": 144,
+      "starred": true,
+      "pinyin": "bō dòng",
+      "meaning": "to undulate; to fluctuate; wave motion",
+      "level": 7
+    },
+    {
+      "number": 7,
+      "text": "总共",
+      "page": 144,
+      "starred": false,
+      "pinyin": "zǒng gòng",
+      "meaning": "altogether; in sum; in all; in total",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "参与",
+      "page": 144,
+      "starred": false,
+      "pinyin": "shēn yǔ",
+      "meaning": "to participate (in sth)",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "人员",
+      "page": 144,
+      "starred": false,
+      "pinyin": "rén yuán",
+      "meaning": "staff; crew; personnel",
+      "level": 4
+    },
+    {
+      "number": 10,
+      "text": "相对",
+      "page": 144,
+      "starred": false,
+      "pinyin": "xiāng duì",
+      "meaning": "relatively; opposite; to resist",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "类型",
+      "page": 144,
+      "starred": false,
+      "pinyin": "lèi xíng",
+      "meaning": "type; kind; category; (computer programming) type",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "称",
+      "page": 145,
+      "starred": false,
+      "meaning": "to weigh",
+      "pinyin": "chēng",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "可靠",
+      "page": 145,
+      "starred": false,
+      "pinyin": "kě kào",
+      "meaning": "reliable",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "纳入",
+      "page": 145,
+      "starred": false,
+      "pinyin": "nà rù",
+      "meaning": "to bring into; to channel into; to integrate into",
+      "level": 7
+    },
+    {
+      "number": 15,
+      "text": "分析",
+      "page": 145,
+      "starred": false,
+      "pinyin": "fēn xī",
+      "meaning": "to analyze; analysis",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "志愿者",
+      "page": 145,
+      "starred": false,
+      "pinyin": "zhì yuàn zhě",
+      "meaning": "volunteer",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "跟踪",
+      "page": 145,
+      "starred": false,
+      "pinyin": "gēn zōng",
+      "meaning": "to follow sb's tracks; to tail; to shadow",
+      "level": 6
+    },
+    {
+      "number": 18,
+      "text": "成果",
+      "page": 145,
+      "starred": false,
+      "pinyin": "chéng guǒ",
+      "meaning": "result; achievement; gain",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "清晰",
+      "page": 145,
+      "starred": false,
+      "pinyin": "qīng xī",
+      "meaning": "clear; distinct",
+      "level": 6
+    },
+    {
+      "number": 20,
+      "text": "即",
+      "page": 145,
+      "starred": false,
+      "pinyin": "jí",
+      "meaning": "namely; that is; i.e.",
+      "level": 7
+    },
+    {
+      "number": 21,
+      "text": "升",
+      "page": 145,
+      "starred": false,
+      "pinyin": "shēng",
+      "meaning": "to ascend; to rise; to promote; to elevate; liter",
+      "level": 5
+    },
+    {
+      "number": 22,
+      "text": "达到",
+      "page": 145,
+      "starred": false,
+      "pinyin": "dá dào",
+      "meaning": "to reach; to achieve; to attain",
+      "level": 4
+    },
+    {
+      "number": 23,
+      "text": "意外",
+      "page": 145,
+      "starred": false,
+      "pinyin": "yì wài",
+      "meaning": "unexpected; accident; mishap",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "存在",
+      "page": 145,
+      "starred": false,
+      "pinyin": "cún zài",
+      "meaning": "to exist; to be; existence",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "明显",
+      "page": 145,
+      "starred": false,
+      "pinyin": "míng xiǎn",
+      "meaning": "clear; distinct; obvious",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "补偿",
+      "page": 145,
+      "starred": false,
+      "pinyin": "bǔ cháng",
+      "meaning": "to compensate; to make up",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "立即",
+      "page": 145,
+      "starred": false,
+      "pinyin": "lì jí",
+      "meaning": "immediately",
+      "level": 5
+    },
+    {
+      "number": 28,
+      "text": "趋势",
+      "page": 145,
+      "starred": false,
+      "pinyin": "qū shì",
+      "meaning": "trend; tendency",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "差异",
+      "page": 145,
+      "starred": false,
+      "pinyin": "chā yì",
+      "meaning": "difference; discrepancy",
+      "level": 6
+    },
+    {
+      "number": 30,
+      "text": "联合",
+      "page": 145,
+      "starred": false,
+      "pinyin": "lián hé",
+      "meaning": "to combine; to join; unite",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "个别",
+      "page": 145,
+      "starred": false,
+      "pinyin": "gè bié",
+      "meaning": "individually; one by one; just one or two; exceptional; rare",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "表明",
+      "page": 145,
+      "starred": false,
+      "pinyin": "biǎo míng",
+      "meaning": "to make clear; to make known; to state clearly",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "临时",
+      "page": 145,
+      "starred": false,
+      "pinyin": "lín shí",
+      "meaning": "as the time draws near; at the last moment; temporary",
+      "level": 5
+    },
+    {
+      "number": 34,
+      "text": "现象",
+      "page": 146,
+      "starred": false,
+      "pinyin": "xiàn xiàng",
+      "meaning": "phenomenon; appearance",
+      "level": 5
+    },
+    {
+      "number": 35,
+      "text": "非",
+      "page": 146,
+      "starred": false,
+      "meaning": "not; to not be",
+      "pinyin": "fēi",
+      "level": 7
+    },
+    {
+      "number": 36,
+      "text": "就餐",
+      "page": 146,
+      "starred": false,
+      "pinyin": "jiù cān",
+      "meaning": "to dine; to have one's meal",
+      "level": 7
+    },
+    {
+      "number": 37,
+      "text": "放纵",
+      "page": 146,
+      "starred": false,
+      "pinyin": "fàng zòng",
+      "meaning": "to indulge; to pamper; to connive at",
+      "level": 7
+    },
+    {
+      "number": 38,
+      "text": "苗条",
+      "page": 146,
+      "starred": false,
+      "pinyin": "miáo tiáo",
+      "meaning": "(of a woman) slim; slender; graceful",
+      "level": 7
+    },
+    {
+      "number": 39,
+      "text": "借口",
+      "page": 146,
+      "starred": false,
+      "pinyin": "jiè kǒu",
+      "meaning": "to use as an excuse; excuse; pretext",
+      "level": 7
+    },
+    {
+      "number": 40,
+      "text": "采取",
+      "page": 146,
+      "starred": false,
+      "pinyin": "cǎi qǔ",
+      "meaning": "to adopt or carry out (measures, policies, course of action); to take",
+      "level": 5
+    },
+    {
+      "number": 41,
+      "text": "措施",
+      "page": 146,
+      "starred": false,
+      "pinyin": "cuò shī",
+      "meaning": "measure; step",
+      "level": 5
+    }
+  ]
+}

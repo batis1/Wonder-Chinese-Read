@@ -1,0 +1,381 @@
+{
+  "id": "course-21",
+  "sourcePages": [
+    31,
+    32,
+    33
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "情缘",
+      "page": 31,
+      "starred": false,
+      "pinyin": "qíng yuán",
+      "meaning": "predestined love; love affinity",
+      "level": null
+    },
+    {
+      "number": 2,
+      "text": "逻辑",
+      "page": 31,
+      "starred": false,
+      "pinyin": "luó jí",
+      "meaning": "(loanword) logic",
+      "level": 5
+    },
+    {
+      "number": 3,
+      "text": "硬",
+      "page": 31,
+      "starred": false,
+      "meaning": "rigidly; mechanically",
+      "pinyin": "yìng",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "偶然",
+      "page": 31,
+      "starred": false,
+      "pinyin": "ǒu rán",
+      "meaning": "incidentally; occasional; occasionally",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "演变",
+      "page": 31,
+      "starred": false,
+      "pinyin": "yǎn biàn",
+      "meaning": "to develop; to evolve",
+      "level": 7
+    },
+    {
+      "number": 6,
+      "text": "遗憾",
+      "page": 32,
+      "starred": false,
+      "pinyin": "yí hàn",
+      "meaning": "regret; to regret; to be sorry that",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "心脏",
+      "page": 32,
+      "starred": false,
+      "pinyin": "xīn zàng",
+      "meaning": "heart",
+      "level": 6
+    },
+    {
+      "number": 8,
+      "text": "思考",
+      "page": 32,
+      "starred": false,
+      "pinyin": "sī kǎo",
+      "meaning": "to reflect on; to ponder over",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "抓紧",
+      "page": 32,
+      "starred": false,
+      "pinyin": "zhuā jǐn",
+      "meaning": "to keep a firm grip on; to pay close attention to; to lose no time in (doing sth)",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "尽快",
+      "page": 32,
+      "starred": false,
+      "pinyin": "jǐn kuài",
+      "meaning": "as quickly as possible; as soon as possible",
+      "level": 5
+    },
+    {
+      "number": 11,
+      "text": "经典",
+      "page": 32,
+      "starred": false,
+      "pinyin": "jīng diǎn",
+      "meaning": "the classics; scriptures; classical",
+      "level": 5
+    },
+    {
+      "number": 12,
+      "text": "库",
+      "page": 32,
+      "starred": false,
+      "pinyin": "kù",
+      "meaning": "warehouse; storehouse; (file) library",
+      "level": 5
+    },
+    {
+      "number": 13,
+      "text": "输入",
+      "page": 32,
+      "starred": false,
+      "pinyin": "shū rù",
+      "meaning": "to import; to input",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "元旦",
+      "page": 32,
+      "starred": false,
+      "pinyin": "yuán dàn",
+      "meaning": "New Year's Day",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "疾病",
+      "page": 32,
+      "starred": false,
+      "pinyin": "jí bìng",
+      "meaning": "disease; sickness; ailment",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "创办",
+      "page": 32,
+      "starred": false,
+      "pinyin": "chuàng bàn",
+      "meaning": "to establish; to found",
+      "level": 6
+    },
+    {
+      "number": 17,
+      "text": "公开",
+      "page": 32,
+      "starred": false,
+      "pinyin": "gōng kāi",
+      "meaning": "open; overt; public; to make public; to release",
+      "level": 6
+    },
+    {
+      "number": 18,
+      "text": "最初",
+      "page": 32,
+      "starred": false,
+      "pinyin": "zuì chū",
+      "meaning": "first; primary; initial",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "痛苦",
+      "page": 32,
+      "starred": false,
+      "pinyin": "tòng kǔ",
+      "meaning": "pain; suffering; painful",
+      "level": 5
+    },
+    {
+      "number": 20,
+      "text": "微博",
+      "page": 32,
+      "starred": true,
+      "pinyin": "wēi bó",
+      "meaning": "Weibo (Chinese social media platform); microblogging; microblog",
+      "level": null
+    },
+    {
+      "number": 21,
+      "text": "称呼",
+      "page": 32,
+      "starred": false,
+      "pinyin": "chēng hū",
+      "meaning": "to call; to address as; form of address; appellation",
+      "level": 6
+    },
+    {
+      "number": 22,
+      "text": "克服",
+      "page": 32,
+      "starred": false,
+      "pinyin": "kè fú",
+      "meaning": "(try to) overcome (hardships etc); to conquer; to put up with",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "收集",
+      "page": 32,
+      "starred": false,
+      "pinyin": "shōu jí",
+      "meaning": "to gather; to collect",
+      "level": 5
+    },
+    {
+      "number": 24,
+      "text": "包含",
+      "page": 32,
+      "starred": false,
+      "pinyin": "bāo hán",
+      "meaning": "to contain; to embody; to include",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "繁体",
+      "display": "繁体（字）",
+      "page": 32,
+      "starred": false,
+      "pinyin": "fán tǐ",
+      "meaning": "traditional form of Chinese, as opposed to simplified form 簡體|简体[jian3 ti3]",
+      "level": null
+    },
+    {
+      "number": 26,
+      "text": "简体",
+      "display": "简体（字）",
+      "page": 32,
+      "starred": false,
+      "pinyin": "jiǎn tǐ",
+      "meaning": "simplified form of Chinese characters, as opposed to traditional form 繁體|繁体[fan2 ti3]",
+      "level": null
+    },
+    {
+      "number": 27,
+      "text": "方言",
+      "page": 32,
+      "starred": false,
+      "pinyin": "fāng yán",
+      "meaning": "the first Chinese dialect dictionary, edited by Yang Xiong 揚雄|扬雄[Yang2 Xiong2] in 1st century, containing over 9000 characters; topolect; dialect",
+      "level": 6
+    },
+    {
+      "number": 28,
+      "text": "称赞",
+      "page": 32,
+      "starred": false,
+      "pinyin": "chēng zàn",
+      "meaning": "to praise; to commend; to compliment",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "真相",
+      "page": 32,
+      "starred": false,
+      "pinyin": "zhēn xiàng",
+      "meaning": "the truth about sth; the actual facts",
+      "level": 6
+    },
+    {
+      "number": 30,
+      "text": "佩服",
+      "page": 33,
+      "starred": false,
+      "pinyin": "pèi fú",
+      "meaning": "to admire",
+      "level": 6
+    },
+    {
+      "number": 31,
+      "text": "开放",
+      "page": 33,
+      "starred": false,
+      "pinyin": "kāi fàng",
+      "meaning": "to bloom; to open; to be open (to the public)",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "下载",
+      "page": 33,
+      "starred": false,
+      "pinyin": "xià zài",
+      "meaning": "to download; also pr. [xia4zai4]",
+      "level": 5
+    },
+    {
+      "number": 33,
+      "text": "单位",
+      "page": 33,
+      "starred": false,
+      "pinyin": "dān wèi",
+      "meaning": "unit (of measure); unit (group of people as a whole); work unit (place of employment, esp. in the PRC prior to economic reform)",
+      "level": 4
+    },
+    {
+      "number": 34,
+      "text": "识别",
+      "page": 33,
+      "starred": true,
+      "pinyin": "shí bié",
+      "meaning": "to distinguish; to discern; to identify; to recognize",
+      "level": 6
+    },
+    {
+      "number": 35,
+      "text": "查询",
+      "page": 33,
+      "starred": false,
+      "pinyin": "chá xún",
+      "meaning": "to check; to inquire; to consult (a document etc)",
+      "level": 6
+    },
+    {
+      "number": 36,
+      "text": "物理",
+      "page": 33,
+      "starred": false,
+      "pinyin": "wù lǐ",
+      "meaning": "physics; physical; relating to the material world",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "完善",
+      "page": 33,
+      "starred": false,
+      "pinyin": "wán shàn",
+      "meaning": "(of systems, facilities etc) comprehensive; well-developed; excellent",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "退休",
+      "page": 33,
+      "starred": false,
+      "pinyin": "tuì xiū",
+      "meaning": "to retire (from the workforce); to go into retirement",
+      "level": 5
+    },
+    {
+      "number": 39,
+      "text": "日程",
+      "page": 33,
+      "starred": false,
+      "pinyin": "rì chéng",
+      "meaning": "schedule; itinerary",
+      "level": 7
+    },
+    {
+      "number": 40,
+      "text": "追求",
+      "page": 33,
+      "starred": false,
+      "pinyin": "zhuī qiú",
+      "meaning": "to pursue (a goal etc) stubbornly; to seek after; to woo",
+      "level": 5
+    },
+    {
+      "number": 41,
+      "text": "梦想",
+      "page": 33,
+      "starred": false,
+      "pinyin": "mèng xiǎng",
+      "meaning": "(fig.) to dream of; dream",
+      "level": 4
+    }
+  ]
+}

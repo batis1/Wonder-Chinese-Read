@@ -1,0 +1,355 @@
+{
+  "id": "course-33",
+  "sourcePages": [
+    130,
+    131,
+    132
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "缓解",
+      "page": 130,
+      "starred": false,
+      "pinyin": "huǎn jiě",
+      "meaning": "to bring relief; to alleviate (a crisis); to dull (a pain)",
+      "level": 5
+    },
+    {
+      "number": 2,
+      "text": "招",
+      "display": "招（儿）",
+      "page": 130,
+      "starred": true,
+      "pinyin": "zhāo",
+      "meaning": "to recruit; to provoke; to beckon",
+      "level": 6
+    },
+    {
+      "number": 3,
+      "text": "繁荣",
+      "page": 130,
+      "starred": false,
+      "pinyin": "fán róng",
+      "meaning": "prosperous; booming",
+      "level": 5
+    },
+    {
+      "number": 4,
+      "text": "体现",
+      "page": 130,
+      "starred": false,
+      "pinyin": "tǐ xiàn",
+      "meaning": "to embody; to reflect; to incarnate",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "拥挤",
+      "page": 130,
+      "starred": false,
+      "pinyin": "yōng jǐ",
+      "meaning": "crowded; to throng; congestion",
+      "level": 6
+    },
+    {
+      "number": 6,
+      "text": "家常",
+      "page": 130,
+      "starred": false,
+      "pinyin": "jiā cháng",
+      "meaning": "the daily life of a family",
+      "level": 6
+    },
+    {
+      "number": 7,
+      "text": "面积",
+      "page": 130,
+      "starred": false,
+      "pinyin": "miàn jī",
+      "meaning": "area (of a floor, piece of land etc); surface area; tract of land",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "宽",
+      "page": 131,
+      "starred": false,
+      "pinyin": "kuān",
+      "meaning": "wide; broad; loose",
+      "level": 5
+    },
+    {
+      "number": 9,
+      "text": "主观",
+      "page": 131,
+      "starred": false,
+      "pinyin": "zhǔ guān",
+      "meaning": "subjective",
+      "level": 5
+    },
+    {
+      "number": 10,
+      "text": "扩",
+      "display": "扩（大）",
+      "page": 131,
+      "starred": false,
+      "pinyin": "kuò",
+      "meaning": "to enlarge",
+      "level": 7
+    },
+    {
+      "number": 11,
+      "text": "根治",
+      "page": 131,
+      "starred": true,
+      "pinyin": "gēn zhì",
+      "meaning": "to bring under permanent control; to effect a radical cure",
+      "level": 7
+    },
+    {
+      "number": 12,
+      "text": "不妨",
+      "page": 131,
+      "starred": true,
+      "pinyin": "bù fáng",
+      "meaning": "there is no harm in; might as well",
+      "level": 7
+    },
+    {
+      "number": 13,
+      "text": "展开",
+      "page": 131,
+      "starred": false,
+      "pinyin": "zhǎn kāi",
+      "meaning": "to unfold; to spread out; to open up; to launch; to carry out",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "归纳",
+      "page": 131,
+      "starred": false,
+      "pinyin": "guī nà",
+      "meaning": "to sum up; to summarize; to conclude from facts",
+      "level": 7
+    },
+    {
+      "number": 15,
+      "text": "虚心",
+      "page": 131,
+      "starred": false,
+      "pinyin": "xū xīn",
+      "meaning": "open-minded; humble",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "咨询",
+      "page": 131,
+      "starred": false,
+      "pinyin": "zī xún",
+      "meaning": "to inquire; to consult; to seek advice from",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "中旬",
+      "page": 131,
+      "starred": false,
+      "pinyin": "zhōng xún",
+      "meaning": "middle third of a month",
+      "level": 6
+    },
+    {
+      "number": 18,
+      "text": "照常",
+      "page": 131,
+      "starred": false,
+      "pinyin": "zhào cháng",
+      "meaning": "as usual",
+      "level": 7
+    },
+    {
+      "number": 19,
+      "text": "健身",
+      "page": 131,
+      "starred": false,
+      "pinyin": "jiàn shēn",
+      "meaning": "to exercise; to keep fit; to work out",
+      "level": 4
+    },
+    {
+      "number": 20,
+      "text": "图",
+      "page": 131,
+      "starred": false,
+      "meaning": "to covet; to be after",
+      "pinyin": "tú",
+      "level": 4
+    },
+    {
+      "number": 21,
+      "text": "受",
+      "display": "受（伤）",
+      "page": 131,
+      "starred": false,
+      "pinyin": "shòu",
+      "meaning": "to receive; to accept; to suffer",
+      "level": 3
+    },
+    {
+      "number": 22,
+      "text": "保险",
+      "page": 131,
+      "starred": false,
+      "pinyin": "bǎo xiǎn",
+      "meaning": "insurance; to insure; safe",
+      "level": 5
+    },
+    {
+      "number": 23,
+      "text": "赔偿",
+      "page": 131,
+      "starred": false,
+      "pinyin": "péi cháng",
+      "meaning": "to compensate",
+      "level": 6
+    },
+    {
+      "number": 24,
+      "text": "政府",
+      "page": 131,
+      "starred": false,
+      "pinyin": "zhèng fǔ",
+      "meaning": "government",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "批准",
+      "page": 131,
+      "starred": false,
+      "pinyin": "pī zhǔn",
+      "meaning": "to approve; to ratify",
+      "level": 5
+    },
+    {
+      "number": 26,
+      "text": "改革",
+      "page": 131,
+      "starred": false,
+      "pinyin": "gǎi gé",
+      "meaning": "reform; to reform",
+      "level": 5
+    },
+    {
+      "number": 27,
+      "text": "取消",
+      "page": 131,
+      "starred": false,
+      "pinyin": "qǔ xiāo",
+      "meaning": "to cancel; to call off; to revoke; to rescind",
+      "level": 4
+    },
+    {
+      "number": 28,
+      "text": "行人",
+      "page": 131,
+      "starred": false,
+      "pinyin": "xíng rén",
+      "meaning": "pedestrian; traveler on foot; passer-by",
+      "level": 5
+    },
+    {
+      "number": 29,
+      "text": "广场",
+      "page": 131,
+      "starred": false,
+      "pinyin": "guǎng chǎng",
+      "meaning": "public square; plaza",
+      "level": 5
+    },
+    {
+      "number": 30,
+      "text": "商务",
+      "page": 131,
+      "starred": false,
+      "pinyin": "shāng wù",
+      "meaning": "commercial affairs; commercial; commerce",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "大厦",
+      "page": 131,
+      "starred": false,
+      "pinyin": "dà shà",
+      "meaning": "(used in the names of grand buildings such as 百老匯大廈|百老汇大厦 Broadway Mansions (in Shanghai) or 帝國大廈|帝国大厦 Empire State Building etc)",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "自愿",
+      "page": 132,
+      "starred": false,
+      "pinyin": "zì yuàn",
+      "meaning": "voluntary",
+      "level": 6
+    },
+    {
+      "number": 33,
+      "text": "难怪",
+      "page": 132,
+      "starred": false,
+      "pinyin": "nán guài",
+      "meaning": "(it's) no wonder (that...); (it's) not surprising (that)",
+      "level": 7
+    },
+    {
+      "number": 34,
+      "text": "与其",
+      "page": 132,
+      "starred": false,
+      "pinyin": "yǔ qí",
+      "meaning": "rather than... (used in expressions of the form 與其|与其[yu3 qi2] + {verb1} + 不如[bu4 ru2] + {verb2} \"rather than {verb1}, better to {verb2}\")",
+      "level": 6
+    },
+    {
+      "number": 35,
+      "text": "汽油",
+      "page": 132,
+      "starred": false,
+      "pinyin": "qì yóu",
+      "meaning": "gasoline",
+      "level": 5
+    },
+    {
+      "number": 36,
+      "text": "明确",
+      "page": 132,
+      "starred": false,
+      "pinyin": "míng què",
+      "meaning": "clear-cut; definite; explicit; to clarify; to specify; to make definite",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "期待",
+      "page": 132,
+      "starred": false,
+      "pinyin": "qī dài",
+      "meaning": "to look forward to; to await; expectation",
+      "level": 5
+    },
+    {
+      "number": 38,
+      "text": "解放",
+      "page": 132,
+      "starred": false,
+      "pinyin": "jiě fàng",
+      "meaning": "to liberate; to emancipate; liberation",
+      "level": 6
+    }
+  ]
+}

@@ -1,0 +1,406 @@
+{
+  "id": "course-19",
+  "sourcePages": [
+    15,
+    16,
+    17
+  ],
+  "words": [
+    {
+      "number": 1,
+      "text": "家乡",
+      "page": 15,
+      "starred": false,
+      "pinyin": "jiā xiāng",
+      "meaning": "hometown; native place",
+      "level": 4
+    },
+    {
+      "number": 2,
+      "text": "萝卜",
+      "page": 15,
+      "starred": true,
+      "pinyin": "luó bo",
+      "meaning": "radish (Raphanus sativus), esp. daikon",
+      "level": 7
+    },
+    {
+      "number": 3,
+      "text": "怀念",
+      "page": 15,
+      "starred": false,
+      "pinyin": "huái niàn",
+      "meaning": "to cherish the memory of; to think of; to reminisce",
+      "level": 6
+    },
+    {
+      "number": 4,
+      "text": "色彩",
+      "page": 15,
+      "starred": false,
+      "pinyin": "sè cǎi",
+      "meaning": "tint; coloring; coloration; (fig.) flavor; character",
+      "level": 5
+    },
+    {
+      "number": 5,
+      "text": "想念",
+      "page": 15,
+      "starred": false,
+      "pinyin": "xiǎng niàn",
+      "meaning": "to miss; to remember with longing; to long to see again",
+      "level": 5
+    },
+    {
+      "number": 6,
+      "text": "青",
+      "page": 15,
+      "starred": false,
+      "pinyin": "qīng",
+      "meaning": "short name for Qinghai 青海[Qing1 hai3]; green; blue",
+      "level": 5
+    },
+    {
+      "number": 7,
+      "text": "紫",
+      "page": 15,
+      "starred": false,
+      "pinyin": "zǐ",
+      "meaning": "purple; violet",
+      "level": 5
+    },
+    {
+      "number": 8,
+      "text": "赏心悦目",
+      "page": 15,
+      "starred": false,
+      "pinyin": "shǎng xīn yuè mù",
+      "meaning": "warms the heart and delights the eye (idiom); pleasing; delightful",
+      "level": null
+    },
+    {
+      "number": 9,
+      "text": "般",
+      "page": 16,
+      "starred": true,
+      "meaning": "like; as; similar to",
+      "pinyin": "bān",
+      "level": null
+    },
+    {
+      "number": 10,
+      "text": "清淡",
+      "page": 16,
+      "starred": false,
+      "pinyin": "qīng dàn",
+      "meaning": "light (of food, not greasy or strongly flavored); insipid; slack (sales)",
+      "level": 6
+    },
+    {
+      "number": 11,
+      "text": "可口",
+      "page": 16,
+      "starred": true,
+      "pinyin": "kě kǒu",
+      "meaning": "tasty; to taste good",
+      "level": 6
+    },
+    {
+      "number": 12,
+      "text": "夸",
+      "page": 16,
+      "starred": false,
+      "pinyin": "kuā",
+      "meaning": "used in transliteration; to boast; to exaggerate; to praise",
+      "level": 6
+    },
+    {
+      "number": 13,
+      "text": "橘子",
+      "page": 16,
+      "starred": false,
+      "pinyin": "jú zi",
+      "meaning": "mandarin orange; tangerine; (loosely) orange",
+      "level": 5
+    },
+    {
+      "number": 14,
+      "text": "梨",
+      "page": 16,
+      "starred": false,
+      "pinyin": "lí",
+      "meaning": "pear",
+      "level": 5
+    },
+    {
+      "number": 15,
+      "text": "炒",
+      "page": 16,
+      "starred": false,
+      "pinyin": "chǎo",
+      "meaning": "to sauté; to stir-fry; to speculate (in real estate etc); to scalp; to hype up",
+      "level": 5
+    },
+    {
+      "number": 16,
+      "text": "煮",
+      "page": 16,
+      "starred": false,
+      "pinyin": "zhǔ",
+      "meaning": "to cook; to boil",
+      "level": 5
+    },
+    {
+      "number": 17,
+      "text": "油炸",
+      "page": 16,
+      "starred": false,
+      "pinyin": "yóu zhá",
+      "meaning": "to deep fry",
+      "level": null
+    },
+    {
+      "number": 18,
+      "text": "切",
+      "page": 16,
+      "starred": false,
+      "pinyin": "qiē",
+      "meaning": "to cut; to chop; to slice",
+      "level": 5
+    },
+    {
+      "number": 19,
+      "text": "丝",
+      "page": 16,
+      "starred": false,
+      "pinyin": "sī",
+      "meaning": "silk; thread-like thing; (cuisine) shreds or julienne strips; classifier: a trace (of smoke etc), a tiny bit etc",
+      "level": 7
+    },
+    {
+      "number": 20,
+      "text": "搅拌",
+      "page": 16,
+      "starred": true,
+      "pinyin": "jiǎo bàn",
+      "meaning": "to stir; to agitate",
+      "level": 7
+    },
+    {
+      "number": 21,
+      "text": "均匀",
+      "page": 16,
+      "starred": false,
+      "pinyin": "jūn yún",
+      "meaning": "even; well-distributed; homogeneous",
+      "level": 6
+    },
+    {
+      "number": 22,
+      "text": "原料",
+      "page": 16,
+      "starred": false,
+      "pinyin": "yuán liào",
+      "meaning": "raw material",
+      "level": 6
+    },
+    {
+      "number": 23,
+      "text": "擀",
+      "page": 16,
+      "starred": true,
+      "pinyin": "gǎn",
+      "meaning": "to roll (dough etc)",
+      "level": null
+    },
+    {
+      "number": 24,
+      "text": "薄",
+      "page": 16,
+      "starred": false,
+      "pinyin": "báo",
+      "meaning": "thin; cold in manner; indifferent",
+      "level": 5
+    },
+    {
+      "number": 25,
+      "text": "折叠",
+      "page": 16,
+      "starred": true,
+      "pinyin": "zhé dié",
+      "meaning": "to fold; collapsible; folding (bicycle, antenna, bed etc)",
+      "level": 7
+    },
+    {
+      "number": 26,
+      "text": "透明",
+      "page": 16,
+      "starred": false,
+      "pinyin": "tòu míng",
+      "meaning": "transparent; (fig.) transparent; open to scrutiny",
+      "level": 6
+    },
+    {
+      "number": 27,
+      "text": "淋",
+      "page": 16,
+      "starred": true,
+      "pinyin": "lín",
+      "meaning": "to sprinkle; to drip; to pour",
+      "level": 6
+    },
+    {
+      "number": 28,
+      "text": "圈",
+      "page": 16,
+      "starred": false,
+      "pinyin": "quān",
+      "meaning": "circle; ring",
+      "level": 6
+    },
+    {
+      "number": 29,
+      "text": "烫",
+      "page": 16,
+      "starred": false,
+      "pinyin": "tàng",
+      "meaning": "to scald; to burn (by scalding); to blanch (cooking)",
+      "level": 6
+    },
+    {
+      "number": 30,
+      "text": "盖",
+      "page": 16,
+      "starred": false,
+      "pinyin": "gài",
+      "meaning": "lid; top; cover",
+      "level": 5
+    },
+    {
+      "number": 31,
+      "text": "预防",
+      "page": 16,
+      "starred": false,
+      "pinyin": "yù fáng",
+      "meaning": "to prevent; to take precautions against; to protect",
+      "level": 5
+    },
+    {
+      "number": 32,
+      "text": "糊",
+      "page": 16,
+      "starred": true,
+      "pinyin": "hú",
+      "meaning": "to be burnt",
+      "level": 7
+    },
+    {
+      "number": 33,
+      "text": "文火",
+      "page": 16,
+      "starred": true,
+      "pinyin": "wén huǒ",
+      "meaning": "small flame (when cooking, simmering etc)",
+      "level": null
+    },
+    {
+      "number": 34,
+      "text": "闻",
+      "page": 16,
+      "starred": false,
+      "meaning": "to smell",
+      "pinyin": "wén",
+      "level": 4
+    },
+    {
+      "number": 35,
+      "text": "趁",
+      "page": 16,
+      "starred": false,
+      "pinyin": "chèn",
+      "meaning": "to avail oneself of; to take advantage of",
+      "level": 6
+    },
+    {
+      "number": 36,
+      "text": "口味",
+      "page": 16,
+      "starred": false,
+      "pinyin": "kǒu wèi",
+      "meaning": "a person's preferences; tastes (in food); flavor",
+      "level": 5
+    },
+    {
+      "number": 37,
+      "text": "少许",
+      "page": 17,
+      "starred": true,
+      "pinyin": "shǎo xǔ",
+      "meaning": "a little; a few",
+      "level": null
+    },
+    {
+      "number": 38,
+      "text": "酱油",
+      "page": 17,
+      "starred": false,
+      "pinyin": "jiàng yóu",
+      "meaning": "soy sauce",
+      "level": 6
+    },
+    {
+      "number": 39,
+      "text": "醋",
+      "page": 17,
+      "starred": false,
+      "pinyin": "cù",
+      "meaning": "vinegar; jealousy (in love rivalry)",
+      "level": 6
+    },
+    {
+      "number": 40,
+      "text": "焦",
+      "page": 17,
+      "starred": false,
+      "pinyin": "jiāo",
+      "meaning": "burnt; scorched; charred",
+      "level": 7
+    },
+    {
+      "number": 41,
+      "text": "嫩",
+      "page": 17,
+      "starred": false,
+      "pinyin": "nèn",
+      "meaning": "young and tender; (of food) tender; lightly cooked; (of color) light",
+      "level": 7
+    },
+    {
+      "number": 42,
+      "text": "特色",
+      "page": 17,
+      "starred": false,
+      "pinyin": "tè sè",
+      "meaning": "a characteristic; a distinctive feature or quality",
+      "level": 5
+    },
+    {
+      "number": 43,
+      "text": "痰",
+      "page": 17,
+      "starred": true,
+      "pinyin": "tán",
+      "meaning": "phlegm; spittle",
+      "level": 7
+    },
+    {
+      "number": 44,
+      "text": "平安",
+      "page": 17,
+      "starred": false,
+      "pinyin": "píng ān",
+      "meaning": "safe and sound; well; without mishap",
+      "level": 5
+    }
+  ]
+}
