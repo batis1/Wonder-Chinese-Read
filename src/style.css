@@ -543,6 +543,10 @@ textarea::placeholder {
   background: var(--word-speaking);
   color: var(--word-speaking-text);
 }
+.audio-playing .word.selected:not(.speaking) {
+  background: transparent;
+  color: inherit;
+}
 .show-hsk .word:after {
   content: "";
   height: 2px;
@@ -1874,8 +1878,8 @@ textarea::placeholder {
   --word-hover: #385976;
   --word-hover-text: #e0e0e0;
   --selected-pinyin: var(--blue);
-  --word-speaking: #333;
-  --word-speaking-text: var(--text);
+  --word-speaking: #385976;
+  --word-speaking-text: #e0e0e0;
   --sentence-speaking: #1b1b1b;
   --grammar-mark: #ffffff08;
   --popover-paper: #4185b7;
@@ -1911,8 +1915,8 @@ textarea::placeholder {
     --word-hover: #385976;
     --word-hover-text: #e0e0e0;
     --selected-pinyin: var(--blue);
-    --word-speaking: #333;
-    --word-speaking-text: var(--text);
+    --word-speaking: #385976;
+    --word-speaking-text: #e0e0e0;
     --sentence-speaking: #1b1b1b;
     --grammar-mark: #ffffff08;
     --popover-paper: #4185b7;

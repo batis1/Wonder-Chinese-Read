@@ -20,6 +20,8 @@ export function useAudioTracking({
     let highlighted;
     let sentenceKey;
     let lastScroll = 0;
+    const passage = document.querySelector(".passage");
+    const events = ["timeupdate", "seeking", "seeked", "ratechange", "play", "playing", "pause", "ended"];
     const reducedMotion = matchMedia(
       "(prefers-reduced-motion: reduce)",
     ).matches;
@@ -27,6 +29,7 @@ export function useAudioTracking({
       clearTimeout(timer);
       cancelAnimationFrame(frame);
       const seconds = media.currentTime || 0;
+      passage?.classList.toggle("audio-playing", !media.paused && !media.ended);
       const token = findTimedToken(index, seconds);
       const element = token
         ? document.getElementById(`word-${token.key}`)
@@ -74,17 +77,18 @@ export function useAudioTracking({
         cancelAnimationFrame(frame);
       } else update();
     };
-    for (const event of ["timeupdate", "seeked", "ratechange", "playing"])
+    for (const event of events)
       media.addEventListener(event, update);
     document.addEventListener("visibilitychange", onVisibility);
     update();
     return () => {
       clearTimeout(timer);
       cancelAnimationFrame(frame);
-      for (const event of ["timeupdate", "seeked", "ratechange", "playing"])
+      for (const event of events)
         media.removeEventListener(event, update);
       document.removeEventListener("visibilitychange", onVisibility);
       highlighted?.classList.remove("speaking");
+      passage?.classList.remove("audio-playing");
     };
   }, [audio, index, playing, enabled, follow, blocked, onSentence, search]);
 }

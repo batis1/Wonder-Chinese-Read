@@ -399,6 +399,14 @@ function App() {
   }, [id, lesson?.alignmentStatus, lesson?.processing]);
   useEffect(() => {
     document.documentElement.dataset.theme = prefs.theme;
+    const scheme = matchMedia("(prefers-color-scheme: dark)");
+    const updateChrome = () => {
+      const dark = prefs.theme === "dark" || (prefs.theme === "system" && scheme.matches);
+      document.querySelector('meta[name="theme-color"]')?.setAttribute("content", dark ? "#000000" : "#ffffff");
+    };
+    updateChrome();
+    scheme.addEventListener("change", updateChrome);
+    return () => scheme.removeEventListener("change", updateChrome);
   }, [prefs.theme]);
   useEffect(() => {
     if (!toast) return;

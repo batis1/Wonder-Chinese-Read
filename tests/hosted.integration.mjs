@@ -15,6 +15,17 @@ test("hosted course reader serves every lesson, cached translation, and static r
   });
   const base = `http://127.0.0.1:${server.address().port}`;
   try {
+    const manifestResponse = await fetch(`${base}/manifest.webmanifest`);
+    assert.equal(manifestResponse.status, 200);
+    const manifest = await manifestResponse.json();
+    assert.equal(manifest.display, "standalone");
+    for (const icon of [...manifest.icons, { src: "/icons/apple-touch-icon.png", sizes: "180x180" }]) {
+      const response = await fetch(base + icon.src);
+      assert.equal(response.headers.get("content-type"), "image/png");
+      const png = Buffer.from(await response.arrayBuffer());
+      assert.equal(png.toString("ascii", 12, 16), "IHDR");
+      assert.equal(`${png.readUInt32BE(16)}x${png.readUInt32BE(20)}`, icon.sizes);
+    }
     const catalog = await (await fetch(`${base}/api/catalog`)).json();
     assert.equal(catalog.length, 36);
     assert.ok(catalog.every((lesson) => lesson.id.startsWith("course-")));
