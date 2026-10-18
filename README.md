@@ -4,6 +4,8 @@ A Chinese reader built around the supplied HSK Standard Course 5 上 and 下 mat
 
 ## Hosted release
 
+[Open Wonder Chinese Read](https://wonder-chinese-read.vercel.app) · [GitHub repository](https://github.com/batis1/Wonder-Chinese-Read)
+
 The Vercel edition contains all 36 prepared lessons, 699 cached sentence translations, textbook vocabulary, typed grammar notes, dictionary search and recorded audio. Notes, saved words, saved lessons, settings and progress stay in each visitor's browser. There are no shared editing endpoints or personal uploads in this release. Import, passage editing, recording replacement, new translation inference and automatic alignment remain available through the local server.
 
 Vercel uses `npm run build:vercel` and serves `dist/`. The API entry is `api/index.mjs`, backed by the read-only `server-hosted.mjs`. `scripts/prepare-vercel.mjs` copies only the course recordings to hashed static URLs, prepares covers and validates translation coverage. No Python models or database credentials are needed for this edition. Python processing does not run inside Vercel Functions.
