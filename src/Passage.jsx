@@ -78,9 +78,11 @@ export const PassageText = memo(function PassageText({
                     aria-label={`${token.text}, ${token.pinyin}, ${levelLabel(token.level)}${token.start != null ? ", play from " + timeLabel(token.start) : ""}`}
                   >
                     <ruby>
-                      {characters === "traditional"
-                        ? token.traditional
-                        : token.text}
+                      <span className="word-text">
+                        {characters === "traditional"
+                          ? token.traditional
+                          : token.text}
+                      </span>
                       <rt
                         className={
                           pinyin === "advanced" &&

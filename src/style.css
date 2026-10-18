@@ -10,6 +10,9 @@
   --muted: #8b9198;
   --vocab-text: #000;
   --line: #e0e3e5;
+  --toolbar-line: #f0f1f2;
+  --audio-line: #ccd1d5;
+  --cover-line: #eee;
   --blue: #3e99ed;
   --red: #df3142;
   --audio-red: #ff0033;
@@ -18,6 +21,19 @@
   --audio-track: #d5d5d5;
   --teal: #4fae9d;
   --selected: #eaf3fa;
+  --translation-text: var(--text);
+  --pinyin-text: #85898d;
+  --word-hover: #edf5fa;
+  --word-hover-text: var(--blue);
+  --selected-pinyin: var(--red);
+  --word-speaking: #bfe4db;
+  --word-speaking-text: #226a5e;
+  --sentence-speaking: #7fa8c011;
+  --grammar-mark: #d9eee859;
+  --audio-paper: var(--paper);
+  --audio-icon: #fff;
+  --popover-paper: var(--paper);
+  --popover-text: #60829b;
   --overlay: rgba(26, 30, 36, 0.48);
   color-scheme: light;
 }
@@ -313,7 +329,7 @@ textarea::placeholder {
   max-height: 285px;
   object-fit: cover;
   object-position: center;
-  border: 1px solid #eee;
+  border: 1px solid var(--cover-line);
   align-self: center;
 }
 .reading-shell {
@@ -354,7 +370,7 @@ textarea::placeholder {
 .translation-text {
   font-size: 15px;
   line-height: 1.6;
-  color: var(--text);
+  color: var(--translation-text);
   min-height: 26px;
 }
 .translation-text button {
@@ -385,14 +401,14 @@ textarea::placeholder {
   font-size: 19px;
 }
 .selected-pinyin {
-  color: var(--red);
+  color: var(--selected-pinyin);
   font-size: 12px;
 }
 .reader-toolbar {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-bottom: 1px solid #f0f1f2;
+  border-bottom: 1px solid var(--toolbar-line);
   gap: 8px;
   min-height: 52px;
   padding: 0 17px;
@@ -510,22 +526,22 @@ textarea::placeholder {
 .word rt {
   font-family: Arial, "Microsoft YaHei", sans-serif;
   font-size: 0.46em;
-  color: #85898d;
+  color: var(--pinyin-text);
   line-height: 1.2;
   font-weight: 400;
   letter-spacing: 0;
 }
 .word:hover {
-  background: #edf5fa;
-  color: var(--blue);
+  background: var(--word-hover);
+  color: var(--word-hover-text);
 }
 .word.selected {
-  color: var(--blue);
-  background: #edf5fa;
+  color: var(--word-hover-text);
+  background: var(--word-hover);
 }
 .word.speaking {
-  background: #bfe4db;
-  color: #226a5e;
+  background: var(--word-speaking);
+  color: var(--word-speaking-text);
 }
 .show-hsk .word:after {
   content: "";
@@ -561,13 +577,13 @@ textarea::placeholder {
   --level-color: #d9d9dd;
 }
 .show-grammar .grammar-word {
-  box-shadow: inset 0 -6px #d9eee859;
+  box-shadow: inset 0 -6px var(--grammar-mark);
 }
 .sentence {
   border-radius: 3px;
 }
 .sentence.speaking-sentence {
-  background: #7fa8c011;
+  background: var(--sentence-speaking);
   box-decoration-break: clone;
   -webkit-box-decoration-break: clone;
 }
@@ -654,8 +670,8 @@ textarea::placeholder {
   left: 0;
   right: 0;
   z-index: 15;
-  background: var(--paper);
-  border-top: 1px solid #ccd1d5;
+  background: var(--audio-paper);
+  border-top: 1px solid var(--audio-line);
   padding-bottom: env(safe-area-inset-bottom);
 }
 .audio-progress {
@@ -763,7 +779,7 @@ textarea::placeholder {
   height: 48px;
   border: 1.5px solid var(--audio-red);
   border-radius: 50%;
-  color: #fff;
+  color: var(--audio-icon);
   background: var(--audio-red);
 }
 .play-button svg {
@@ -772,7 +788,7 @@ textarea::placeholder {
 .play-button:hover {
   background: var(--audio-red-hover);
   border-color: var(--audio-red-hover);
-  color: #fff;
+  color: var(--audio-icon);
 }
 .play-button svg.lucide-play {
   margin-left: 3px;
@@ -784,6 +800,7 @@ textarea::placeholder {
   border: 0;
   color: var(--text);
   outline: 0;
+  background: var(--audio-paper);
 }
 .playback > .icon-button {
   width: 26px;
@@ -1554,7 +1571,7 @@ textarea::placeholder {
   border: 1px solid #86b1c8;
   border-radius: 6px;
   box-shadow: 0 4px 16px #324c6333;
-  background: var(--paper);
+  background: var(--popover-paper);
   min-width: 172px;
   overflow: hidden;
 }
@@ -1566,7 +1583,7 @@ textarea::placeholder {
   padding: 10px 12px;
   font-size: 12px;
   border-bottom: 1px solid var(--line);
-  color: #60829b;
+  color: var(--popover-text);
 }
 .word-popover button:last-child {
   border: 0;
@@ -1833,52 +1850,73 @@ textarea::placeholder {
 }
 :root[data-theme="dark"] {
   --vocab-text: var(--text);
-  --paper: #181a1d;
-  --surface: #24262a;
-  --text: #c2c6cb;
-  --muted: #858c94;
-  --line: #373a40;
-  --blue: #79b2d8;
+  --paper: #000;
+  --surface: #262626;
+  --text: #c2c2c2;
+  --muted: #999;
+  --line: #363636;
+  --toolbar-line: var(--line);
+  --audio-line: var(--line);
+  --cover-line: var(--line);
+  --blue: #55a4df;
   --red: #f07480;
   --teal: #6dc5ae;
-  --selected: #263b49;
+  --selected: #333;
   --overlay: #0009;
-  --audio-track: #56585b;
-  --audio-tint: #3a1921;
+  --audio-red: #55a4df;
+  --audio-red-hover: #78b9e8;
+  --audio-track: #555;
+  --audio-tint: #293b49;
+  --audio-paper: #282828;
+  --audio-icon: #282828;
+  --translation-text: #8bb2cf;
+  --pinyin-text: #999;
+  --word-hover: #385976;
+  --word-hover-text: #e0e0e0;
+  --selected-pinyin: var(--blue);
+  --word-speaking: #333;
+  --word-speaking-text: var(--text);
+  --sentence-speaking: #1b1b1b;
+  --grammar-mark: #ffffff08;
+  --popover-paper: #4185b7;
+  --popover-text: #fff;
   color-scheme: dark;
   background: var(--paper);
   color: var(--text);
 }
-:root[data-theme="dark"] .word:hover,
-:root[data-theme="dark"] .word.selected {
-  background: #284151;
-  color: #8dcaec;
-}
-:root[data-theme="dark"] .word.speaking {
-  background: #365c53;
-  color: #b4e8d9;
-}
-:root[data-theme="dark"] .show-grammar .grammar-word {
-  box-shadow: inset 0 -6px #53736744;
-}
-:root[data-theme="dark"] .lesson-cover {
-  border-color: var(--line);
-}
 @media (prefers-color-scheme: dark) {
   :root[data-theme="system"] {
     --vocab-text: var(--text);
-    --paper: #181a1d;
-    --surface: #24262a;
-    --text: #c2c6cb;
-    --muted: #858c94;
-    --line: #373a40;
-    --blue: #79b2d8;
+    --paper: #000;
+    --surface: #262626;
+    --text: #c2c2c2;
+    --muted: #999;
+    --line: #363636;
+    --toolbar-line: var(--line);
+    --audio-line: var(--line);
+    --cover-line: var(--line);
+    --blue: #55a4df;
     --red: #f07480;
     --teal: #6dc5ae;
-    --selected: #263b49;
+    --selected: #333;
     --overlay: #0009;
-    --audio-track: #56585b;
-    --audio-tint: #3a1921;
+    --audio-red: #55a4df;
+    --audio-red-hover: #78b9e8;
+    --audio-track: #555;
+    --audio-tint: #293b49;
+    --audio-paper: #282828;
+    --audio-icon: #282828;
+    --translation-text: #8bb2cf;
+    --pinyin-text: #999;
+    --word-hover: #385976;
+    --word-hover-text: #e0e0e0;
+    --selected-pinyin: var(--blue);
+    --word-speaking: #333;
+    --word-speaking-text: var(--text);
+    --sentence-speaking: #1b1b1b;
+    --grammar-mark: #ffffff08;
+    --popover-paper: #4185b7;
+    --popover-text: #fff;
     color-scheme: dark;
     background: var(--paper);
     color: var(--text);
@@ -2140,10 +2178,10 @@ textarea::placeholder {
     padding: 9px 13px;
     min-height: 84px;
     gap: 10px;
-    grid-template-columns: 1fr auto auto;
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
   }
   .audio-lesson {
-    max-width: 155px;
+    max-width: 100%;
   }
   .audio-lesson strong {
     font-size: 10px;
@@ -2166,7 +2204,23 @@ textarea::placeholder {
     min-width: 22px;
   }
   .playback {
+    display: grid;
+    grid-template-columns: 45px 43px 45px;
     gap: 3px;
+  }
+  .playback .play-button {
+    grid-column: 2;
+    grid-row: 1;
+  }
+  .playback .speed-select {
+    grid-column: 1;
+    grid-row: 1;
+    width: 100%;
+    margin-right: 0;
+  }
+  .playback > .icon-button:nth-child(4) {
+    grid-column: 3;
+    grid-row: 1;
   }
   .play-button {
     width: 43px;
@@ -2342,7 +2396,7 @@ textarea::placeholder {
     font-size: 9px;
   }
   .audio-lesson {
-    max-width: 115px;
+    max-width: 100%;
   }
   .audio-lesson .eyebrow {
     font-size: 7px;
@@ -2352,6 +2406,9 @@ textarea::placeholder {
   }
   .speed-select {
     width: 40px;
+  }
+  .playback {
+    grid-template-columns: 40px 43px 40px;
   }
   .display-controls {
     gap: 7px;
@@ -2436,5 +2493,16 @@ textarea::placeholder {
 @media (max-width: 700px) {
   .meaning-tray {
     top: 51px;
+  }
+  /* Underline the ruby base so the level mark follows the characters, not pinyin. */
+  .show-hsk .word::after {
+    content: none;
+  }
+  .show-hsk .word-text {
+    text-decoration-line: underline;
+    text-decoration-color: var(--level-color);
+    text-decoration-thickness: 2px;
+    text-underline-offset: 0.18em;
+    text-decoration-skip-ink: none;
   }
 }
