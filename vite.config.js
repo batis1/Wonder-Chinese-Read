@@ -7,6 +7,12 @@ export default defineConfig(({ mode }) => ({
   plugins: [
     react(),
     {
+      name: "preload-course-catalog",
+      transformIndexHtml() {
+        return mode === "hosted" ? [{ tag: "link", attrs: { rel: "preload", href: "/courses/catalog.json", as: "fetch", crossorigin: "anonymous" }, injectTo: "head" }] : [];
+      },
+    },
+    {
       name: "precompress-assets",
       closeBundle() {
         compressBuild(path.resolve("dist"));

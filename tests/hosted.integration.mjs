@@ -26,7 +26,11 @@ test("hosted course reader serves every lesson, cached translation, and static r
       assert.equal(png.toString("ascii", 12, 16), "IHDR");
       assert.equal(`${png.readUInt32BE(16)}x${png.readUInt32BE(20)}`, icon.sizes);
     }
-    const catalog = await (await fetch(`${base}/api/catalog`)).json();
+    const catalogResponse = await fetch(`${base}/api/catalog`);
+    assert.equal(catalogResponse.headers.get("cache-control"), "public, max-age=0, must-revalidate");
+    assert.match(catalogResponse.headers.get("vercel-cdn-cache-control"), /s-maxage=86400/);
+    const catalog = await catalogResponse.json();
+    assert.deepEqual(await (await fetch(`${base}/courses/catalog.json`)).json(), catalog);
     assert.equal(catalog.length, 36);
     assert.ok(catalog.every((lesson) => lesson.id.startsWith("course-")));
     let total = 0;
@@ -34,6 +38,8 @@ test("hosted course reader serves every lesson, cached translation, and static r
       const response = await fetch(`${base}/api/lessons/${id}`);
       assert.equal(response.status, 200);
       const lesson = await response.json();
+      assert.deepEqual(await (await fetch(`${base}/courses/lessons/${id}.json`)).json(), lesson);
+      assert.ok(lesson.readerGrammar.length);
       assert.equal(lesson.audio, undefined);
       assert.equal(lesson.grammarSource, undefined);
       assert.ok(lesson.courseVocabulary.length > 0);
@@ -47,6 +53,8 @@ test("hosted course reader serves every lesson, cached translation, and static r
       assert.equal(audio.status, 206);
       assert.equal((await audio.arrayBuffer()).byteLength, 1024);
       assert.equal((await fetch(`${base}/api/course-notes/${id}`)).status, 200);
+      const notes = await (await fetch(`${base}/api/course-notes/${id}`)).json();
+      assert.deepEqual(await (await fetch(`${base}/courses/course-notes/${id}.json`)).json(), notes);
     }
     assert.equal(total, 699);
     const word = await (await fetch(`${base}/api/dictionary?word=${encodeURIComponent("从前")}`)).json();

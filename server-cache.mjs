@@ -2,12 +2,13 @@ import fs from "node:fs";
 import { createHash } from "node:crypto";
 import { gzipSync } from "node:zlib";
 
-export function createFileSnapshots(limit = 100) {
+export function createFileSnapshots(limit = 100, { immutable = false } = {}) {
   const cache = new Map();
   return (file) => {
+    const existing = cache.get(file);
+    if (immutable && existing) return existing;
     const stat = fs.statSync(file);
     const version = `${stat.mtimeMs}-${stat.size}`;
-    const existing = cache.get(file);
     if (existing?.version === version) return existing;
     const snapshot = {
       version,
@@ -20,7 +21,7 @@ export function createFileSnapshots(limit = 100) {
   };
 }
 
-export function createJsonResponses(limit = 240) {
+export function createJsonResponses(limit = 240, { publicCache = false } = {}) {
   const cache = new Map();
   return (req, res, key, makeValue) => {
     let entry = cache.get(key);
@@ -39,10 +40,11 @@ export function createJsonResponses(limit = 240) {
     }
     res.set({
       "Content-Type": "application/json; charset=utf-8",
-      "Cache-Control": "private, no-cache",
+      "Cache-Control": publicCache ? "public, max-age=0, must-revalidate" : "private, no-cache",
       ETag: entry.etag,
       Vary: "Accept-Encoding",
     });
+    if (publicCache) res.set("Vercel-CDN-Cache-Control", "public, s-maxage=86400, stale-while-revalidate=604800");
     if (req.get("if-none-match") === entry.etag) return res.status(304).end();
     const gzip = entry.gzip && req.acceptsEncodings("gzip");
     if (gzip) res.set("Content-Encoding", "gzip");
@@ -50,20 +52,30 @@ export function createJsonResponses(limit = 240) {
   };
 }
 
+const vocabularyLevels = new WeakMap();
 export function buildVocabularyIndex(vocabulary, dictionary) {
-  return Object.entries(vocabulary).map(([word, value]) => {
+  const levels = new Map();
+  const index = Object.entries(vocabulary).map(([word, value]) => {
     const definitions = dictionary[word]?.definitions || [];
-    return {
+    const row = {
       word,
       ...value,
       meaning: definitions.slice(0, 3).join("; "),
       search: definitions.join(" ").toLowerCase(),
     };
+    if (!levels.has(row.level)) levels.set(row.level, []);
+    levels.get(row.level).push(row);
+    return row;
   });
+  vocabularyLevels.set(index, levels);
+  return index;
 }
 
 export function searchVocabulary(index, query, level, page) {
-  const rows = index.filter(
+  const candidates = level && vocabularyLevels.has(index)
+    ? vocabularyLevels.get(index).get(level) || []
+    : index;
+  const rows = !query && (!level || vocabularyLevels.has(index)) ? candidates : candidates.filter(
     (row) =>
       (!level || row.level === level) && (!query || row.word.includes(query) || row.pinyin.includes(query) || row.search.includes(query)),
   );

@@ -9,7 +9,6 @@ export function useAudioTracking({
   follow,
   blocked,
   onSentence,
-  search,
 }) {
   useEffect(() => {
     if (!enabled || !index.timed.length) return;
@@ -20,6 +19,7 @@ export function useAudioTracking({
     let highlighted;
     let sentenceKey;
     let lastScroll = 0;
+    let wasPlaying;
     const passage = document.querySelector(".passage");
     const events = ["timeupdate", "seeking", "seeked", "ratechange", "play", "playing", "pause", "ended"];
     const reducedMotion = matchMedia(
@@ -29,7 +29,7 @@ export function useAudioTracking({
       clearTimeout(timer);
       cancelAnimationFrame(frame);
       const seconds = media.currentTime || 0;
-      passage?.classList.toggle("audio-playing", !media.paused && !media.ended);
+      const isPlaying = !media.paused && !media.ended;
       const token = findTimedToken(index, seconds);
       const element = token
         ? document.getElementById(`word-${token.key}`)
@@ -51,19 +51,20 @@ export function useAudioTracking({
           });
         }
       }
+      if (isPlaying !== wasPlaying) {
+        passage?.classList.toggle("audio-playing", isPlaying);
+        wasPlaying = isPlaying;
+      }
       if (token && token.sentence.key !== sentenceKey) {
         sentenceKey = token.sentence.key;
         onSentence(sentenceKey);
       }
-      if (playing && !media.paused && !document.hidden) {
+      if (playing && isPlaying && !document.hidden && media.readyState >= 3) {
         const boundary = nextTimingBoundary(index, seconds);
         if (boundary != null) {
-          const delay = Math.min(
-            250,
-            Math.max(
-              8,
-              ((boundary - seconds) * 1000) / (media.playbackRate || 1),
-            ),
+          const delay = Math.max(
+            8,
+            ((boundary - seconds) * 1000) / (media.playbackRate || 1),
           );
           timer = setTimeout(() => {
             frame = requestAnimationFrame(update);
@@ -90,5 +91,5 @@ export function useAudioTracking({
       highlighted?.classList.remove("speaking");
       passage?.classList.remove("audio-playing");
     };
-  }, [audio, index, playing, enabled, follow, blocked, onSentence, search]);
+  }, [audio, index, playing, enabled, follow, blocked, onSentence]);
 }

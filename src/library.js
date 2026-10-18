@@ -1,4 +1,5 @@
 export const HSK_LEVELS = [1, 2, 3, 4, 5, 6, 7];
+const searchText = new WeakMap();
 
 export function lessonLevel(lesson) {
   const level = Number(lesson.hskLevel);
@@ -27,19 +28,24 @@ export function filterLessons(
     if (levels.length && !levels.includes(lessonLevel(lesson))) return false;
     if (hideRead && completed.includes(lesson.id)) return false;
     if (volume !== "all" && lesson.volume !== volume) return false;
-    const searchable = [
-      lesson.title,
-      lesson.english,
-      lesson.number,
-      lesson.number ? String(lesson.number).padStart(2, "0") : "",
-      lessonLevel(lesson)
-        ? `HSK ${lessonLevel(lesson) === 7 ? "7–9" : lessonLevel(lesson)}`
-        : "",
-      lesson.volume,
-    ]
-      .join(" ")
-      .normalize("NFKC")
-      .toLocaleLowerCase();
+    if (!terms.length) return true;
+    let searchable = searchText.get(lesson);
+    if (searchable === undefined) {
+      searchable = [
+        lesson.title,
+        lesson.english,
+        lesson.number,
+        lesson.number ? String(lesson.number).padStart(2, "0") : "",
+        lessonLevel(lesson)
+          ? `HSK ${lessonLevel(lesson) === 7 ? "7–9" : lessonLevel(lesson)}`
+          : "",
+        lesson.volume,
+      ]
+        .join(" ")
+        .normalize("NFKC")
+        .toLocaleLowerCase();
+      searchText.set(lesson, searchable);
+    }
     return terms.every((term) => searchable.includes(term));
   });
 }

@@ -21,7 +21,6 @@ export const PassageText = memo(function PassageText({
   grammar,
   fontFamily,
   fontSize,
-  search,
   onPick,
 }) {
   const hoverTimer = useRef(null);
@@ -71,7 +70,7 @@ export const PassageText = memo(function PassageText({
                   <button
                     id={`word-${token.key}`}
                     key={token.key}
-                    className={`word level-${token.level || 0} ${search && token.text.includes(search) ? "search-hit" : ""} ${token.hasGrammar ? "grammar-word" : ""}`}
+                    className={`word level-${token.level || 0} ${token.hasGrammar ? "grammar-word" : ""}`}
                     data-token={token.key}
                     data-start={token.start}
                     data-word={token.text}
@@ -118,8 +117,21 @@ export function PassageHighlights({
   playing,
   model,
   search,
+  searchMatches,
 }) {
   const previous = useRef({});
+  const hits = useRef({ model: null, keys: new Set() });
+  useLayoutEffect(() => {
+    const keys = new Set(searchMatches.map((token) => token.key));
+    const changedModel = hits.current.model !== model;
+    for (const key of hits.current.keys)
+      if (changedModel || !keys.has(key))
+        document.getElementById(`word-${key}`)?.classList.remove("search-hit");
+    for (const key of keys)
+      if (changedModel || !hits.current.keys.has(key))
+        document.getElementById(`word-${key}`)?.classList.add("search-hit");
+    hits.current = { model, keys };
+  }, [model, searchMatches]);
   useLayoutEffect(() => {
     const next = {
       selected: selectedKey ? `word-${selectedKey}` : null,

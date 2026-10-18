@@ -3,13 +3,14 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { createFileSnapshots, createJsonResponses, buildVocabularyIndex, searchVocabulary } from "./server-cache.mjs";
+import { preparedCourseLesson } from "./reader-data.mjs";
 
 const root = path.dirname(fileURLToPath(import.meta.url));
 
 export function createHostedApp(dataDirectory = path.join(root, "data")) {
   const app = express();
-  const snapshot = createFileSnapshots();
-  const sendJson = createJsonResponses();
+  const snapshot = createFileSnapshots(100, { immutable: true });
+  const sendJson = createJsonResponses(240, { publicCache: true });
   const read = (file) => snapshot(path.join(dataDirectory, file));
   const validCourse = (id) => /^course-(0[1-9]|[12]\d|3[0-6])$/.test(id);
   let dictionary, vocabulary, vocabularyIndex;
@@ -27,12 +28,7 @@ export function createHostedApp(dataDirectory = path.join(root, "data")) {
     const words = read(`course-vocabulary/${req.params.id}.json`);
     const recordings = read("course-audio.json");
     sendJson(req, res, `lesson:${req.params.id}:${source.version}:${translations.version}:${words.version}:${recordings.version}`, () => {
-      const { audio, grammarSource, ...lesson } = source.value;
-      const cached = {};
-      for (const paragraph of lesson.paragraphs) for (const sentence of paragraph.sentences) {
-        if (translations.value[sentence.text]) cached[sentence.text] = translations.value[sentence.text];
-      }
-      return { ...lesson, courseVocabulary: words.value.words, translations: cached, audioUrl: recordings.value[lesson.id].url };
+      return preparedCourseLesson(source.value, words.value.words, translations.value, recordings.value[source.value.id].url);
     });
   });
   app.get("/api/course-notes/:id", (req, res) => {

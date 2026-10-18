@@ -2,6 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { createHash } from "node:crypto";
+import { preparedCourseLesson } from "../reader-data.mjs";
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const data = path.join(root, "data");
@@ -41,4 +42,16 @@ for (const { id } of catalog) {
 }
 fs.writeFileSync(courseCachePath, JSON.stringify(translations));
 fs.writeFileSync(path.join(data, "course-audio.json"), JSON.stringify(manifest, null, 2) + "\n");
+// Read-only course documents can be delivered by the CDN without a function call.
+const courses = path.join(output, "courses");
+fs.mkdirSync(path.join(courses, "lessons"), { recursive: true });
+fs.mkdirSync(path.join(courses, "course-notes"), { recursive: true });
+fs.writeFileSync(path.join(courses, "catalog.json"), JSON.stringify(catalog));
+for (const { id } of catalog) {
+  if (!/^course-(0[1-9]|[12]\d|3[0-6])$/.test(id)) throw new Error(`Unexpected hosted lesson: ${id}`);
+  const lesson = JSON.parse(fs.readFileSync(path.join(data, "lessons", `${id}.json`)));
+  const words = JSON.parse(fs.readFileSync(path.join(data, "course-vocabulary", `${id}.json`))).words;
+  fs.writeFileSync(path.join(courses, "lessons", `${id}.json`), JSON.stringify(preparedCourseLesson(lesson, words, translations, manifest[id].url)));
+  fs.copyFileSync(path.join(data, "course-notes", `${id}.json`), path.join(courses, "course-notes", `${id}.json`));
+}
 console.log(JSON.stringify({ lessons: catalog.length, courseSentences: Object.keys(translations).length, audioBytes: totalBytes }));

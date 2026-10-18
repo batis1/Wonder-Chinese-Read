@@ -42,7 +42,6 @@ import {
   Settings,
   Trash2,
 } from "lucide-react";
-import { grammarFor } from "./grammar";
 import LessonLibrary from "./LessonLibrary";
 import { BookPageReferences, CourseBookNote } from "./CourseBookNote";
 import { passageVocabulary } from "./lesson-vocabulary";
@@ -51,6 +50,7 @@ import { PassageText, PassageHighlights } from "./Passage";
 import { buildReaderModel, buildTimingIndex } from "./reader-model";
 import { useAudioTracking } from "./useAudioTracking";
 import { createMediaClock } from "./media-clock";
+import { createProgressStore } from "./progress-store";
 import { AudioProgress, AudioTime } from "./AudioProgress";
 import { coverImage } from "./cover-images";
 import {
@@ -64,6 +64,7 @@ import {
 } from "./resources";
 
 const localProcessing = !import.meta.env.VITE_HOSTED;
+const emptyGrammar = [];
 
 const defaults = {
   pinyin: "all",
@@ -203,8 +204,21 @@ function App() {
     [saved, setSaved] = useStored("words", {}),
     [savedLessons, setSavedLessons] = useStored("lessons", []),
     [completed, setCompleted] = useStored("completed", []),
-    [notes, setNotes] = useStored("notes", {}),
-    [progress, setProgress] = useStored("progress", {});
+    [notes, setNotes] = useStored("notes", {});
+  const [progress] = useState(() => createProgressStore(
+    stored("progress", {}),
+    (value) => localStorage.setItem("wonder:progress", JSON.stringify(value)),
+  ));
+  useEffect(() => {
+    const onHidden = () => { if (document.hidden) progress.flush(); };
+    window.addEventListener("pagehide", progress.flush);
+    document.addEventListener("visibilitychange", onHidden);
+    return () => {
+      window.removeEventListener("pagehide", progress.flush);
+      document.removeEventListener("visibilitychange", onHidden);
+      progress.flush();
+    };
+  }, [progress]);
   const [panel, setPanel] = useState(null),
     [libraryOpen, setLibraryOpen] = useState(
       () => !/^#(course-|import-)/.test(location.hash),
@@ -238,6 +252,9 @@ function App() {
     [vocabLevel, setVocabLevel] = useState(""),
     [vocabPage, setVocabPage] = useState(0),
     [vocabQuery, setVocabQuery] = useState("");
+  const vocabularyUrl = `/api/vocabulary?level=${vocabLevel}&q=${encodeURIComponent(vocabQuery)}&page=${vocabPage}`;
+  const warmVocabulary = () => api(vocabularyUrl).catch(() => {});
+  const savedWords = useMemo(() => Object.values(saved), [saved]);
   const [courseNotes, setCourseNotes] = useState(null);
   const [courseNotesError, setCourseNotesError] = useState("");
   const [courseNotesRetry, setCourseNotesRetry] = useState(0);
@@ -254,7 +271,7 @@ function App() {
     requestRef = useRef(0),
     fileInput = useRef(null),
     backupInput = useRef(null);
-  const grammar = useMemo(() => grammarFor(lesson), [lesson]);
+  const grammar = lesson?.readerGrammar || emptyGrammar;
   const readerModel = useMemo(
     () => buildReaderModel(lesson, grammar),
     [lesson, grammar],
@@ -270,22 +287,25 @@ function App() {
     follow: prefs.follow,
     blocked: Boolean(pop || panel || dictionary || grammarPoint),
     onSentence: setSentenceKey,
-    search,
   });
   const currentSentence =
     readerModel.bySentenceKey.get(sentenceKey) || sentences[0];
   const stats = useMemo(() => passageVocabulary(lesson, flat), [lesson, flat]);
+  const searchMatches = useMemo(
+    () => search ? flat.filter((token) => token.text.includes(search)) : [],
+    [flat, search],
+  );
   const flash = (text) => {
     setToast(text);
   };
-  const refreshCatalog = () => {
+  const refreshCatalog = useCallback(() => {
     setCatalogLoading(true);
     setCatalogError("");
-    return api("/api/catalog")
+    return api("/api/catalog", { fresh: true })
       .then(setCatalog)
       .catch((e) => setCatalogError(e.message))
       .finally(() => setCatalogLoading(false));
-  };
+  }, []);
   useEffect(() => {
     refreshCatalog();
   }, []);
@@ -305,6 +325,7 @@ function App() {
     };
   }, [id, needsCourseNotes, courseNotesRetry]);
   useEffect(() => {
+    if (libraryOpen || lesson?.id === id) return;
     let alive = true;
     audio.current?.pause();
     speechSynthesis.cancel();
@@ -343,7 +364,7 @@ function App() {
     return () => {
       alive = false;
     };
-  }, [id]);
+  }, [id, libraryOpen]);
   useEffect(() => {
     if (libraryOpen || !lesson) return;
     return whenIdle(() => {
@@ -419,17 +440,18 @@ function App() {
   }, [panel]);
   useEffect(() => {
     if (panel !== "vocabulary") return;
+    const url = `/api/vocabulary?level=${vocabLevel}&q=${encodeURIComponent(vocabQuery)}&page=${vocabPage}`;
+    const cached = peekResource(url);
+    if (cached) { setVocab(cached); return; }
     let alive = true;
     const timer = setTimeout(
       () =>
-        api(
-          `/api/vocabulary?level=${vocabLevel}&q=${encodeURIComponent(vocabQuery)}&page=${vocabPage}`,
-        )
+        api(url)
           .then((r) => {
             if (alive) setVocab(r);
           })
-          .catch((e) => flash(e.message)),
-      vocabQuery ? 80 : 0,
+          .catch((e) => { if (alive) flash(e.message); }),
+      vocabQuery ? 40 : 0,
     );
     return () => {
       alive = false;
@@ -461,14 +483,15 @@ function App() {
     return () => document.removeEventListener("pointerdown", close);
   }, [pop]);
   const updatePref = (key, value) => setPrefs((p) => ({ ...p, [key]: value }));
-  const go = (next) => {
+  const go = useCallback((next) => {
     setId(next);
     setLibraryOpen(false);
     location.hash = next;
     setPanel(null);
     setGrammarPoint(null);
     window.scrollTo(0, 0);
-  };
+  }, []);
+  const openImport = useCallback(() => setPanel("import"), []);
   const openLibrary = (volume = "all") => {
     setLibraryVolume(volume);
     setLibraryOpen(true);
@@ -606,7 +629,7 @@ function App() {
           sentence: undefined,
           grammarMatches: undefined,
           lessonId: id,
-          lessonTitle: lesson.title,
+          lessonTitle: lesson?.title || catalog.find((item) => item.id === id)?.title || "",
           savedAt: Date.now(),
         };
       return next;
@@ -660,7 +683,7 @@ function App() {
             savedLessons,
             completed,
             notes,
-            progress,
+            progress: progress.get(),
             prefs,
           },
           null,
@@ -685,7 +708,7 @@ function App() {
       setSavedLessons((s) => [...new Set([...s, ...(v.savedLessons || [])])]);
       setCompleted((s) => [...new Set([...s, ...(v.completed || [])])]);
       setNotes((s) => ({ ...s, ...(v.notes || {}) }));
-      setProgress((s) => ({ ...s, ...(v.progress || {}) }));
+      progress.set((s) => ({ ...s, ...(v.progress || {}) }));
       setPrefs({ ...defaults, ...v.prefs });
       flash("Study data restored.");
     } catch (e) {
@@ -740,7 +763,14 @@ function App() {
             <button
               aria-label="HSK 3.0 vocabulary"
               title="HSK 3.0 vocabulary"
-              onClick={() => setPanel("vocabulary")}
+              onPointerEnter={warmVocabulary}
+              onPointerDown={warmVocabulary}
+              onFocus={warmVocabulary}
+              onClick={() => {
+                const cached = peekResource(vocabularyUrl);
+                if (cached) setVocab(cached);
+                setPanel("vocabulary");
+              }}
             >
               <GraduationCap size={17} />
               <span>HSK 3.0</span>
@@ -752,7 +782,7 @@ function App() {
             >
               <Bookmark size={16} />
               <span>
-                Saved <small>{Object.keys(saved).length}</small>
+                Saved <small>{savedWords.length}</small>
               </span>
             </button>
             {localProcessing && <button
@@ -780,7 +810,7 @@ function App() {
           loading={catalogLoading}
           error={catalogError}
           onRetry={refreshCatalog}
-          onAdd={localProcessing ? () => setPanel("import") : undefined}
+          onAdd={localProcessing ? openImport : undefined}
         />
       ) : loading ? (
         <main className="loading">
@@ -982,9 +1012,7 @@ function App() {
                       onChange={(e) => setSearch(e.target.value)}
                     />
                     <span>
-                      {search
-                        ? flat.filter((t) => t.text.includes(search)).length
-                        : 0}{" "}
+                      {searchMatches.length}{" "}
                       matches
                     </span>
                     <IconButton
@@ -1012,7 +1040,6 @@ function App() {
                   grammar={prefs.grammar}
                   fontFamily={prefs.fontFamily}
                   fontSize={prefs.fontSize}
-                  search={search}
                   onPick={pick}
                 />
                 <PassageHighlights
@@ -1021,6 +1048,7 @@ function App() {
                   playing={playing}
                   model={readerModel}
                   search={search}
+                  searchMatches={searchMatches}
                 />
                 <div className="reader-end">
                   <button
@@ -1238,10 +1266,10 @@ function App() {
             element.muted = muted;
             setDuration(element.duration);
             if (
-              progress[id]?.seconds &&
-              progress[id].seconds < element.duration - 2
+              progress.get()[id]?.seconds &&
+              progress.get()[id].seconds < element.duration - 2
             )
-              element.currentTime = progress[id].seconds;
+              element.currentTime = progress.get()[id].seconds;
           }}
           onPlay={() => setPlaying(true)}
           onPause={() => setPlaying(false)}
@@ -1266,7 +1294,7 @@ function App() {
               seek(currentSentence.start, true);
             if (Date.now() - lastProgress.current > 4000) {
               lastProgress.current = Date.now();
-              setProgress((previous) => ({
+              progress.set((previous) => ({
                 ...previous,
                 [id]: { seconds: element.currentTime, updated: Date.now() },
               }));
@@ -1636,7 +1664,7 @@ function App() {
               className={tab !== "saved-lessons" ? "active" : ""}
               onClick={() => setTab("saved-words")}
             >
-              Words · {Object.keys(saved).length}
+              Words · {savedWords.length}
             </button>
             <button
               className={tab === "saved-lessons" ? "active" : ""}
@@ -1669,7 +1697,7 @@ function App() {
             </div>
           ) : (
             <div className="vocab-list">
-              {Object.values(saved).map((t) => (
+              {savedWords.map((t) => (
                 <div className="vocab-row" key={t.text}>
                   <button
                     className="vocab-word"
@@ -1692,7 +1720,7 @@ function App() {
                   />
                 </div>
               ))}
-              {!Object.keys(saved).length && (
+              {!savedWords.length && (
                 <p className="empty">No saved words yet.</p>
               )}
             </div>

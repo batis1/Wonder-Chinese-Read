@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react";
+import React, { memo, useMemo, useState } from "react";
 import {
   BookOpen,
   Bookmark,
@@ -18,7 +18,7 @@ import { coverImage } from "./cover-images";
 
 const levelLabel = (level) => `HSK ${level === 7 ? "7–9" : level}`;
 
-export default function LessonLibrary({
+export default memo(function LessonLibrary({
   catalog,
   completed,
   savedLessons,
@@ -54,6 +54,7 @@ export default function LessonLibrary({
           className={`catalog-card catalog-level-${level || 0}`}
           href={`#${lesson.id}`}
           onPointerEnter={() => prefetchLesson(lesson.id)}
+          onPointerDown={() => prefetchLesson(lesson.id)}
           onFocus={() => prefetchLesson(lesson.id)}
           onClick={(e) => {
             e.preventDefault();
@@ -258,4 +259,4 @@ export default function LessonLibrary({
       )}
     </main>
   );
-}
+});

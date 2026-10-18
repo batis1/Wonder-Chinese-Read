@@ -8,6 +8,7 @@ import { randomUUID } from "node:crypto";
 import { spawn } from "node:child_process";
 import { createInterface } from "node:readline";
 import { compressedAssets } from "./server-static.mjs";
+import { readerGrammar } from "./reader-data.mjs";
 import {
   createFileSnapshots,
   createJsonResponses,
@@ -222,6 +223,7 @@ app.get("/api/lessons/:id", (req, res) => {
           ? { courseVocabulary: courseVocabulary.value.words }
           : {}),
         translations: cached,
+        readerGrammar: readerGrammar(lesson),
         audioUrl: lesson.audio
           ? `/audio/${lesson.id}?v=${audioVersion.mtimeMs}-${audioVersion.size}`
           : null,

@@ -1510,6 +1510,8 @@ textarea::placeholder {
 }
 .vocab-row {
   display: grid;
+  content-visibility: auto;
+  contain-intrinsic-block-size: auto 72px;
   grid-template-columns: 130px 1fr auto 32px;
   align-items: center;
   gap: 15px;
