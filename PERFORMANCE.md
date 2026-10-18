@@ -94,7 +94,7 @@ Full vocabulary text search still scans matching candidates; its measured cost s
 
 ## Loading and interaction changes
 
-- Hosted JavaScript fell from approximately 98.77 KB to 89.84 KB gzipped, a 9% reduction. Grammar preparation now happens once on the server or during the hosted build.
+- Hosted JavaScript fell from approximately 98.77 KB to 89.90 KB gzipped, a 9% reduction. Grammar preparation now happens once on the server or during the hosted build.
 - The prepared catalog is preloaded with the HTML. All 36 lessons and course notes are generated as public static JSON and served by the CDN. API compatibility remains available, with shared caching restricted to the read-only hosted server.
 - A fresh library view creates no audio element and does not load the last-opened lesson. Hover, focus, and touch intent still prefetch the selected lesson.
 - Playback progress uses an independent store and idle persistence, so saving progress no longer rerenders the reader every four seconds. Leaving or hiding the page flushes pending changes.
@@ -103,6 +103,7 @@ Full vocabulary text search still scans matching candidates; its measured cost s
 
 ## Verification
 
-- 28 unit and regression tests, plus the hosted integration test, passed.
+- 29 unit and regression tests, plus the hosted integration test, passed.
+- A requested word seek takes priority over saved playback progress if tapped before audio metadata arrives, including seeking to time zero.
 - Integration checks compare every static lesson and note document against its API response, validate app icons, and verify all 36 recordings support byte-range requests.
 - Browser checks covered fresh library loading, searching, vocabulary filtering and bookmarking, passage matches, word audio and moving highlights, speed changes, grammar details, dark mode, pronunciation toggles, mobile underlines and play-button centring, and returning to a lesson without losing its audio duration or progress.

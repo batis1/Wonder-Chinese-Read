@@ -1,4 +1,10 @@
 // Only clock subscribers update on timeupdate; the reader and open panels stay idle.
+export function initialAudioPosition(duration, saved, requested) {
+  if (!Number.isFinite(duration) || duration <= 0) return null;
+  if (Number.isFinite(requested)) return Math.max(0, Math.min(duration, requested));
+  return saved > 0 && saved < duration - 2 ? saved : null;
+}
+
 export function createMediaClock() {
   let seconds = 0;
   const listeners = new Set();

@@ -7,6 +7,18 @@ import { readerGrammar } from "../reader-data.mjs";
 import { grammarFor } from "../src/grammar.js";
 import { buildReaderModel } from "../src/reader-model.js";
 import { createFileSnapshots } from "../server-cache.mjs";
+import { initialAudioPosition } from "../src/media-clock.js";
+
+test("a word seek made during audio loading takes priority over saved playback progress", () => {
+  assert.equal(initialAudioPosition(200, 90, 12.5), 12.5);
+  assert.equal(initialAudioPosition(200, 90, 0), 0);
+  assert.equal(initialAudioPosition(200, 90, null), 90);
+  assert.equal(initialAudioPosition(200, 199, null), null);
+  assert.equal(initialAudioPosition(200, 90, 199), 199);
+  assert.equal(initialAudioPosition(200, 90, 300), 200);
+  assert.equal(initialAudioPosition(200, 90, -1), 0);
+  assert.equal(initialAudioPosition(NaN, 90, 10), null);
+});
 
 test("playback updates coalesce persistence and expose the latest progress without a render subscription", () => {
   const writes = [];

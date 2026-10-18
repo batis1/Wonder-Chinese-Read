@@ -49,7 +49,7 @@ import readMark from "./assets/read-mark.svg";
 import { PassageText, PassageHighlights } from "./Passage";
 import { buildReaderModel, buildTimingIndex } from "./reader-model";
 import { useAudioTracking } from "./useAudioTracking";
-import { createMediaClock } from "./media-clock";
+import { createMediaClock, initialAudioPosition } from "./media-clock";
 import { createProgressStore } from "./progress-store";
 import { AudioProgress, AudioTime } from "./AudioProgress";
 import { coverImage } from "./cover-images";
@@ -266,6 +266,7 @@ function App() {
     lesson?.number && (panel === "grammar" || grammarPoint),
   );
   const audio = useRef(null),
+    pendingSeek = useRef(null),
     reader = useRef(null),
     lastProgress = useRef(0),
     requestRef = useRef(0),
@@ -332,6 +333,7 @@ function App() {
     setPlaying(false);
     mediaClock.set(0);
     setDuration(0);
+    pendingSeek.current = null;
     const cached = peekResource(`/api/lessons/${id}`);
     setLoading(!cached);
     setLoadError("");
@@ -588,14 +590,16 @@ function App() {
   const seek = useCallback(
     (seconds, autoplay = false) => {
       if (!audio.current || !lesson?.audioUrl) return;
-      audio.current.currentTime = Math.max(
+      const target = Math.max(
         0,
         Math.min(
           Number.isFinite(duration) && duration > 0 ? duration : Infinity,
           seconds,
         ),
       );
-      mediaClock.set(audio.current.currentTime);
+      pendingSeek.current = audio.current.readyState === 0 ? target : null;
+      audio.current.currentTime = target;
+      mediaClock.set(target);
       if (autoplay)
         audio.current
           .play()
@@ -1265,11 +1269,10 @@ function App() {
             element.playbackRate = speed;
             element.muted = muted;
             setDuration(element.duration);
-            if (
-              progress.get()[id]?.seconds &&
-              progress.get()[id].seconds < element.duration - 2
-            )
-              element.currentTime = progress.get()[id].seconds;
+            const start = initialAudioPosition(element.duration, progress.get()[id]?.seconds, pendingSeek.current);
+            pendingSeek.current = null;
+            if (start !== null) element.currentTime = start;
+            mediaClock.set(element.currentTime);
           }}
           onPlay={() => setPlaying(true)}
           onPause={() => setPlaying(false)}
