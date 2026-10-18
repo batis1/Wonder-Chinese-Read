@@ -56,7 +56,7 @@ Textbook vocabulary lives in `data/course-vocabulary/`. Regenerate it with `pyth
 
 ## Reproduce the corpus
 
-The supplied PDFs/audio are inputs, not generated files. Install Node and Python dependencies (`npm ci`, `python -m pip install -r requirements.txt`) and FFmpeg. Initial model/source downloads need internet access.
+The supplied PDFs/audio are inputs, not generated files. Install Node and local Python dependencies (`npm ci`, `python -m pip install -r scripts/requirements.txt`) and FFmpeg. Initial model/source downloads need internet access. Python requirements are kept under `scripts/` so the Vercel course build does not install processing models.
 
 1. Place the official syllabus at `data/sources/hsk-2025.pdf` and the CC-CEDICT archive at `data/sources/cedict.txt.gz`.
 2. Run `python scripts/prepare.py --ocr`, then `python scripts/clean_corpus.py` and `python scripts/prepare.py --annotate-only`.
